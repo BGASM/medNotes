@@ -1,0 +1,51 @@
+Neisseria:
+        General:
+                                                - Gram negative, pyogenic  diplococci. Oxidase positive, catalase positive. Facultative, intracellular and strictly human pathogens.
+                                                - Two pathogenic genus - gonorrhea and meningitidis
+
+        Shared Virulence Factors:           
+                                                - Strictly Human reservoir
+                                                - Colonize mucosal cells
+                                                - Pili for adherence
+                                                - Opa proteins for invasion
+                                                - Utilize Porin proteins (Por B or PorA/PorB)
+                                                - Transferrin-, Lactoferrin- binding proteins to steal iron
+                                                - Toxic LOS
+                                                - IgA protease
+                                                - Beta-lactamase
+                                                - Rmp to block Antibodies
+        Pathogenesis:
+                                                - Attachment to non-ciliated mucosal epithelial cells via Pili, Opa, LOS, Porins and multiply
+                                                - Invade cells
+                                                - LOS causes damage to epithelium which causes sloughing off and acute inflammatory response
+                                                - Can survive inside neutrophils because they can resist ROS
+        Gonorrhoeae:    
+            Disease:                            
+                                                - Gonorrhea 
+                                                - Septic arthritis
+                                                - Pelvic inflammatory disease
+                                                - Perihepatitis
+                                                - Septicemia
+        Meningitidis:   
+            Disease:                            
+                                                - Meningitis
+                                                - Septicemia (meningococcemia)
+                                                - Pneumonia
+                                                - Arthritis 
+                                                - Urethritis
+            Virulence Factors:                  
+                                                - Encapsulated
+        Shared:
+                Treatment:      
+                    - Gonorrhea:         Ceftrixaone plus azithromycin
+                    - Meningitidis:      
+                                        - Ceftriazone or ceftotaxime
+                                        - Fluoroquinolones phrophylactically
+
+
+        Labs:       
+                    - Use selective media:
+                        - Meningititids will only grow on blood agar
+                        - Gonorrhoeae will only grow on chocolate agar
+                    - Gonorrhoeae will produce acid from Glucose oxidation
+                    - Meningitidis will produce acid from Maltose oxidation
