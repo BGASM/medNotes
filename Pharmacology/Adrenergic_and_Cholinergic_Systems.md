@@ -70,10 +70,10 @@
 
 |       |Ligands of Adrenoceptors                                                                                                                                                                    |      |   |
 |-------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------|---|
-| Alpha1|Postsynaptic effector cells, especially smooth muscle                                                                                                                                       |Norepi|Epi|
-| Alpha2|Presynaptic adrenergic nerve terminals, platelets, lipocytes, smooth muscle                                                                                                                 |Norepi|Epi|
-| Beta1 |Postsynaptic effector cells, especially heart, lipocytes, brain; presynaptic adrenergic and cholinergic nerve terminals, juxtaglomerular apparatus of renal tubules, ciliary body epithelium|Norepi|Epi|
-| Beta2 |Postsynaptic effector cells, especially smooth muscle and cardiac muscle                                                                                                                    |      |Epi|
+| Alpha1|Vasoconstriction, ↑ TPR, BP, Myadriasis, Bladder closes.                                                                                                                                    |Norepi|Epi|
+| Alpha2|Presynaptic adrenergic nerve terminals. ↓ Norepi release, ACh release, Insulin release                                                                                                                 |Norepi|Epi|
+| Beta1 |Postsynaptic effector cells, Tachycardia, ↑ Lipolysis, myocardial contractility, renin release|Norepi|Epi|
+| Beta2 |Postsynaptic effector cells, Vasodilation, ↓ TPR, ↑ glucagon, ↓ relax uterine muscle muscle                                                                                                                    |      |Epi|
 | Beta3 |Postsynaptic effector cells, especially lipocytes; heart                                                                                                                                    |Norepi|   |
 
 
