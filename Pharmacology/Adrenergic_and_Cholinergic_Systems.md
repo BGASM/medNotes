@@ -1,6 +1,7 @@
 [TOC]
 
-## Peripheral Nervous System
+___________________________
+### Peripheral Nervous System
 ----------------------------
 ### Describe the organization
 - Pre and postganglionic neurons
@@ -16,11 +17,13 @@
 - Parasympathetic is craniosacral > Effector or Vagal Nerve > Sacral > Effector
 
 ### Cite primary neurotransmitters
+-----------------------------------------
 - ACh is neurotransmitter released by all neurons whose axons exit the CNS.
     - cranial motor neurons, α-motor neurons, γ-motor neurons, preganglionic sympathetic neurons, and preganglionic parasympathetic neurons
 - Post-gang parasympathetic neurons also release acetylcholine 
 - Post-gang sympathetic neurons release either norepinephrine, epinephrine or acetylcholine.
 ### The cholinergic autonomic neurons (ie, release acetylcholine) are 
+-----------------------
 1. All pregang neurons
 2. All parasympathetic postgang neurons
 3. Sympathetic postgang neurons innervate sweat glands
@@ -29,6 +32,7 @@
 - Adrenal medulla is essentially a sympathetic ganglion in which the postgang cells have lost their axons and secrete both **norepinephrine** and **epinephrine** directly into the bloodstream.
 
 ### Describe synthesis, metabolism, storage, and termination of action of those neurotransmitters
+-------------------------------
 1. Neurotransmitters are synthesized
 2. Stored in the nerve endings
 3. Released near the neurons, muscle cells, or gland cells
@@ -36,12 +40,9 @@
 5. Initiate their characteristic actions. 
 6. The neurotransmitters are then removed from the area by reuptake or metabolism. 
 - Each of these steps can be stimulated or inhibited, with predictable consequences.
-.  
-.  
-.  
-.  
-## List respective receptors and subtypes. Describe the main transduction mechanisms and when the receptors are stimulated.
----------------------------------------------------------------------------------------------------------------------------
+
+### List respective receptors and subtypes. Describe the main transduction mechanisms and when the receptors are stimulated.
+-----------------------------------
 ### Nicotinic
 - **ACh from postgang acting on Nicotinic Receptors**:  Causes a Na or K channel to open and depolarization. Nicotinic Receptors are ligand-gated ion channels. 
     - Nn receptors are in autonomic ganglia. Blocked by hexamethonium.
@@ -73,7 +74,7 @@
     - Binding  β → Gs → adenylyl cyclase ↑↑↑↑ cAMP.
 - Horner syndrome is a result of dysfunctional sympathetic innervation.
     - Anhidrosis (reduced sweating), ptosis (drooping eyelid), and miosis (constricted pupil). Also enophthalmos (sunken eyeball) and vasodilation.
-
+_____________________________
 
 |       |Ligands of Adrenoceptors                                                                                                                                                                    |      |   |
 |-------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------|---|
@@ -83,13 +84,9 @@
 | Beta2 |Postsynaptic effector cells, Vasodilation, ↓ TPR, ↑ glucagon, ↓ relax uterine muscle muscle                                                                                                                    |      |Epi|
 | Beta3 |Postsynaptic effector cells, especially lipocytes; heart                                                                                                                                    |Norepi|   |{:.table class="table table-hover"}
 
-
-.  
-.  
-.  
-.  
-
+______________
 ### Associate target organs and physiological action when receptors are stimulated. Consider the affinities, when descrbing norephedrine and epinephrine.
+-----------------------------------------
 - Adrenergic neurons transport precusor amino acid tyrosine to the nerve ending, convert it to dopa, and then synthesize a catecholamine (dopamine, norepi, epi)
 - In most sympathetic postganglionic neurons, norepinephrine is the final product. 
 - In the adrenal medulla and certain areas of the brain, some norepinephrine is further converted to epinephrine. In dopaminergic neurons, synthesis terminates with dopamine.
@@ -124,15 +121,7 @@
         - Increase the activity of the intestinal musculature
         - Increase gastric secretion
         - Relax the pyloric sphincter
-
-.  
-.  
-.  
-.  
-.  
-
-
-### Central Nervous System
+------------------------
 ### List effects triggered by ACh and catecholamines (NE, DA), acting on the CNS.
 
 ### End of Chapter Notes:

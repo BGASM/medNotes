@@ -1,5 +1,5 @@
-
-# Indirect Adrenergic Mimicking drugs
+[TOC]
+### Indirect Adrenergic Mimicking drugs
 ----------------------------------------------------------------
     > Enzyme inhbitors: MAO, COMT, DD (dopamine decarboxylase)
         - MAO:
@@ -23,7 +23,7 @@
             - Nortiptyline
     > Releasing agent:
         - Tyramine: Not a drug, but does interfere.
-## MAO Inhibitors - Phenelzine and Selegiline
+### MAO Inhibitors - Phenelzine and Selegiline
 ----------------------------------------------------------------
     - When catecholamines and 5HT are taken up, they are inactivated by MAO or COMPT. (Tissue more COMPT, Nerve ending more MAO)
     - This takes place before storage of NT. They get inactivated before storage.
@@ -37,7 +37,7 @@
         > Therapeutic Use:
             - Depression: Phenelzine
             - Parkinson: Selegiline (disease with low levels of Dopa.) 
-## COMT Inhibitors - Entacapone, Levodopa, Cabidopa
+### COMT Inhibitors - Entacapone, Levodopa, Cabidopa
 ----------------------------------------------------------------
     > Dopamine is mostly made in CNS.
         - If dopamine is not stored it can be inactivated by COMT
@@ -61,7 +61,7 @@
         - Unable to cross BBB.
         - Can be combined with Levodopa again.
         - **Carbidopa + Levodopa is the Gold Standard for Parkinsons Disease**
-## Reuptake Inhibitors - NET: Amphetamine, Methamphetamine, Lisdexamphetamine, Dextroamphetamine
+### Reuptake Inhibitors - NET: Amphetamine, Methamphetamine, Lisdexamphetamine, Dextroamphetamine
 -------------------------------------------------------------------------------------------------
     > Amphetamine, Methamphetamine:
         - Liposoluble, good bioavailability, long duration of action.
@@ -80,7 +80,7 @@
         - Adverse:
             - CNS stimuli: jitters, **insomnia, anorexia**, seizures, hallucination, paranoia.
             - PNS: headace, **tachyarrhytmias, hypertension**/hypotension, sweating, nausea, diarrhea,
-## Reuptake Inhibitors - DAT and NET: Cocaine
+### Reuptake Inhibitors - DAT and NET: Cocaine
 ------------------------------------------------------------------------------------------------
     > Cocaine:
         - Penetrates BBB
@@ -95,7 +95,7 @@
             - Sudden death (**cardiac and respiratory arrest**). 
             - Non-fatal effects: **agitation, paranoia, tachycardia and hypertension**, seizures, angina pectoris/myocardial ischemia, and hyperthermia.
             - Repeated “snorting” can result in chronic rhinitis, cartilaginous necrosis, sinusitis, and **nose bleeds**.
-## Reuptake Inhibitors - NET and 5HT: IMIPRAMINE, DESIPRAMINE, AMITRIPTYLINE, NORTRIPTYLINE: Tricyclic Antidepressants (TCA)
+### Reuptake Inhibitors - NET and 5HT: IMIPRAMINE, DESIPRAMINE, AMITRIPTYLINE, NORTRIPTYLINE: Tricyclic Antidepressants (TCA)
 -----------------------------------------------------------------------------------------------------------------------------
     > Tricyclic Antidepressants (TCA)
         - Inhibit the Norepinephrine transporter at pre-synaptic terminals in the CNS
@@ -112,7 +112,7 @@
                 - Postural hypotension (orthostatic) due to A1-adrenergic antagonism.
                 - Atropine-like effects (antimuscarinic)
                 - Sinus tachycardia, urinary retnetion, dry **mouth** (due to antimuscarinic).
-## Releasing agent: Tyramine:
+### Releasing agent: Tyramine:
 -----------------------------
     > Not a drug, but plays a role in drug interaction.
         - Endogenous by-product of tyrosine metabolism. The amount of tyramine generated endogenously is not significant (only traces).
@@ -128,7 +128,7 @@
         - Our patient is on MAO inhibitors, so there is no enzyme available to degrade the excess NE.
     > **Can cause a hypertensive crisis.**
 
-## Mixed Adrenergic Mimicking Drugs
+### Mixed Adrenergic Mimicking Drugs
 -----------------------------------
     > Direct and Indirect, they are mixed:
         - Agonist on adrenergic causing release of NE and DA
@@ -159,10 +159,10 @@
         - Nasal decongestant
     > Adverse Effects:
         - Atrial fibrillation, reflex bradycardia, ventricular permature beats, hypertension, insomnia.
-## Summary of Therapeutic Uses of Indirect and Mixed
+### Summary of Therapeutic Uses of Indirect and Mixed
 
 
-# Notes
+### Notes
 > Heteroreceptor
     - Receptors that are stimulated by agents other than catecholamines
 > Autoreceptor
