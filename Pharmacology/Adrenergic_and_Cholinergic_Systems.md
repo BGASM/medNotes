@@ -1,4 +1,7 @@
-# Peripheral Nervous System
+[TOC]
+
+## Peripheral Nervous System
+----------------------------
 ### Describe the organization
 - Pre and postganglionic neurons
 - Cell bodies of pre-gang in spinal cord
@@ -33,8 +36,12 @@
 5. Initiate their characteristic actions. 
 6. The neurotransmitters are then removed from the area by reuptake or metabolism. 
 - Each of these steps can be stimulated or inhibited, with predictable consequences.
-
+.  
+.  
+.  
+.  
 ## List respective receptors and subtypes. Describe the main transduction mechanisms and when the receptors are stimulated.
+---------------------------------------------------------------------------------------------------------------------------
 ### Nicotinic
 - **ACh from postgang acting on Nicotinic Receptors**:  Causes a Na or K channel to open and depolarization. Nicotinic Receptors are ligand-gated ion channels. 
     - Nn receptors are in autonomic ganglia. Blocked by hexamethonium.
@@ -74,7 +81,7 @@
 | Alpha2|Presynaptic adrenergic nerve terminals. ↓ Norepi release, ACh release, Insulin release                                                                                                                 |Norepi|Epi|
 | Beta1 |Postsynaptic effector cells, Tachycardia, ↑ Lipolysis, myocardial contractility, renin release|Norepi|Epi|
 | Beta2 |Postsynaptic effector cells, Vasodilation, ↓ TPR, ↑ glucagon, ↓ relax uterine muscle muscle                                                                                                                    |      |Epi|
-| Beta3 |Postsynaptic effector cells, especially lipocytes; heart                                                                                                                                    |Norepi|   |
+| Beta3 |Postsynaptic effector cells, especially lipocytes; heart                                                                                                                                    |Norepi|   |{:.table class="table table-hover"}
 
 
 .  
@@ -118,11 +125,17 @@
         - Increase gastric secretion
         - Relax the pyloric sphincter
 
-# Central Nervous System
+.  
+.  
+.  
+.  
+.  
+
+
+### Central Nervous System
 ### List effects triggered by ACh and catecholamines (NE, DA), acting on the CNS.
 
-
-# End of Chapter Notes:
+### End of Chapter Notes:
 - Preganglionic sympathetic neurons are located in the spinal thoracolumbar IML and project to postganglionic neurons in the paravertebral or prevertebral ganglia or the adrenal medulla. Preganglionic parasympathetic neurons are located in motor nuclei of cranial nerves III, VII, IX, and X and the sacral IML and project to ganglia located in or near the effector target. The targets of the ANS include smooth muscle, cardiac muscle and pacemaker cells, exocrine and endocrine glands, adipose tissue, liver cells, and lymphatic tissue.
 
 - Acetylcholine is released at nerve terminals of all preganglionic neurons, postganglionic parasympathetic neurons, and a few postganglionic sympathetic neurons (sweat glands and sympathetic vasodilator fibers). The remaining sympathetic postganglionic neurons release norepinephrine.
@@ -141,7 +154,7 @@
 
 - The enteric nervous system is located within the wall of the digestive tract and is composed of the myenteric plexus (control of digestive tract motility) and the submucosal plexus (regulates gastrointestinal blood flow and epithelial cell function).
 
-# Adrenergic Junctions
+### Adrenergic Junctions
 - Schematic diagram of a generalized noradrenergic junction (not to scale). Tyrosine is transported into the noradrenergic nerve ending or varicosity by a sodium-dependent carrier (A). Tyrosine is converted to dopamine (see Figure 6–5 for details), and transported into the vesicle by the vesicular monoamine transporter (VMAT), which can be blocked by reserpine and tetrabenazine. The same carrier transports norepinephrine (NE) and several related amines into these vesicles. Dopamine is converted to NE in the vesicle by dopamine-β-hydroxylase. Physiologic release of transmitter occurs when an action potential opens voltage-sensitive calcium channels and increases intracellular calcium. Fusion of vesicles with the surface membrane results in expulsion of norepinephrine, cotransmitters, and dopamine-β-hydroxylase. Release can be blocked by drugs such as guanethidine and bretylium. After release, norepinephrine diffuses out of the cleft or is transported into the cytoplasm of the terminal by the norepinephrine transporter (NET), which can be blocked by cocaine and certain antidepressants, or into postjunctional or perijunctional cells. Regulatory receptors are present on the presynaptic terminal. SNAPs, synaptosome-associated proteins; VAMPs, vesicle-associated membrane proteins.
 ![Adrenergic_Receptor](adr_rec.png)
 
@@ -181,7 +194,7 @@
 |  Islet cells                 | —                              | α2/β2                      | Decreased/Increased secretion |
 | Salivary glands              | Profuse, watery secretion      | α1/β                       | Thick, viscous secretion/Amylase secretion |
 | Lacrimal glands              | Secretion                      |                            | — |
-| Adipose tissue               | —                              | β3                         | Lipolysis |
+| Adipose tissue               | —                              | β3                         | Lipolysis |{: .table table-hover}
 
 .  
 .  
@@ -209,7 +222,7 @@
 |  D1 (DA1), D5      | Brain; effector tissues, especially smooth muscle of the renal vascular bed                                                                                                                  | Stimulation of adenylyl cyclase and increased cAMP                                              |
 |  D2 (DA2)          | Brain; effector tissues, especially smooth muscle; presynaptic nerve terminals                                                                                                               | Inhibition of adenylyl cyclase; increased potassium conductance                                 |
 |  D3                | Brain                                                                                                                                                                                        | Inhibition of adenylyl cyclase                                                                  |
-|  D4                | Brain, cardiovascular system                                                                                                                                                                 | Inhibition of adenylyl cyclase                                                                  |
+|  D4                | Brain, cardiovascular system                                                                                                                                                                 | Inhibition of adenylyl cyclase                                                                  |{: .table table-hover}
 
 .  
 .  
@@ -240,4 +253,4 @@
 |                                       | Bethanechol                                                          | Receptors, parasympathetic effector cells (smooth muscle, glands)                                                                                                      | Binds and activates muscarinic receptors                                   |
 |                                       | Atropine                                                             | Receptors, parasympathetic effector cells                                                                                                                              | Binds muscarinic receptors; prevents activation                            |
 | Enzymatic inactivation of transmitter | Neostigmine                                                          | Cholinergic synapses (acetylcholinesterase)                                                                                                                            | Inhibits enzyme; prolongs and intensifies transmitter action after release |
-|                                       | Tranylcypromine                                                      | Adrenergic nerve terminals (monoamine oxidase)                                                                                                                         | Inhibits enzyme; increases stored transmitter pool                         |
+|                                       | Tranylcypromine                                                      | Adrenergic nerve terminals (monoamine oxidase)                                                                                                                         | Inhibits enzyme; increases stored transmitter pool                         |{: .table table-hover}
