@@ -1,8 +1,15 @@
-[TOC]
-# Edema
------------------------
+- [Edema](#edema)
+  - [## Edema Names:](#-edema-names)
+  - [## Severity:](#-severity)
+  - [## Morphology:](#-morphology)
+  - [## Pathophysiology of Non-Inflammatory Edema:](#-pathophysiology-of-non-inflammatory-edema)
+- [Congestion and Hyperemia:](#congestion-and-hyperemia)
+- [Hemostasis](#hemostasis)
+  - [### Bleeding or Hypercoagulable state:](#-bleeding-or-hypercoagulable-state)
+  - [### Platlet vs Coagulation Cascade: Qualitative vs Quantitative**](#-platlet-vs-coagulation-cascade-qualitative-vs-quantitative)
 
- 60% bodyweight is water, 2/3 which is intracellular.
+# Edema
+-  60% bodyweight is water, 2/3 which is intracellular.
    - Of the remaining water, 35% is in extracellular space. AKA interstitial fluid and 'third spaces'
         - Third space is not quite interstitial, its like the cavities of the pleual or abdominal cavities, the pericardial sac. And fluid does collect in these spaces.
  - There is a balance of vascular hydrostatic pressure against plasma colloid osmotic pressure.
@@ -58,9 +65,9 @@
 ## Pathophysiology of Non-Inflammatory Edema:
 -----------------------------
 ```
-    + Remeber that inflammatory edema makes sense. 
-    + Inflammation leads to vascular permeability/dilation.
-    + This hyperemia allows fluid to leave vessels and settle, causing edema.
+ Remeber that inflammatory edema makes sense. 
+ Inflammation leads to vascular permeability/dilation.
+ This hyperemia allows fluid to leave vessels and settle, causing edema.
 ```
 1. Increased hydrostatic pressure **Usually Cardiac**
     - Can occur due as regional or systemic.
@@ -105,24 +112,25 @@
    
 ### Bleeding or Hypercoagulable state:
 --------------------
-    - **Bleeding State**
-    - Bernard-Soulier Syndrome GP1B.
-    - Von Willibrand disease due to too little or too weak vWF.
-    - Glanzmaan thromoasthenia due to deficiency in GpIIa-IIIb.  
+ - **Bleeding State**
+ - Bernard-Soulier Syndrome GP1B.
+ - Von Willibrand disease due to too little or too weak vWF.
+ - Glanzmaan thromoasthenia due to deficiency in GpIIa-IIIb.  
   
 ### Platlet vs Coagulation Cascade: Qualitative vs Quantitative**
 ------------------------
-    - Platelet Tests:
-      - Qualitative: Bleed time
-      - Quantitative: Platelets are measured and counted.
-    - Coagulation Tests:
-      - Activated Partial Thromboplastin Time - aPPT
-      - Prothrombin Time - PT.  
+  - Platelet Tests:
+    - Qualitative: Bleed time
+    - Quantitative: Platelets are measured and counted.
+  - Coagulation Tests:
+    - Activated Partial Thromboplastin Time - aPPT
+    - Prothrombin Time - PT.  
+  -------
   
-  - Normal endothelium supports a state of anti-coagulation. If there is an injury we flip things up.
-    - von WIllibrong Factor (GP1B receptor - deficiency is called Bernard-Soulier syndrome)
-    - Tissue factor: Ectivates extrinsic pathway in response to TNF.
-    - Plasminogen activator inhibitors: Favor thrombosis
+- Normal endothelium supports a state of anti-coagulation. If there is an injury we flip things up.
+  - von WIllibrong Factor (GP1B receptor - deficiency is called Bernard-Soulier syndrome)
+  - Tissue factor: Ectivates extrinsic pathway in response to TNF.
+  - Plasminogen activator inhibitors: Favor thrombosis
 
 
    
