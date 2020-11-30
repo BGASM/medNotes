@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://BGASM.github.io/medNotes/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://BGASM.github.io/medNotes/</loc>
+</url>
+<url>
+<loc>https://BGASM.github.io/medNotes/adrenergic-and-cholinergic-pharm-iii.html</loc>
+<lastmod>2020-11-30T12:08:40-05:00</lastmod>
+</url>
+<url>
+<loc>https://BGASM.github.io/medNotes/adrenergic-and-cholinergic-systems.html</loc>
+<lastmod>2020-11-30T12:08:28-05:00</lastmod>
+</url>
+<url>
+<loc>https://BGASM.github.io/medNotes/edema-congestion-and-hemostasis.html</loc>
+<lastmod>2020-11-30T12:26:10-05:00</lastmod>
+<image:image>
+<image:loc>https://BGASM.github.io/medNotes/media\posts\3/Myelolipoma_histology_HE.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
