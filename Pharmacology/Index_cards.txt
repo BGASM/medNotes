@@ -1,0 +1,326 @@
+Betaxolol; Selective Beta 1 Antagonist$
+Pentolamine; Non-selective Alpha Antagonist
+Reversible and short acting
+AE: Rapid decrease in BP and Reflex tachycardia$
+Terbutaline; Direct Beta 2 Agonist$
+Labetolol; Non-selective Beta Antagonist
+Partial ISA Beta 2 agonist$
+Dopaminel; Direct Beta 1 agonist$
+TCAs; Tricyclic Anti-depressants
+Atropine effect - Anti-muscarinic
+CNS: Confusion/Hallucination - Antimuscarinic
+PNS: Postural Hypotension - Alpha 1 Antagonist$
+Esmolol; Selective Beta 1 Antagonist
+Very short duration
+TI: Cardio Emergencies$
+Cocaine; DAT + NET Inhibitor
+CNS: Inhibits reuptake
+PNS: Sympathomimetic
+TI: Anesthetic and Vasoconstriction
+AE: Death from cardiac/Respiratory Arrest, Agitation, Paranoia, Hypertension, Nose Bleeds$
+Tyramine; Enter VMAT and displace NE
+Increase NE
+Not inhibited by MAO
+PT on MAO-I need to be careful around wine/cheese$
+Nebivolol; Selective Beta 1 antagonist
+Nitric Oxide mediated$
+Sotalol; Non-selective Beta antagonist
+Only one used for other disease, a certain arrythmia
+Not even used for Hypertension$
+Clonidine; Direct Alpha 2 agonist
+'Dine' group$
+Phenylephrine; Direct Alpha 1 agonist
+'Phrine' group$
+Pseduophedrin; Mixed adrenergic mimicking
+Indirect: Inhibit NET and displace NE
+Direct: Alpha 1/Beta 1 Agonist (low affinity for Beta 2)
+Increase NE!!
+Like Amphetamine, but with less CNS effect
+TI: Nasal decongestant
+AE: Atrial fibrillation, reflex bradycardia, hypertension, insomnia$
+Midodrine; Direct Alpha 1 agonist
+TI: Orthostatic hypostension
+AE: Vasoconstriction/hypertension
+Urinary Retention$
+Amphetamines; NET inhibition
+Block NE uptake
+Enter VMAT and displace NE
+Beta one and Alpha 1 get activated by NE
+TI: Narcolepsy and ADHD
+AE: CNS: Jitters, insomnia, anorexia, seizures
+PNS: Headache, tachyarrthymia, Hyper/Hypotension$
+Methylphenidate; Mixed adrenergic mimicking
+Indirect: Inhibit DAT and NET
+Direct: Alpha 1 agonist
+Increase NE and Dopamine!
+TI: ADHD
+AE: CNS: ANorexia, Anxiety, Depression
+PNS: Tachycardia, reflex bradycardia, blurred vision (due to Alpha 1 agonism)$
+Metoprolol; Selective Beta 1 Antagonist$
+Fomoterol; Direct Beta 2 agonist$
+Methyldopa; Direct Alpha 2 Agonist$
+Apraclonidine; Direct Alpha 2 Agonist$
+Brimonidine; Direct Alpha 2 Agonist$
+Atenolol; Selective Beta 1 antagonist$
+Albuterol; Direct Beta 2 agonist$
+Propranolol; Non-selective Beta 2 antagonist
+AE: Anxiety, migraines$
+Amitriptyline; TCA: 5HT + NET inhibitor$
+Desipramine; TCA: 5HT + NET inhibitor$
+Timolol; Non-selective Beta antagonist
+TI: Open angle glaucoma$
+Tamsulosin; Selective Alpha 1 antagonists
+TI: Used to treat urinary tract symptoms caused by BPH
+AE: Postural hypotension and sycope, 1st dose falls
+Does not cause reflex tachycardia$
+Phenoxybenzamine; Non-selective Alpha antagonist
+Irreversible and long acting
+Rapidly decrease BP, reflex tachycardia$
+Imipamine; TCA: 5HT + NET inhibitors$
+Carbidopa; DD inhibitor
+Does not cross BBB
+Combine with Levodopa
+Gold standard for Parkinsons$
+Levodopa; Not an ihibitor
+Crosses BBB
+Looks like L-Dopa and saturates the enzymes that break L dopa down
+Given in combo with Dopamine drugs$
+Entacapone; COMT inhibitor
+Enhance L-DOPA -> Dopamine
+No effect on DD
+Low in CNS
+Combine with levodopa$
+Terazosin; Selective Alpha 1 antag
+TI: Hypertension$
+Salmeterol; Direct Beta 2 agonist$
+Dobutamine; Direct Beta 1 agonist$
+
+
+-olol
+Betaxolol; Selective Beta 1 Antagonist
+Labetolol; Non-selective Beta Antagonist
+Partial ISA Beta 2 agonist
+Esmolol; Selective Beta 1 Antagonist
+Very short duration
+TI: Cardio Emergencies
+Nebivolol; Selective Beta 1 antagonist
+Nitric Oxide mediated
+Metoprolol; Selective Beta 1 Antagonist
+Atenolol; Selective Beta 1 antagonist
+Propranolol; Non-selective Beta 2 antagonist
+AE: Anxiety, migraines
+Timolol; Non-selective Beta antagonist
+TI: Open angle glaucoma
+
+
+-ilol
+
+
+
+-amine
+
+Pentolamine; Non-selective Alpha Antagonist
+Reversible and short acting
+AE: Rapid decrease in BP and Reflex tachycardia
+Dopaminel; Direct Beta 1 agonist
+Tyramine; Enter VMAT and displace NE
+Increase NE
+Not inhibited by MAO
+PT on MAO-I need to be careful around wine/cheese
+Pseduophedrin; Mixed adrenergic mimicking
+Indirect: Inhibit NET and displace NE
+Direct: Alpha 1/Beta 1 Agonist (low affinity for Beta 2)
+Increase NE!!
+Like Amphetamine, but with less CNS effect
+TI: Nasal decongestant
+AE: Atrial fibrillation, reflex bradycardia, hypertension, insomnia
+Amphetamines; NET inhibition
+Block NE uptake
+Enter VMAT and displace NE
+Beta one and Alpha 1 get activated by NE
+TI: Narcolepsy and ADHD
+AE: CNS: Jitters, insomnia, anorexia, seizures
+PNS: Headache, tachyarrthymia, Hyper/Hypotension
+Methylphenidate; Mixed adrenergic mimicking
+Indirect: Inhibit DAT and NET
+Direct: Alpha 1 agonist
+Increase NE and Dopamine!
+TI: ADHD
+AE: CNS: ANorexia, Anxiety, Depression
+PNS: Tachycardia, reflex bradycardia, blurred vision (due to Alpha 1 agonism)
+Desipramine; TCA: 5HT + NET inhibitor
+Phenoxybenzamine; Non-selective Alpha antagonist
+Irreversible and long acting
+Rapidly decrease BP, reflex tachycardia
+Imipamine; TCA: 5HT + NET inhibitors
+Levodopa; Not an ihibitor
+Crosses BBB
+Looks like L-Dopa and saturates the enzymes that break L dopa down
+Given in combo with Dopamine drugs
+Entacapone; COMT inhibitor
+Enhance L-DOPA -> Dopamine
+No effect on DD
+Low in CNS
+Combine with levodopa
+Dobutamine; Direct Beta 1 agonist
+
+
+-imine
+
+
+
+-rine
+
+Phenylephrine; Direct Alpha 1 agonist
+'Phrine' group
+Midodrine; Direct Alpha 1 agonist
+TI: Orthostatic hypostension
+AE: Vasoconstriction/hypertension
+Urinary Retention
+
+
+-dine
+
+Clonidine; Direct Alpha 2 agonist
+'Dine' group
+Apraclonidine; Direct Alpha 2 Agonist
+Brimonidine; Direct Alpha 2 Agonist
+
+
+-terol
+
+Fomoterol; Direct Beta 2 agonist
+Albuterol; Direct Beta 2 agonist
+Salmeterol; Direct Beta 2 agonist
+
+
+-enol
+
+Atenolol; Selective Beta 1 antagonist
+
+
+-line
+
+Terbutaline; Direct Beta 2 Agonist
+Amitriptyline; TCA: 5HT + NET inhibitor
+
+
+-osin
+
+Tamsulosin; Selective Alpha 1 antagonists
+TI: Used to treat urinary tract symptoms caused by BPH
+AE: Postural hypotension and sycope, 1st dose falls
+Does not cause reflex tachycardia
+Terazosin; Selective Alpha 1 antag
+TI: Hypertension
+
+
+-Alpha 2 Agonist
+
+Clonidine; Direct Alpha 2 agonist
+'Dine' group
+Methyldopa; Direct Alpha 2 Agonist
+Apraclonidine; Direct Alpha 2 Agonist
+Brimonidine; Direct Alpha 2 Agonist
+
+
+-Alpha 1 Agonist
+
+Phenylephrine; Direct Alpha 1 agonist
+'Phrine' group
+Midodrine; Direct Alpha 1 agonist
+TI: Orthostatic hypostension
+AE: Vasoconstriction/hypertension
+Urinary Retention
+Methylphenidate; Mixed adrenergic mimicking
+Indirect: Inhibit DAT and NET
+Direct: Alpha 1 agonist
+Increase NE and Dopamine!
+TI: ADHD
+AE: CNS: ANorexia, Anxiety, Depression
+PNS: Tachycardia, reflex bradycardia, blurred vision (due to Alpha 1 agonism)
+
+
+-Beta 1 Agonist
+
+Dopaminel; Direct Beta 1 agonist
+Pseduophedrin; Mixed adrenergic mimicking
+Indirect: Inhibit NET and displace NE
+Direct: Alpha 1/Beta 1 Agonist (low affinity for Beta 2)
+Increase NE!!
+Like Amphetamine, but with less CNS effect
+TI: Nasal decongestant
+AE: Atrial fibrillation, reflex bradycardia, hypertension, insomnia
+Dobutamine; Direct Beta 1 agonist
+
+
+-Beta 2 Agonist
+
+Terbutaline; Direct Beta 2 Agonist
+Labetolol; Non-selective Beta Antagonist
+Partial ISA Beta 2 agonist
+Fomoterol; Direct Beta 2 agonist
+Albuterol; Direct Beta 2 agonist
+Salmeterol; Direct Beta 2 agonist
+
+
+-Alpha 2 Antagonist
+
+
+
+-Alpha 1 Antagonist
+
+TCAs; Tricyclic Anti-depressants
+Atropine effect - Anti-muscarinic
+CNS: Confusion/Hallucination - Antimuscarinic
+PNS: Postural Hypotension - Alpha 1 Antagonist
+Tamsulosin; Selective Alpha 1 antagonists
+TI: Used to treat urinary tract symptoms caused by BPH
+AE: Postural hypotension and sycope, 1st dose falls
+Does not cause reflex tachycardia
+
+
+-Beta 1 Antagonist
+Betaxolol; Selective Beta 1 Antagonist
+Esmolol; Selective Beta 1 Antagonist
+Very short duration
+TI: Cardio Emergencies
+Nebivolol; Selective Beta 1 antagonist
+Nitric Oxide mediated
+Metoprolol; Selective Beta 1 Antagonist
+Atenolol; Selective Beta 1 antagonist
+
+
+-Beta 2 Antagonist
+
+Propranolol; Non-selective Beta 2 antagonist
+AE: Anxiety, migraines
+
+
+-Alpha Agonist
+
+
+
+-Beta Agonist
+
+
+
+-Alpha Antagonist
+
+Pentolamine; Non-selective Alpha Antagonist
+Reversible and short acting
+AE: Rapid decrease in BP and Reflex tachycardia
+Phenoxybenzamine; Non-selective Alpha antagonist
+Irreversible and long acting
+Rapidly decrease BP, reflex tachycardia
+
+
+-Beta Antagonist
+
+Labetolol; Non-selective Beta Antagonist
+Partial ISA Beta 2 agonist
+Sotalol; Non-selective Beta antagonist
+Only one used for other disease, a certain arrythmia
+Not even used for Hypertension
+Timolol; Non-selective Beta antagonist
+TI: Open angle glaucoma
