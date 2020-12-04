@@ -3,12 +3,728 @@
     <title>BHOLE</title>
     <link href="https://BGASM.github.io/medNotes/feed.xml" rel="self" />
     <link href="https://BGASM.github.io/medNotes" />
-    <updated>2020-12-03T01:34:30-05:00</updated>
+    <updated>2020-12-03T21:20:33-05:00</updated>
     <author>
         <name>William Slattery</name>
     </author>
     <id>https://BGASM.github.io/medNotes</id>
 
+    <entry>
+        <title>Chemotherapy II</title>
+        <author>
+            <name>William Slattery</name>
+        </author>
+        <link href="https://BGASM.github.io/medNotes/chemotherapy-ii.html"/>
+        <id>https://BGASM.github.io/medNotes/chemotherapy-ii.html</id>
+
+        <updated>2020-12-03T21:20:33-05:00</updated>
+            <summary>
+                <![CDATA[
+                    Anti-MetabolitePyrimidine ANtagonist: Cytarabine and GemcitabineToxicityPurine AntagonistTumor AntibioticsAnthracyclinesAnthracycline Mechanism:Antrhacycline CardiotoxicityAntrhacenedionesAntrhacenedione Mechanism:BleomycinBleomycin Mechanism:Bleomycin ToxicityTopoisomerase inhibitorsTopoisomerase I - Campthothecins: Topotecan and IrinotecanMechanism:Topoisomerase II -Podophyllotoxins: Etoposide and TeniposideMechanism:Microtubule InhibitorsTaxanes: Paclitaxel, Docetaxel, nab-PaclitaxelMechanism:Vinca Alkaloids: Vincristine, Vinorelbine, VinblastineMechanism:Adverse Effects:Drug Interactions:Targeted TherapiesTyrosine Kinase Inhibitors and Monoclonal AntibodiesTKIs “nibs” - Imatinib, Dasatinib, NilotinibMonoclonal&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <ul>
+<li><a href="#anti-metabolite">Anti-Metabolite</a><ul>
+<li><a href="#pyrimidine-antagonist-cytarabine-and-gemcitabine">Pyrimidine ANtagonist: Cytarabine and Gemcitabine</a><ul>
+<li><a href="#toxicity">Toxicity</a></li>
+</ul>
+</li>
+<li><a href="#purine-antagonist">Purine Antagonist</a></li>
+</ul>
+</li>
+<li><a href="#tumor-antibiotics">Tumor Antibiotics</a><ul>
+<li><a href="#anthracyclines">Anthracyclines</a><ul>
+<li><a href="#anthracycline-mechanism">Anthracycline Mechanism:</a></li>
+<li><a href="#antrhacycline-cardiotoxicity">Antrhacycline Cardiotoxicity</a></li>
+</ul>
+</li>
+<li><a href="#antrhacenediones">Antrhacenediones</a><ul>
+<li><a href="#antrhacenedione-mechanism">Antrhacenedione Mechanism:</a></li>
+</ul>
+</li>
+<li><a href="#bleomycin">Bleomycin</a><ul>
+<li><a href="#bleomycin-mechanism">Bleomycin Mechanism:</a></li>
+<li><a href="#bleomycin-toxicity">Bleomycin Toxicity</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#topoisomerase-inhibitors">Topoisomerase inhibitors</a><ul>
+<li><a href="#topoisomerase-i---campthothecins-topotecan-and-irinotecan">Topoisomerase I - Campthothecins: Topotecan and Irinotecan</a><ul>
+<li><a href="#mechanism">Mechanism:</a></li>
+</ul>
+</li>
+<li><a href="#topoisomerase-ii--podophyllotoxins-etoposide-and-teniposide">Topoisomerase II -Podophyllotoxins: Etoposide and Teniposide</a><ul>
+<li><a href="#mechanism-1">Mechanism:</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#microtubule-inhibitors">Microtubule Inhibitors</a><ul>
+<li><a href="#taxanes-paclitaxel-docetaxel-nab-paclitaxel">Taxanes: Paclitaxel, Docetaxel, nab-Paclitaxel</a><ul>
+<li><a href="#mechanism-2">Mechanism:</a></li>
+</ul>
+</li>
+<li><a href="#vinca-alkaloids-vincristine-vinorelbine-vinblastine">Vinca Alkaloids: Vincristine, Vinorelbine, Vinblastine</a><ul>
+<li><a href="#mechanism-3">Mechanism:</a></li>
+<li><a href="#adverse-effects">Adverse Effects:</a></li>
+<li><a href="#drug-interactions">Drug Interactions:</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#targeted-therapies">Targeted Therapies</a></li>
+<li><a href="#tyrosine-kinase-inhibitors-and-monoclonal-antibodies">Tyrosine Kinase Inhibitors and Monoclonal Antibodies</a><ul>
+<li><a href="#tkis-nibs---imatinib-dasatinib-nilotinib">TKIs “nibs” - Imatinib, Dasatinib, Nilotinib</a></li>
+<li><a href="#monoclonal-antibodies---trastuzumab">Monoclonal Antibodies - Trastuzumab</a></li>
+</ul>
+</li>
+<li><a href="#hormone-receptor-modulators">Hormone Receptor Modulators</a><ul>
+<li><a href="#estrogen-and-breast-cancer">Estrogen and Breast Cancer</a><ul>
+<li><a href="#serm---tamoxifen">SERM - Tamoxifen</a></li>
+<li><a href="#aromatase-inhibitors">Aromatase Inhibitors</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#epigenetic-modifiers">Epigenetic Modifiers</a><ul>
+<li><a href="#hypomethylating-agents-azacitidine-and-decitabine">Hypomethylating Agents Azacitidine and Decitabine</a></li>
+<li><a href="#histone-deacetylase-hdac-inhibitors---vorinostat-romidepsin-belinostat-panobinostat">Histone Deacetylase (HDAC) inhibitors - Vorinostat, romidepsin, belinostat, panobinostat</a></li>
+</ul>
+</li>
+<li><a href="#--mild-myelosuppression">- Mild myelosuppression</a></li>
+<li><a href="#immunomodulatory-drugs">Immunomodulatory Drugs</a><ul>
+<li><a href="#immuno-blockade-therapy">Immuno Blockade Therapy</a><ul>
+<li><a href="#ctla-4">CTLA-4:</a></li>
+<li><a href="#pd1">PD1</a></li>
+<li><a href="#side-effects-of-checkpoint-inhibitors">Side Effects of checkpoint inhibitors</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#miscellaneous">Miscellaneous</a><ul>
+<li><a href="#l-asparaginase">L-Asparaginase</a></li>
+<li><a href="#proteasome-inhibitors---bortezombi-and-carfilzomib">Proteasome Inhibitors - Bortezombi and Carfilzomib</a></li>
+<li><a href="#dofferentiating-agents">Dofferentiating Agents</a></li>
+<li><a href="#chemoprotectant-or-antidotes">Chemoprotectant or Antidotes</a></li>
+</ul>
+</li>
+</ul>
+<h2 id="anti-metabolite">Anti-Metabolite</h2>
+<p><strong>Anti-metabolites are specific for S phase</strong></p>
+<ul>
+<li>Types:<ol>
+<li>Folate Antagonist - methotrexate</li>
+<li>Pyrimidine Antagonist - 5-FU</li>
+<li>Purine Antagonist - 6-mercaptopurine<h3 id="pyrimidine-antagonist-cytarabine-and-gemcitabine">Pyrimidine ANtagonist: Cytarabine and Gemcitabine</h3>
+Incorporate into cell and bind to DNA<h4 id="toxicity">Toxicity</h4>
+Toxic to normal cells that proliferate rapidly<ul>
+<li>GI</li>
+<li>Bone marrow</li>
+</ul>
+</li>
+</ol>
+</li>
+<li>Dose dependent<ul>
+<li>IV bolus dose: incorporate into RNA - more myelosuppression</li>
+<li>IV continuous dose: incorporate into DNA - more skin toxicity <em>hand and foot syndrome</em></li>
+<li>Prolonged administration damages DNA in epithelial cells of the skin.<ul>
+<li>Hand and Foot:</li>
+</ul>
+</li>
+<li>Gradual development of pain, redness, numbness and bilateral desquamation of palms<h3 id="purine-antagonist">Purine Antagonist</h3>
+Fake purine bases.<ul>
+<li>6-MP decoy for hypoxanthine</li>
+<li>6-TG decoy for Guanine</li>
+<li><strong>Require intracellular activation. Parent compount can cause toxicity</strong></li>
+<li><strong>Reduce HGPRT enzyme activity</strong></li>
+<li>6-TG is more potent</li>
+<li><strong>6-TG causes more GI toxicity (more myelosuprressive)</strong></li>
+</ul>
+</li>
+<li><strong>Allopurinol</strong> (drug for gout and tumor lysis syndrome) blocks xanthine oxidase and leads to <strong>accumulation of 6-MP</strong><ul>
+<li><strong>Immunosuppressive</strong></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h2 id="tumor-antibiotics">Tumor Antibiotics</h2>
+<p><strong>Specific for cells in G2 phase</strong></p>
+<ol>
+<li>Anthracyclines: <strong>Doxorubicin, epirubicin</strong>, idarubicin, daunorubicin</li>
+<li>Anthracenediones: Mitoxanthrone</li>
+<li>Bleomycin</li>
+</ol>
+<ul>
+<li><strong>Doxorubicin and epirubicin most active</strong> chemo drugs available<h3 id="anthracyclines">Anthracyclines</h3>
+<h4 id="anthracycline-mechanism">Anthracycline Mechanism:</h4>
+</li>
+</ul>
+<p><strong>Intercalate between base pairs of DNA helix</strong> </p>
+<ul>
+<li><strong>Inhibit topoisomerase II</strong> (<em>g2 phase</em>)</li>
+<li><strong>Supercoiled DNA</strong></li>
+<li><strong>Form free radicals</strong><h4 id="antrhacycline-cardiotoxicity">Antrhacycline Cardiotoxicity</h4>
+</li>
+</ul>
+<p><strong>Cumulative cardiac toxicity</strong></p>
+<ul>
+<li><strong>Formation of ROS</strong></li>
+<li><strong>Damage to Topo II in cardiomyocytes</strong><ul>
+<li>Damage with all doses, but symptoms appear with <strong>cumulative exposure</strong></li>
+<li>Liposome-encapsulated antrhacycline delay cardiotoxicity</li>
+<li><strong>Chemoprotectant Dexrazoxane (DZR)</strong> <em>prevents cardiac injury</em> but <em>inhibits antitumor activity</em> of anthracyclines<h3 id="antrhacenediones">Antrhacenediones</h3>
+<h4 id="antrhacenedione-mechanism">Antrhacenedione Mechanism:</h4>
+Similar to anthracyclines</li>
+<li><strong>DNA intercalataion and TOPO II inhibition</strong></li>
+<li><strong>Free radical formation</strong> (<em>nitrogen dioxide</em>)</li>
+<li><strong>NOT ROS</strong></li>
+</ul>
+</li>
+<li><strong>Cardiotoxic, but delayed</strong><h3 id="bleomycin">Bleomycin</h3>
+<h4 id="bleomycin-mechanism">Bleomycin Mechanism:</h4>
+<ul>
+<li>Bind to GC-rich portion of DNA and partially <strong>intercalate</strong></li>
+<li><em>Bind divalent metals such as</em> <strong>iron, the active ligand</strong></li>
+<li>Oxygen binds to iron and produce <strong>free radicals</strong></li>
+<li>Free radicals make <strong>single-strand breaks</strong><h4 id="bleomycin-toxicity">Bleomycin Toxicity</h4>
+</li>
+<li><strong>Cumulative toxicity</strong></li>
+<li>Detoxified by hydrolase</li>
+<li>Hydrolase low in <strong>skin and lungs</strong></li>
+</ul>
+</li>
+</ul>
+<h2 id="topoisomerase-inhibitors">Topoisomerase inhibitors</h2>
+<ul>
+<li><strong>Specific for G2/S phase</strong><h3 id="topoisomerase-i---campthothecins-topotecan-and-irinotecan">Topoisomerase I - Campthothecins: Topotecan and Irinotecan</h3>
+<h4 id="mechanism">Mechanism:</h4>
+</li>
+<li>Topo I relaxes supercoiled DNA</li>
+<li>Inhibitors prevent this. Strands break, lead to apoptosis/</li>
+<li><strong>S phase specific</strong></li>
+<li><strong>Irinotecan has unique GI adverse effect</strong>:<ul>
+<li><strong>Early-onset acute diarrhea - Cholinergic syndrome</strong></li>
+<li>Delayed-onset diarrhea - Unknown mech.<h3 id="topoisomerase-ii--podophyllotoxins-etoposide-and-teniposide">Topoisomerase II -Podophyllotoxins: Etoposide and Teniposide</h3>
+<h4 id="mechanism-1">Mechanism:</h4>
+</li>
+</ul>
+</li>
+<li><strong>Pure Enzyme Inhibitors</strong> meaning <em>NO free radical formation or DNA intercalation</em></li>
+<li>Inhibit TOPO II.<ul>
+<li><strong>Halt progression out of S/G2 phase</strong></li>
+</ul>
+</li>
+<li><em>GI toxicities and myelosuppression</em></li>
+</ul>
+<h2 id="microtubule-inhibitors">Microtubule Inhibitors</h2>
+<ul>
+<li><strong>Specific for M phase</strong><h3 id="taxanes-paclitaxel-docetaxel-nab-paclitaxel">Taxanes: Paclitaxel, Docetaxel, nab-Paclitaxel</h3>
+<h4 id="mechanism-2">Mechanism:</h4>
+</li>
+<li><strong>Mitotic spindle poisons</strong></li>
+<li><strong>Stabilize MT’s against depolymerization</strong></li>
+<li><strong>Neurotoxic</strong></li>
+<li><em>Myelosuppressive</em></li>
+</ul>
+<h3 id="vinca-alkaloids-vincristine-vinorelbine-vinblastine">Vinca Alkaloids: Vincristine, Vinorelbine, Vinblastine</h3>
+<h4 id="mechanism-3">Mechanism:</h4>
+<ul>
+<li><strong>Block mitotic cell division in M phase</strong></li>
+<li>Bind to tubulin and <strong>inhibit polymerization MT’s</strong><h4 id="adverse-effects">Adverse Effects:</h4>
+</li>
+<li>MT’s are primary structural element of mitotic spindle in nerve structures</li>
+<li><strong>Neurotoxicity</strong><ul>
+<li><strong>Dose and schedule dependent</strong></li>
+<li>Autonomic and cranial nerve neuropathy</li>
+<li>Encephalopath</li>
+<li><strong>Vinorelbine is least neurotoxic but causes more myelosuppression</strong></li>
+</ul>
+</li>
+<li>GI autonomic dysfunction (<em>bloating, constipation, abd pain</em>) complicates therapy with vinca alkaloids<h4 id="drug-interactions">Drug Interactions:</h4>
+</li>
+<li><strong>Metabolic inhibitors</strong> can lead to <strong>overexposure</strong> to vinca alkaloid<ul>
+<li><em>P450</em><h2 id="targeted-therapies">Targeted Therapies</h2>
+Targeted Therapies attack specific molecular targets.</li>
+</ul>
+</li>
+<li>Very effective if specific target is driving cancer-</li>
+<li>Less toxic that traditional-</li>
+<li>Generally not curative as single agents-
+Traditional vs Targeted:</li>
+<li>Reduce mortality</li>
+<li>Stop disease progression</li>
+<li>More toxic<h2 id="tyrosine-kinase-inhibitors-and-monoclonal-antibodies">Tyrosine Kinase Inhibitors and Monoclonal Antibodies</h2>
+<h3 id="tkis-nibs---imatinib-dasatinib-nilotinib">TKIs “nibs” - Imatinib, Dasatinib, Nilotinib</h3>
+</li>
+<li>Imatinib used for CML. Inhibit proliferation of bcr-abl fusion prot.<ul>
+<li><strong>Binds to ATP binding pocket of Tyr kinase</strong></li>
+</ul>
+</li>
+<li>TKI’s are part of normal cellular pathways</li>
+<li>Inhbition of TKI can cause <strong>off-target</strong> effects:<ul>
+<li>MoA has unintended organ insults</li>
+<li>Myelosuppression<h3 id="monoclonal-antibodies---trastuzumab">Monoclonal Antibodies - Trastuzumab</h3>
+</li>
+</ul>
+</li>
+<li>MAB that targets Her2/neu receptor.
+<strong>- HER2/neu is also expressed in cardiomyocytes</strong> - which explains <strong>off-target cardiotoxicity</strong>  <h2 id="hormone-receptor-modulators">Hormone Receptor Modulators</h2>
+<h3 id="estrogen-and-breast-cancer">Estrogen and Breast Cancer</h3>
+Estrogen fuels growth of breast cancer cells</li>
+<li>Inhibitors:<ul>
+<li>Pre menopause: Selective Estrogen Receptor Modulators <strong>SERMs</strong> - <strong>Tamoxifen</strong></li>
+<li>Post menopause: <strong>Aromatase Inhibitors</strong> - <strong>Exemestane</strong></li>
+<li>Average age of menoupause is 51 yrs.<h4 id="serm---tamoxifen">SERM - Tamoxifen</h4>
+75% of breast cancer epxpress estrogen receptors <em>ER+</em>, 65% express progesterone receptors <em>PR+</em></li>
+</ul>
+</li>
+<li>Tamoxifen for hormonal therapy:<ul>
+<li>Prodrug. <strong>Hydroxymetabolites</strong> provide the anti-tumor activity.</li>
+<li>Partial estrogen agonist</li>
+<li>Antagonist in breast tissue</li>
+<li>Can prevent breast cancer in high risk PT and treat those with advanced or localized disease</li>
+<li><strong>Adverse</strong>: Due to estrogenic effects - Uterine Cancer<h4 id="aromatase-inhibitors">Aromatase Inhibitors</h4>
+<code>Exemestane, Letrozole, Anastrozole – Inhibit the enzyme aromatase ONLY in peripheral tissue (NOT in ovaries) so only useful in post-menopausal women</code><h2 id="epigenetic-modifiers">Epigenetic Modifiers</h2>
+<h3 id="hypomethylating-agents-azacitidine-and-decitabine">Hypomethylating Agents Azacitidine and Decitabine</h3>
+</li>
+</ul>
+</li>
+<li><strong>Inhibit DNA methyltransferases</strong><ul>
+<li>Hypomethylation</li>
+<li>Apoptosis</li>
+<li>Reverse epigenetic silencing</li>
+</ul>
+</li>
+<li>Need to be incorporated into DNA through reduced metabolite<ul>
+<li>One cycle of replication gets hemimethylated. Two cycles for entire demthylation.</li>
+<li><strong>Several doses</strong> are needed for clinical response.<ul>
+<li>At high doses it acts like anti-pyrimidine (<em>cytotoxic and anti-metabolite</em>)<h3 id="histone-deacetylase-hdac-inhibitors---vorinostat-romidepsin-belinostat-panobinostat">Histone Deacetylase (HDAC) inhibitors - Vorinostat, romidepsin, belinostat, panobinostat</h3>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>HDAC catalyzes <strong>removal of acetyl groups</strong> from histones.<ul>
+<li>DNA wraps more tightle when acetyl groups are removed. Silenced, euchromatin.</li>
+<li>This prevents the expression of <strong>tumor suppressor genes</strong></li>
+</ul>
+</li>
+<li>HDAC inhibitors bind to the enzyme and prevent it.</li>
+<li>Increased acetylation of DNA, and <strong>expression of the silenced genes</strong></li>
+<li><strong>Adverse Effects</strong>:<ul>
+<li>Cardiac Toxicity</li>
+<li>GI Tox</li>
+<li>Mild myelosuppression</li>
+</ul>
+</li>
+</ul>
+<hr>
+<h2 id="immunomodulatory-drugs">Immunomodulatory Drugs</h2>
+<h3 id="immuno-blockade-therapy">Immuno Blockade Therapy</h3>
+<pre><code>T cell activation requires two signals: TCR and B7/CD28 co-stim. 
+In normal situations, T cell de-activate themselves by binding their CTLA4 receptor to CD80 on DCs. 
+PD1 pathway delivers inhibitory signals to immune system to slow down. Limits initiation and duration of immune response. When a T cell activates it induces PD1 expression.
+Production if IFNg also upregulates PD1L, which binds to PD1 and turns it off.
+Tumor cells evade by either upregulating the PD1L or by upregulating CD80 and binding T cell CTLA4, downregulating them, or by hiding CD28.</code></pre><ul>
+<li>Anti-CTLA4: Ipilimumbab</li>
+<li>Anti-PD1: Pembrolizumab, Nivolumab</li>
+<li>Anti-PD1L: Atezolizumab, Avelumab, Durvalumab<h4 id="ctla-4">CTLA-4:</h4>
+</li>
+<li>Receptors are distributed through secondary lymphoid organs</li>
+<li>Target recently primed T cells</li>
+<li>Phosphatases SHP1,2, PP2a</li>
+<li>Inhibit glycolysis<h4 id="pd1">PD1</h4>
+</li>
+<li>Inflamed peripheral tissue and secondary lymphoid organs</li>
+<li>Target Effector T cells</li>
+<li>Phosphatase SHP2</li>
+<li>Inhibit Glycolysis and induce Fatty Acid Oxidation<h4 id="side-effects-of-checkpoint-inhibitors">Side Effects of checkpoint inhibitors</h4>
+</li>
+<li>They can cause autoimmune side effects<ul>
+<li>MAB’s are highly specific, so not an issue of off-target toxicities</li>
+<li><strong>Substantial on-target toxiciites possible</strong><ul>
+<li>Pembrolizumab therapy caused thyroiditis and thyroid dysfunction</li>
+</ul>
+</li>
+<li>Majority of cases result in irreversible hypothyroidism</li>
+<li>Similar issues of thyroid dysfunction observed in melanoma
+– Other immune related adverse events can occur with systemic administration of immune checkpoint inhibitors </li>
+<li>dermatologic, gastrointestinal, hepatic, endocrine inflammatory events </li>
+<li>temporary immunosuppression with corticosteroids, TNFα antagonists, or other agents effective in most cases but can be fatal</li>
+<li>Dermatitis, Colitis, Hepatitis</li>
+</ul>
+</li>
+<li>Side Effects of CAR T therapy:<ul>
+<li>Cytokine Release Syndrome<ul>
+<li>When the CAR T cell engages surrogate antigens it releases a variety of cytokines that get picked up by macrophages and other innate immune cells.</li>
+<li>They go nuts for it and start shitting the bed too.</li>
+<li>CAR T cells are able to get into CSF, and it is possible that their cytokine release would make the BBB permeable to more CAR T cells and other immune cells.</li>
+</ul>
+</li>
+<li>Neurotoxicity, Hemodynamic instability (tachycardia, hypotension, capillary leak) Organ Dysfunction (AST and ALT elevation, Hyperbilirubinemia, Respiratory Failure)<h2 id="miscellaneous">Miscellaneous</h2>
+<h3 id="l-asparaginase">L-Asparaginase</h3>
+</li>
+</ul>
+</li>
+<li><strong>L-Asparaginase is specific for G1 phase</strong></li>
+<li>All cells require Asparagine</li>
+<li>Normal cells, but <strong>NOT ALL</strong> cells can synthesize their own.</li>
+<li>Hydrolysis of L-aspargine derprives tumor cells of the necessary amino acid.</li>
+<li>Used to treat ALL (<em>Acute Lymphoblastic Leukemia</em>)</li>
+<li><strong>Must be adminstered within 9-10 days before OR 24 hours after treatment with antifolate methotrexate</strong><ul>
+<li>Concurrent asparginase use can block methotrexate (S phase) activity by inhibitin cell replication and inhibiting glutaminatinase <em>which methotrexate requires for optimal accumulation</em><ul>
+<li>Aspariginase before methotrexate is <strong>ANTAGONISTIC</strong></li>
+<li>Methotrexate before asparaginase may be <strong>SYNERGYSTIC</strong><h3 id="proteasome-inhibitors---bortezombi-and-carfilzomib">Proteasome Inhibitors - Bortezombi and Carfilzomib</h3>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Normall cells the proteasome degrades intracellular proteins and maintains homeostasis</li>
+<li><strong>Myeloma</strong> cells can be effectively <strong>killed by proteasome inhibitors</strong></li>
+<li><strong>Bortezomib</strong> binds <strong>reversibly</strong> to proteasome</li>
+<li><strong>Carfilzomib</strong> binds <strong>irreversibly</strong></li>
+<li>Inhibition of proteasome leads to an accumulation of protein in tumor cells that lead to cell death through the unfolded protein pathway.</li>
+<li>Proteasome inhibitors also inhibit NF-KB that is common in cancer cells.</li>
+<li><strong>Adverse Effects</strong>:<ul>
+<li>Peripheral neuropathy (reversible)</li>
+<li>Myelosuppresion</li>
+<li>Mild Gi effects<h3 id="dofferentiating-agents">Dofferentiating Agents</h3>
+</li>
+</ul>
+</li>
+<li>High tumor grades are poorly differentiated</li>
+<li>Alternative to inducing apoptosis</li>
+<li>Limited success EXCEPT: <ul>
+<li>ATRA or ATO for APL</li>
+<li>9-cis RA - regression of premalignant lesions in mouth and throat.<h3 id="chemoprotectant-or-antidotes">Chemoprotectant or Antidotes</h3>
+<ul>
+<li><strong>Amifostine (PRODRUG)</strong> - activated by alkaline phosphatases that are <strong>NOT</strong> on cancer cells.</li>
+<li>Scavenges <strong>free radicals</strong> and prevents <strong>cisplatin-induced nephrotoxicity</strong></li>
+<li><strong>MESNA prevents cyclophosphamide</strong> toxicity <strong>hemorrhagic cystitis</strong> by inactivating <strong>acrolein</strong></li>
+<li><strong>Methylene blue</strong> treats <strong>CNS toxicity</strong> caused by <strong>ifosamide</strong> by inhibiting <strong>chloroacetaldehyde</strong></li>
+<li><strong>Dexrazoxane prevents cardiotoxicity by anthracycline</strong> by <strong>chelating iron</strong> and preventing hyrdoxyl radicals</li>
+<li><strong>Folinic Acid (leocovorin) reduces methotrexate</strong> toxicity <strong>but enhances</strong> effect of pyrimidine antagonist <strong>5-FU</strong> by <em>inhibiting thymidylate synthase</em></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Chemotherapy I</title>
+        <author>
+            <name>William Slattery</name>
+        </author>
+        <link href="https://BGASM.github.io/medNotes/chemotherapy-i.html"/>
+        <id>https://BGASM.github.io/medNotes/chemotherapy-i.html</id>
+
+        <updated>2020-12-03T21:18:14-05:00</updated>
+            <summary>
+                <![CDATA[
+                    Chemotherapy IHallmarks of CancerChallengesMultiple mutationsHeterogeneityEpigeneticsTumor MicroenvironmentDrug Resistance:Chemotherapy:History:Types of ChemoTargetting the Cell CycleTherapeutic WindowDrug Resistance: Goldie-Coldman ModelCombination ChemotherapyRoute of Administration - 5-FUPharmacokineticsAlkylating AgentsAlkylating Mustards:General Mechanism:Reactivity:Notes on MustardsAlkylating Mustards: Cyclophosphamide and Ifosfamide are pro-drugsAlkylating Mustards: Cyclophosphamide and Ifosfamide and acrolein toxicityAlkylating Mustards: Ifosfamide Neurotoxicity:Alkylating NitrosoureasAlkylating TriazenesAlkylating Platinum&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <ul>
+<li><a href="#chemotherapy-i">Chemotherapy I</a><ul>
+<li><a href="#hallmarks-of-cancer">Hallmarks of Cancer</a><ul>
+<li><a href="#challenges">Challenges</a></li>
+</ul>
+</li>
+<li><a href="#multiple-mutations">Multiple mutations</a></li>
+<li><a href="#heterogeneity">Heterogeneity</a></li>
+<li><a href="#epigenetics">Epigenetics</a></li>
+<li><a href="#tumor-microenvironment">Tumor Microenvironment</a></li>
+<li><a href="#drug-resistance">Drug Resistance:</a><ul>
+<li><a href="#chemotherapy">Chemotherapy:</a></li>
+</ul>
+</li>
+<li><a href="#history">History:</a></li>
+</ul>
+</li>
+<li><a href="#types-of-chemo">Types of Chemo</a><ul>
+<li><a href="#targetting-the-cell-cycle">Targetting the Cell Cycle</a></li>
+<li><a href="#therapeutic-window">Therapeutic Window</a></li>
+<li><a href="#drug-resistance-goldie-coldman-model">Drug Resistance: Goldie-Coldman Model</a></li>
+<li><a href="#combination-chemotherapy">Combination Chemotherapy</a></li>
+<li><a href="#route-of-administration---5-fu">Route of Administration - 5-FU</a></li>
+<li><a href="#pharmacokinetics">Pharmacokinetics</a></li>
+</ul>
+</li>
+<li><a href="#alkylating-agents">Alkylating Agents</a><ul>
+<li><a href="#alkylating-mustards">Alkylating Mustards:</a><ul>
+<li><a href="#general-mechanism">General Mechanism:</a></li>
+<li><a href="#reactivity">Reactivity:</a></li>
+<li><a href="#notes-on-mustards">Notes on Mustards</a><ul>
+<li><a href="#alkylating-mustards-cyclophosphamide-and-ifosfamide-are-pro-drugs">Alkylating Mustards: <strong>Cyclophosphamide and Ifosfamide</strong> are <strong>pro-drugs</strong></a></li>
+<li><a href="#alkylating-mustards-cyclophosphamide-and-ifosfamide-and-acrolein-toxicity">Alkylating Mustards: <strong>Cyclophosphamide and Ifosfamide</strong> and acrolein toxicity</a></li>
+<li><a href="#alkylating-mustards-ifosfamide-neurotoxicity">Alkylating Mustards: Ifosfamide Neurotoxicity:</a></li>
+</ul>
+</li>
+<li><a href="#alkylating-nitrosoureas">Alkylating Nitrosoureas</a></li>
+<li><a href="#alkylating-triazenes">Alkylating Triazenes</a></li>
+<li><a href="#alkylating-platinum-complexes">Alkylating Platinum Complexes</a></li>
+<li><a href="#alkylating-miscellaneous-procarbazine">Alkylating Miscellaneous: Procarbazine</a></li>
+</ul>
+</li>
+<li><a href="#summary-of-alkylating">Summary of Alkylating:</a></li>
+<li><a href="#summary-of-alkylating-agent-toxicity">Summary of Alkylating Agent Toxicity:</a><h2 id="chemotherapy-i">Chemotherapy I</h2>
+</li>
+</ul>
+</li>
+<li>Oncogene vs Tumor Suppressor | Gain of Function vs Loss of Function</li>
+<li>Treating oncogenes the goal is to suppress<ul>
+<li>e.g. Tyrosine kinase inhibitor</li>
+</ul>
+</li>
+<li>Treating suppressor genes goal is to activate<ul>
+<li>e.g. MAB cetuximab, which activates p53.<h4 id="hallmarks-of-cancer">Hallmarks of Cancer</h4>
+</li>
+</ul>
+</li>
+<li>Sustained proliferation</li>
+<li>Evade growth suppressors</li>
+<li>Enable replicative immortality</li>
+<li>Resist celld eath</li>
+<li>Activate invastion and metastasis</li>
+<li>Induce angiogenesis</li>
+<li>Genome instability and mutation</li>
+<li>Avoid immune destruction</li>
+<li>Deregulate cellular metabolism</li>
+<li>Tumor promoting inflammation</li>
+<li><figure class="post__image"><img loading="lazy" src="https://BGASM.github.io/medNotes/media/posts/9/target.JPG" sizes="(max-width: 48em) 100vw, 768px" srcset="https://BGASM.github.io/medNotes/media/posts/9/responsive/target-xs.JPG 300w ,https://BGASM.github.io/medNotes/media/posts/9/responsive/target-sm.JPG 480w ,https://BGASM.github.io/medNotes/media/posts/9/responsive/target-md.JPG 768w ,https://BGASM.github.io/medNotes/media/posts/9/responsive/target-lg.JPG 1024w ,https://BGASM.github.io/medNotes/media/posts/9/responsive/target-xl.JPG 1360w ,https://BGASM.github.io/medNotes/media/posts/9/responsive/target-2xl.JPG 1600w"  alt="Targetting Cancer" width="716" height="528" /></figure><h3 id="challenges">Challenges</h3>
+<h4 id="multiple-mutations">Multiple mutations</h4>
+<h4 id="heterogeneity">Heterogeneity</h4>
+<ul>
+<li>2/3 of mutation from single biopsy not detected in different regions of the same tumor<h4 id="epigenetics">Epigenetics</h4>
+</li>
+<li>Normal cells acquire gentic and epigenetic alterations</li>
+<li>Trying to treat cancer can exert additional pressure that accerlates its development of resistant</li>
+<li>Epigenetic therapy can reverse these and restore sensitivity to treatment</li>
+<li>Epigenetic targets enzymes - less toxic than chemo.</li>
+<li><strong>Great if use in combination therapy</strong><h4 id="tumor-microenvironment">Tumor Microenvironment</h4>
+</li>
+</ul>
+</li>
+<li>Multiple cell types that support tumor growth<ul>
+<li><strong>Immune cells</strong></li>
+<li><strong>Fibroblasts</strong></li>
+<li><strong>Endothelial cells</strong></li>
+<li><strong>Vasculature</strong></li>
+<li><em>Pancreatic cancer is not majorally cancerous cells, large portion is *</em>fibroblast***</li>
+</ul>
+</li>
+<li>These microenvironment cells are all <strong>targetable</strong><h4 id="drug-resistance">Drug Resistance:</h4>
+<ul>
+<li><strong>P-glycoprotein efflux pumps</strong> extrude chemotherapy drugs</li>
+<li>Drug metabolism</li>
+<li>Drug sequestration</li>
+<li>Alter signal transduction pathways</li>
+<li>Evade or ignore programmed cell death<h3 id="chemotherapy">Chemotherapy:</h3>
+</li>
+<li>Dev 1940-1960 for solid tumors, hematological malignancies</li>
+<li>Integrated with surgery and radiation</li>
+<li>Obstacles: <ul>
+<li>R</li>
+<li>Hurt normal cells   <h4 id="history">History:</h4>
+</li>
+<li>Mechlorethamine</li>
+<li>Anti-metabolites<ul>
+<li>Methotrexate and 5-fu</li>
+</ul>
+</li>
+<li>Vinca Alkaloid</li>
+<li>Cisplatin to inhibit cell division and cure solid tumors</li>
+<li>Cure of Hodgkin’s disease and ALL</li>
+<li>Adjuvant chemotherapy</li>
+<li>Cure of testicular cancer (vinblastine + bleomycin + cisplatin)</li>
+<li>Targeted Therapy:<ul>
+<li>Gleevec - RTK for CML</li>
+<li>Rituximab - NHL<h2 id="types-of-chemo">Types of Chemo</h2>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Primary Induction</strong><ul>
+<li><strong>advanced and no alternative</strong></li>
+<li>Palliative</li>
+<li><strong>Improve quality of life</strong></li>
+<li>Prolong time to tumor progression (TTP)</li>
+</ul>
+</li>
+<li><strong>Neoaduvnat</strong><pre><code>- localized cancer
+- Not completely effective
+- Used when surgery is not possible</code></pre></li>
+<li><strong>Adjuvant</strong><pre><code>- follow surgery and radiation
+- Reduce incidence of local and systemic recurrence
+- **Improve overall survival** **OS**
+- **Prolong disease free survival** **DFS**</code></pre><h3 id="targetting-the-cell-cycle">Targetting the Cell Cycle</h3>
+</li>
+<li><figure class="post__image"><img loading="lazy" src="https://BGASM.github.io/medNotes/media/posts/9/CELLCYCLE.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://BGASM.github.io/medNotes/media/posts/9/responsive/CELLCYCLE-xs.png 300w ,https://BGASM.github.io/medNotes/media/posts/9/responsive/CELLCYCLE-sm.png 480w ,https://BGASM.github.io/medNotes/media/posts/9/responsive/CELLCYCLE-md.png 768w ,https://BGASM.github.io/medNotes/media/posts/9/responsive/CELLCYCLE-lg.png 1024w ,https://BGASM.github.io/medNotes/media/posts/9/responsive/CELLCYCLE-xl.png 1360w ,https://BGASM.github.io/medNotes/media/posts/9/responsive/CELLCYCLE-2xl.png 1600w"  alt="Cell Cycle" width="1498" height="779" /></figure></li>
+<li>Cell survival exponentially related to dose</li>
+<li>Slope of curve related to rate of cell proliferation</li>
+<li><strong>Effective</strong> against those cells that <strong>proliferate rapidly</strong></li>
+<li>Cause of Side Effects<ul>
+<li><strong>Bone marrow</strong> stem cells: Immunocompromise</li>
+<li>GI mucosal cells: </li>
+<li>Hair Follicles: Alopecia</li>
+<li>Ovaries testes<h3 id="therapeutic-window">Therapeutic Window</h3>
+</li>
+<li>Goals are to maximize efficacy and limit tocicity</li>
+<li>Usually use maximum tolerated dose<h3 id="drug-resistance-goldie-coldman-model">Drug Resistance: Goldie-Coldman Model</h3>
+<ul>
+<li>Drug resistance probability is dependednt on intrinsic genetic instabillity</li>
+<li>Even the <em>smallest detectable tumor contains at least 1 drug-resistant clone</em>.</li>
+</ul>
+</li>
+<li><strong>Use all effective chemo drugs</strong><h3 id="combination-chemotherapy">Combination Chemotherapy</h3>
+</li>
+</ul>
+</li>
+<li><figure class="post__image"><img loading="lazy" src="https://BGASM.github.io/medNotes/media/posts/9/combo.JPG" sizes="(max-width: 48em) 100vw, 768px" srcset="https://BGASM.github.io/medNotes/media/posts/9/responsive/combo-xs.JPG 300w ,https://BGASM.github.io/medNotes/media/posts/9/responsive/combo-sm.JPG 480w ,https://BGASM.github.io/medNotes/media/posts/9/responsive/combo-md.JPG 768w ,https://BGASM.github.io/medNotes/media/posts/9/responsive/combo-lg.JPG 1024w ,https://BGASM.github.io/medNotes/media/posts/9/responsive/combo-xl.JPG 1360w ,https://BGASM.github.io/medNotes/media/posts/9/responsive/combo-2xl.JPG 1600w"  alt="Combo" width="1578" height="906" /></figure><h3 id="route-of-administration---5-fu">Route of Administration - 5-FU</h3>
+</li>
+<li>IV bolus dose vs IV continuous infusion<ul>
+<li>IV Bolous: Incorporate into cellular RNA and myelosuppression</li>
+<li>IV Continuous: Incorporate into cellular DNA but skin toxicity</li>
+</ul>
+</li>
+<li>Intermittent dose<ul>
+<li>600mg/m2/cycle</li>
+<li>No cardiac or bladder toxicity</li>
+<li>Secondary malignancies can develop</li>
+</ul>
+</li>
+<li>Single high dose<ul>
+<li>Cardiac toxicity</li>
+<li>Hemorrhagic cystitis</li>
+</ul>
+</li>
+<li>Daily Dose<ul>
+<li>Hemorrhagic cystitis</li>
+<li>Secondary Malignancies<h3 id="pharmacokinetics">Pharmacokinetics</h3>
+</li>
+</ul>
+</li>
+<li>Phramocokinetics represents the kinetics of accumulation and disapperance from plasma</li>
+</ul>
+<h2 id="alkylating-agents">Alkylating Agents</h2>
+<ul>
+<li>Classes:<ol>
+<li><strong>Nitrogen mustards</strong></li>
+<li><strong>Nitrosoureas</strong></li>
+<li><strong>Triazenes</strong></li>
+<li><strong>Platinum complexes</strong><h3 id="alkylating-mustards">Alkylating Mustards:</h3>
+<h4 id="general-mechanism">General Mechanism:</h4>
+</li>
+</ol>
+<ul>
+<li>Drug activated into <em>reative intermediates</em> that <strong>form adducts</strong> at N7 position of guanine in DNA</li>
+<li>Loss of the guanine base (<em>depurination</em>) or miscoding of abnormal base pairing</li>
+<li>Strand break or cross-linking of DNA</li>
+<li>Cell death</li>
+<li><figure class="post__image"><img loading="lazy" src="https://BGASM.github.io/medNotes/media/posts/9/alkylate.JPG" sizes="(max-width: 48em) 100vw, 768px" srcset="https://BGASM.github.io/medNotes/media/posts/9/responsive/alkylate-xs.JPG 300w ,https://BGASM.github.io/medNotes/media/posts/9/responsive/alkylate-sm.JPG 480w ,https://BGASM.github.io/medNotes/media/posts/9/responsive/alkylate-md.JPG 768w ,https://BGASM.github.io/medNotes/media/posts/9/responsive/alkylate-lg.JPG 1024w ,https://BGASM.github.io/medNotes/media/posts/9/responsive/alkylate-xl.JPG 1360w ,https://BGASM.github.io/medNotes/media/posts/9/responsive/alkylate-2xl.JPG 1600w"  alt="Alkylate" width="876" height="659" /></figure><pre><code>Alkylating groups on nitrogen mustard act as &quot;warhead&quot;
+N7 on guanine acts as electron donor, forming adduct
+React with 2nd guanine, leading to depurination</code></pre><h4 id="reactivity">Reactivity:</h4>
+</li>
+</ul>
+</li>
+<li>Reactivity can be reduced by adding aromatic ring to warhead.</li>
+<li>Less reactivity allows for drug to be given orally.<ul>
+<li>Elderly patients with multiple myeloma or CLL<h4 id="notes-on-mustards">Notes on Mustards</h4>
+<h5 id="alkylating-mustards-cyclophosphamide-and-ifosfamide-are-pro-drugs">Alkylating Mustards: <strong>Cyclophosphamide and Ifosfamide</strong> are <strong>pro-drugs</strong></h5>
+</li>
+<li>Share same active cytotoxic ingredient: phophoramide mustard</li>
+<li>Both metabolized to <strong>acrolein</strong> (toxic to bladder - <strong>hemorrhagic cystitis</strong>)<h5 id="alkylating-mustards-cyclophosphamide-and-ifosfamide-and-acrolein-toxicity">Alkylating Mustards: <strong>Cyclophosphamide and Ifosfamide</strong> and acrolein toxicity</h5>
+</li>
+<li>Hemorrhagic cystitis is dose and schedule dependent</li>
+<li>Acreolin react with nucleophiles in uroepithelium:<ul>
+<li>Prevent with adequate hydration or MESNA</li>
+<li>MESNA inactivates acrolein by binding to and preventing reaction with cellular nucleophiles</li>
+<li>MESNA can prevent hemorrhagic cystitis, but not treat it.</li>
+<li>Treatment is hydration with saline</li>
+<li><strong>Blood in urine of PT treated with cyclophosphamide</strong> is an early warning sign of bladder tox.<h5 id="alkylating-mustards-ifosfamide-neurotoxicity">Alkylating Mustards: Ifosfamide Neurotoxicity:</h5>
+</li>
+</ul>
+</li>
+<li>Ifosfamide shares hemorrhagic cystits toxicity with cyclophosphamide - <strong>acrolein</strong></li>
+<li>Also has Unique CNS neurotoxicity: <ul>
+<li>Chloroacetaldehyde distrub mitochondrial respiratory chain</li>
+<li><strong>Methylene blue is the antidote</strong>. Inhibits formation of <strong>chloroacetaldehyde</strong></li>
+<li><figure class="post__image"><img loading="lazy" src="https://BGASM.github.io/medNotes/media/posts/9/ifosamide.JPG" sizes="(max-width: 48em) 100vw, 768px" srcset="https://BGASM.github.io/medNotes/media/posts/9/responsive/ifosamide-xs.JPG 300w ,https://BGASM.github.io/medNotes/media/posts/9/responsive/ifosamide-sm.JPG 480w ,https://BGASM.github.io/medNotes/media/posts/9/responsive/ifosamide-md.JPG 768w ,https://BGASM.github.io/medNotes/media/posts/9/responsive/ifosamide-lg.JPG 1024w ,https://BGASM.github.io/medNotes/media/posts/9/responsive/ifosamide-xl.JPG 1360w ,https://BGASM.github.io/medNotes/media/posts/9/responsive/ifosamide-2xl.JPG 1600w"  alt="Ifosamide" width="871" height="657" /></figure><h4 id="alkylating-nitrosoureas">Alkylating Nitrosoureas</h4>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Liberate organic isocyanates</li>
+<li>React with lysine residues</li>
+<li>Inactivation of protein, esp DNA repair enzyme</li>
+<li><strong>Highly lipophillic</strong> and used to treat brain tumor because <strong>cross BBB</strong><h4 id="alkylating-triazenes">Alkylating Triazenes</h4>
+</li>
+<li><strong>Methylate</strong> DNA at O6 and N7 positions on <strong>Guanine</strong></li>
+<li>Temozolamide is <strong>highly lipophillic</strong></li>
+</ul>
+<h4 id="alkylating-platinum-complexes">Alkylating Platinum Complexes</h4>
+<ul>
+<li>React with DNA to produce inter and intra strand crosslinnks between adjacent guanines, or guanine and adeninge</li>
+<li>Produce <strong>DNA adducts</strong> that inhibit replication and transcription</li>
+<li><strong>Cisplatin, Carboplatin</strong>: <ul>
+<li>Good for <strong>neck cancer</strong>. </li>
+<li>Cistplatin has <strong>High nephrotoxicity</strong></li>
+<li>Carboplatin has <strong>low nephrotoxicity</strong></li>
+</ul>
+</li>
+<li>Oxaliplatin: <ul>
+<li>More effective for <strong>colon and pancreatic</strong></li>
+</ul>
+<strong>- Nephrotoxicity</strong></li>
+<li>Oxaliplatin more potent than cisplatin in vitro and requires fewer DNA adducts to achieve cytotoxicity</li>
+<li>Carboplatin is a larger molecule than cisplatin; longer retention and different toxicities (less)</li>
+<li><strong>Cytotoxic activity against different tumors and toxicity NOT the same with different platinum compounds</strong><h4 id="alkylating-miscellaneous-procarbazine">Alkylating Miscellaneous: Procarbazine</h4>
+</li>
+<li>MAOI: MAO - Inhibitor<h3 id="summary-of-alkylating">Summary of Alkylating:</h3>
+</li>
+<li>Share similar mechanism of action:<ul>
+<li>Activated to reactive</li>
+<li>Form adducts with cellular macromolecules</li>
+<li>Methylkate DNA
+gernate isocyanates</li>
+<li>Same adverse effects:</li>
+<li>Hemorrhagic cystitis</li>
+<li>CNS toxicity</li>
+<li>Nephrotoxicity and neuropathy</li>
+</ul>
+</li>
+<li>Lipophillic agents have unique applications<h3 id="summary-of-alkylating-agent-toxicity">Summary of Alkylating Agent Toxicity:</h3>
+<ul>
+<li>More toxic to normal, rapidly proliferating cells</li>
+<li>Non-cell cycle specific</li>
+<li>Damage DNA</li>
+<li>Increase mutations</li>
+<li>Secondary malignancies are long-term<ul>
+<li>Leukemias</li>
+<li>Myelodysplastic syndrome</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Infarction Shock and DIC</title>
         <author>
