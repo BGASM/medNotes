@@ -3,12 +3,1260 @@
     <title>BHOLE</title>
     <link href="https://BGASM.github.io/medNotes/feed.xml" rel="self" />
     <link href="https://BGASM.github.io/medNotes" />
-    <updated>2020-12-03T21:20:33-05:00</updated>
+    <updated>2020-12-06T17:14:54-05:00</updated>
     <author>
         <name>William Slattery</name>
     </author>
     <id>https://BGASM.github.io/medNotes</id>
 
+    <entry>
+        <title>Virology VII</title>
+        <author>
+            <name>William Slattery</name>
+        </author>
+        <link href="https://BGASM.github.io/medNotes/virology-vii.html"/>
+        <id>https://BGASM.github.io/medNotes/virology-vii.html</id>
+            <category term="MMG"/>
+
+        <updated>2020-12-06T17:14:54-05:00</updated>
+            <summary>
+                <![CDATA[
+                    Family RetroviridaeMorphologySpeciesStructureProviral GenomeLife CycleTransmissionPathogenesisClinical ManifestationClinically Dormant Stage - LatencyHIV set pointTime CourseOpportunistic InfectionsNeurological DiseaseDiagnosticsHIV Antiviral ModelsBindingFusion InhibNucleoside Analogue Reverse Transcriptase Inhibitors: NRTIsnon-nucleoside reverse transcriptase inhibitors (NNRTIs)Integrase InhibitorsProtease InhibitorsHighly Active Antiretroviral Therapy, or HAARTConsiderations When Choosing HAARTTreatment FailureImmune Reconsitution SyndromeTruvada - ProphylaxisHTLVFamily RetroviridaeAlpha-Epsilonretrovirus and LentivirusLentivirusSpecies: HIV-1&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <ul>
+<li><a href="#family-retroviridae">Family Retroviridae</a><ul>
+<li><a href="#morphology">Morphology</a></li>
+<li><a href="#species">Species</a></li>
+<li><a href="#structure">Structure</a></li>
+<li><a href="#proviral-genome">Proviral Genome</a></li>
+<li><a href="#life-cycle">Life Cycle</a></li>
+<li><a href="#transmission">Transmission</a></li>
+<li><a href="#pathogenesis">Pathogenesis</a></li>
+<li><a href="#clinical-manifestation">Clinical Manifestation</a></li>
+<li><a href="#clinically-dormant-stage---latency">Clinically Dormant Stage - Latency</a></li>
+<li><a href="#hiv-set-point">HIV set point</a></li>
+<li><a href="#time-course">Time Course</a></li>
+<li><a href="#opportunistic-infections">Opportunistic Infections</a></li>
+<li><a href="#neurological-disease">Neurological Disease</a></li>
+<li><a href="#diagnostics">Diagnostics</a></li>
+</ul>
+</li>
+<li><a href="#hiv-antiviral-models">HIV Antiviral Models</a><ul>
+<li><a href="#binding">Binding</a></li>
+<li><a href="#fusion-inhib">Fusion Inhib</a></li>
+<li><a href="#nucleoside-analogue-reverse-transcriptase-inhibitors-nrtis">Nucleoside Analogue Reverse Transcriptase Inhibitors: NRTIs</a></li>
+<li><a href="#non-nucleoside-reverse-transcriptase-inhibitors-nnrtis">non-nucleoside reverse transcriptase inhibitors (NNRTIs)</a></li>
+<li><a href="#integrase-inhibitors">Integrase Inhibitors</a></li>
+<li><a href="#protease-inhibitors">Protease Inhibitors</a></li>
+<li><a href="#highly-active-antiretroviral-therapy-or-haart">Highly Active Antiretroviral Therapy, or HAART</a></li>
+<li><a href="#considerations-when-choosing-haart">Considerations When Choosing HAART</a></li>
+<li><a href="#treatment-failure">Treatment Failure</a></li>
+<li><a href="#immune-reconsitution-syndrome">Immune Reconsitution Syndrome</a></li>
+<li><a href="#truvada---prophylaxis">Truvada - Prophylaxis</a></li>
+<li><a href="#htlv">HTLV</a><h2 id="family-retroviridae">Family Retroviridae</h2>
+</li>
+</ul>
+</li>
+<li>Alpha-Epsilonretrovirus and Lentivirus</li>
+<li>Lentivirus<ul>
+<li>Species: HIV-1 and HIV-2<h3 id="morphology">Morphology</h3>
+</li>
+</ul>
+</li>
+<li>A Type: Non-enveloped, immature pareticles. Endogenous and non-infectious.</li>
+<li>B Type: Enveloped. Acentric Core</li>
+<li>C Type: Central Core</li>
+<li>D Type: Central and cylindrical core</li>
+<li>Epsilon, Lenti, Spuma all similar to D-Type, but with different core shapes. Lenti is cone shaped, epsi<h3 id="species">Species</h3>
+</li>
+<li>HIV 1 and 2 share 40% sequence homology</li>
+<li>Type 1 predominant form worldwide</li>
+<li>Type 2 prevalent onliy in west africa and is lest virulent.</li>
+<li>Origin: SImian Immunoeficiency virus (SIV) is a primate retrovirus.<h3 id="structure">Structure</h3>
+</li>
+<li>RNA+ which <em>can</em> function as mRNA, but with HIV it does not.</li>
+<li>Each virion carries 2 identical copes of viral mRNA</li>
+<li>Envelope contains both <strong>transmembrane</strong> and <strong>surface</strong> proteins<h3 id="proviral-genome">Proviral Genome</h3>
+</li>
+<li>GAG - matrix, capsid, nucleosome</li>
+<li>POL </li>
+<li>ENV</li>
+<li><figure class="post__image"><img loading="lazy" src="https://github.com/BGASM/medNotes/blob/23850cbd41869d2dbb6aa7664824552e90733361/MMG%2Fimg%2Fhivproviral.JPG" data-is-external-image="true"  alt="provirus" /></figure><h3 id="life-cycle">Life Cycle</h3>
+</li>
+<li>Attachment between gp120 and CD4 followed by interaction with co-receptor CCR5 or CXCR 4</li>
+<li>CD4/CCR5 - R5 virus”, initial infection</li>
+<li>CD4/CXCR4 “X4 virus”, later in infection</li>
+<li>CD4/CXCR4&amp;CCR5 - “X4/R5</li>
+<li>Following receptor/co-receptor binding, gp41 mediates fusion of the viral envelope with the cell membrane. After membrane fusion, the nucleocapsid is released into the cytoplasm.</li>
+<li>Reverse transcribed into DNA from RNA.<ul>
+<li><strong>RT is a very error prone process which results in multiple mutant drug resistant strains</strong></li>
+<li>RNA strand in hybrid gets digested by RNaseH</li>
+<li>Second DNA strand gets synthesized using the new DNA as a template</li>
+<li>Produces a dsDNA known as <strong>proviral DNA</strong></li>
+<li>Long-Terminal-Repeat (LTR) formed at each end</li>
+<li>Proviral DNA enters nucleus and integrates into cell DNA</li>
+<li>Proviral DNA is replicated now along with the host genome every time the host cells divide.</li>
+<li>Integrated DNA gets transcribed and translated</li>
+<li><strong>Viral promoter and polyadenylation signals</strong> are located in the <strong>LTR</strong></li>
+<li>Viral RNA can be used as mRNA or act as knew denomes<ul>
+<li>Some are intact genome, some are subgenomic RNA</li>
+<li>Some are nucelocapsids</li>
+<li>Maturation after budding gives rise to viral<h3 id="transmission">Transmission</h3>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Direct blood contact: transfusions, nbeedles, open wounds</li>
+<li>Sexual intercourse</li>
+<li>Prinatal transmission<h3 id="pathogenesis">Pathogenesis</h3>
+</li>
+<li>Virus infect CD4 T cells and macrophages</li>
+<li>Also infects dendritic cells</li>
+<li><strong>T cells lytically infected</strong></li>
+<li><strong>Mphage are persisitently infected and serve as a reservoir</strong></li>
+<li>Loss of CD4 over time<h3 id="clinical-manifestation">Clinical Manifestation</h3>
+</li>
+<li>Primary/Acute HIV (2wk - 3mo)</li>
+<li>Initial infection usually due to R5 virus that infects CCR5 cells</li>
+<li>Fever, fatigue, rash, headache, swollen lymph nodes, sore throat</li>
+<li>Some are asympomatic</li>
+<li>Immune system begins to respond by producing <strong>anti-HIV Ab. This process is called sero-conversion.</strong> <ul>
+<li>Ab testing before this time may miss the virus. This is a <strong>window period</strong><h3 id="clinically-dormant-stage---latency">Clinically Dormant Stage - Latency</h3>
+</li>
+</ul>
+</li>
+<li>Can last years without HAART</li>
+<li>Asymp</li>
+<li><strong>Level of virus in blood decreases and stays at ‘steady state’</strong><h3 id="hiv-set-point">HIV set point</h3>
+</li>
+<li>Reflects a <strong>stabilized HIV viral load</strong> in a person after acute phase has ended</li>
+<li>Higher set point → faster progression to AIDS</li>
+<li>Viral Load &gt; 75000 copies/ml and CD$ &lt; 200 ml</li>
+<li><figure class="post__image"><img loading="lazy" src="https://github.com/BGASM/medNotes/blob/23850cbd41869d2dbb6aa7664824552e90733361/MMG%2Fimg%2Fhivtimecourse.JPG" data-is-external-image="true"  alt="HIV Timecourse" /></figure><h3 id="time-course">Time Course</h3>
+</li>
+<li>Lifelong infection<h3 id="opportunistic-infections">Opportunistic Infections</h3>
+</li>
+<li>Parasitic</li>
+<li>Toxoplasma gondii</li>
+<li>Cryptosporidium</li>
+<li>Fungal</li>
+<li>Candida albicans</li>
+<li>Cryptococcus neoformans</li>
+<li>Pneumocystis carinii</li>
+<li>Histoplasma capsulatum</li>
+<li>Viral</li>
+<li>CMV</li>
+<li>Herpes Zoster and Herpes Simplex</li>
+<li>EBV</li>
+<li>Bacterial</li>
+<li>Mycobacterium tuberculosis</li>
+<li>Mycobacterium avium-intracellular complex  </li>
+<li>Kaposi Sarcoma HHV-8<ul>
+<li>Purple papular lesions all over body</li>
+</ul>
+</li>
+<li>Non-Hodgkin lymphoma</li>
+<li>EBV related lymphoma<h3 id="neurological-disease">Neurological Disease</h3>
+</li>
+<li>AIDS related Dementia</li>
+<li>Virus carried to CNS by monocytes and macrophages</li>
+<li>Microglia and astrocytes get infected</li>
+<li>Slow deterioration of cognitive function<h3 id="diagnostics">Diagnostics</h3>
+</li>
+<li>ELISA or Western blot look for presence of p24 (capsid protein)</li>
+<li>PCR</li>
+<li>RT/PCR</li>
+<li>Or assay for Ab to viral proteins by ELISA or Western</li>
+<li><figure class="post__image"><img loading="lazy" src="https://github.com/BGASM/medNotes/blob/23850cbd41869d2dbb6aa7664824552e90733361/MMG%2Fimg%2Fhivlab.JPG" data-is-external-image="true"  alt="HIV Labs" /></figure></li>
+</ul>
+<ol>
+<li>Combination immunoassay for HIV 1/2</li>
+<li>DIfferentiation immunoassay</li>
+<li>Nucleic Acid Test<h2 id="hiv-antiviral-models">HIV Antiviral Models</h2>
+</li>
+</ol>
+<ul>
+<li>Receptor Blocking</li>
+<li>Fusion inhibition</li>
+<li>Reverser Transcriptase Inhibitors and Nucleoside Analogues</li>
+<li>Protease Inhibitors</li>
+<li>Integrase Inhibitors</li>
+<li>HAART - Highly Active Antiretroviral Therapy<h3 id="binding">Binding</h3>
+</li>
+<li>CCR5 blockers</li>
+<li>Maraviroc </li>
+<li>wont work on CSCR4<h3 id="fusion-inhib">Fusion Inhib</h3>
+</li>
+<li>T20 Fuzeon/Enfuvirtide</li>
+<li>Block HIV ability to bind and fuse the viral envelope with cell membrane</li>
+<li>Designed to be used in combo with other.<h3 id="nucleoside-analogue-reverse-transcriptase-inhibitors-nrtis">Nucleoside Analogue Reverse Transcriptase Inhibitors: NRTIs</h3>
+</li>
+<li>AZT thymidine analogue </li>
+<li>Since it lacks a 3’ OH group, it serves as a chain terminator, thereby blocking the replication cycle.</li>
+<li>Host cell 100 fold less sensitive to AZT than RT<h3 id="non-nucleoside-reverse-transcriptase-inhibitors-nnrtis">non-nucleoside reverse transcriptase inhibitors (NNRTIs)</h3>
+</li>
+<li>These drugs bind to RT and block its activity so there is no incorporation of nucleotides. Drugs in this class include: Delavridine (Rescriptor)  Nevirapine (Viramune) Efravirenz (Sustiva)<h3 id="integrase-inhibitors">Integrase Inhibitors</h3>
+</li>
+<li>Block viral integrase<h3 id="protease-inhibitors">Protease Inhibitors</h3>
+</li>
+<li>Interfere with processing of viral proteins.<h3 id="highly-active-antiretroviral-therapy-or-haart">Highly Active Antiretroviral Therapy, or HAART</h3>
+</li>
+<li>Because HIV can become resistant to any of the drugs currently in use, combination treatments must be used to effectively suppress the virus.</li>
+<li>When multiple drugs (three or more) are used in combination, it is referred to as highly active antiretroviral therapy, or HAART (or just ART).<h3 id="considerations-when-choosing-haart">Considerations When Choosing HAART</h3>
+</li>
+<li>Use mixture of drugs (typically 3-4) with different mechanisms of action.</li>
+<li>Insure no cross-resistance.</li>
+<li>Minimize side effects to improve compliance.</li>
+<li>Combine drugs into single pill to improve compliance.</li>
+<li>Decrease number of times taken per day to improve compliance.</li>
+<li>Decide when to initiate therapy.</li>
+<li>Conduct genotype and drug resistance testing to guide choice of regimen.<h3 id="treatment-failure">Treatment Failure</h3>
+</li>
+<li>Signs include Weight loss, anemia, fever, new infections, TB, HSV, CMV</li>
+<li>Continued detection of viral PCR</li>
+<li>Low CD4 count</li>
+<li>Causes could be poor compliance, viral resistence, inadequate drug absorption or suboptimal dosing.<h3 id="immune-reconsitution-syndrome">Immune Reconsitution Syndrome</h3>
+</li>
+<li>Reported in chronically infected HIV-AIDS patients treated with new anti-retroviral combos</li>
+<li>As the immune system begins to recover there is a massive inflammaotry response that makes symptoms worse<h3 id="truvada---prophylaxis">Truvada - Prophylaxis</h3>
+</li>
+<li>Combines two HIV medicines in one pill and is taken to reduce risk of getting HIV.</li>
+<li>Both drugs are <strong>NRTIs</strong> and block reverse transcriptase <h3 id="htlv">HTLV</h3>
+</li>
+<li>Retrovirus that causes adult <strong>acute T cell lymphocytic leukemia</strong> ATLL</li>
+<li>Virus is cell associated: spread via blood transfusion, sexual intercourse, or breast feeding</li>
+<li>Infect CD4 t cells</li>
+<li>Tax gene product activates cellular genes encoding T cell growth factos like IL2, which may cause tumor formation</li>
+<li><strong>Long latent period (30 years) before leukemia</strong></li>
+<li>Tumor cells contain proviral DNA</li>
+<li>Tumor cells don’t awlays express viral protein</li>
+<li>Endemic in parts of Japan</li>
+<li>No treatments exist for acute or chronic HTLV</li>
+</ul>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Virology V</title>
+        <author>
+            <name>William Slattery</name>
+        </author>
+        <link href="https://BGASM.github.io/medNotes/virology-v.html"/>
+        <id>https://BGASM.github.io/medNotes/virology-v.html</id>
+            <category term="MMG"/>
+
+        <updated>2020-12-06T17:14:35-05:00</updated>
+            <summary>
+                <![CDATA[
+                    Picornavirus - Rhino,LifecyclePoliovirusCoxsackieviruses: Group A and BRhinovirusesNorovirusesCoronavirusesSARS-COV2Replication:SARS-COVMERS-CoVURTRotavirusPicornavirus - Rhino,Plus Strand, Non-EnvelopedEnterovirusPoliovirusCoxsakievirusEchovirusEnterovirus D68Rhinovirus only one that doesn’t get past the nose/mouthHepatovirusHepatitis AStart in respiratory tract.Travel to target tissue skin, muscle, brain, liverLifecycleBind to cell using viral capsid proteinUpon binding, change in virus structure.RNA+ injected directly to&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <ul>
+<li><a href="#picornavirus---rhino">Picornavirus - Rhino,</a><ul>
+<li><a href="#lifecycle">Lifecycle</a></li>
+<li><a href="#poliovirus">Poliovirus</a></li>
+<li><a href="#coxsackieviruses-group-a-and-b">Coxsackieviruses: Group A and B</a></li>
+<li><a href="#rhinoviruses">Rhinoviruses</a></li>
+<li><a href="#noroviruses">Noroviruses</a></li>
+<li><a href="#coronaviruses">Coronaviruses</a><ul>
+<li><a href="#sars-cov2">SARS-COV2</a></li>
+<li><a href="#replication">Replication:</a></li>
+<li><a href="#sars-cov">SARS-COV</a></li>
+<li><a href="#mers-cov">MERS-CoV</a></li>
+</ul>
+</li>
+<li><a href="#urt">URT</a><ul>
+<li><a href="#rotavirus">Rotavirus</a><h1 id="picornavirus---rhino">Picornavirus - Rhino,</h1>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p><strong>Plus Strand, Non-Enveloped</strong></p>
+<ul>
+<li>Enterovirus<ul>
+<li>Poliovirus</li>
+<li>Coxsakievirus</li>
+<li>Echovirus</li>
+<li>Enterovirus D68</li>
+</ul>
+</li>
+<li>Rhinovirus <em>only one that doesn’t get past the nose/mouth</em></li>
+<li>Hepatovirus<ul>
+<li>Hepatitis A</li>
+</ul>
+</li>
+</ul>
+<ol>
+<li>Start in respiratory tract.</li>
+<li>Travel to target tissue <em>skin, muscle, brain, liver</em><h2 id="lifecycle">Lifecycle</h2>
+</li>
+</ol>
+<ul>
+<li><strong>Bind</strong> to cell using <strong>viral capsid protein</strong></li>
+<li>Upon binding, change in virus structure.<ul>
+<li>RNA+ injected directly to cytoplasm</li>
+</ul>
+</li>
+<li>Picorn genome has <strong>one large ORF</strong>, that makes a single polyprotein.</li>
+<li><figure class="post__image"><img loading="lazy" src="https://github.com/BGASM/medNotes/blob/23850cbd41869d2dbb6aa7664824552e90733361/MMG%2Fimg%2Fpico.JPG" data-is-external-image="true"  alt="pico genome" /></figure></li>
+<li>Several encoded proteins are <strong>Proteases</strong>, that cleave polyprotein into various proteins:<ul>
+<li>Capsid proteins</li>
+<li><strong>Viral replicase (RDRP)</strong></li>
+<li>VPg which bind viral 5’</li>
+</ul>
+</li>
+<li><strong>RDRP is used to make complementary RNA+</strong>, which makes more RNA+</li>
+<li>New RNA+ used to:<ul>
+<li>Make more viral prot</li>
+<li>Template to make more -RNA</li>
+<li>Package into capsid, make new virion</li>
+</ul>
+</li>
+<li>Procapsid formed from protomers VP0,1,3. <ul>
+<li><em>5 protomers to form pentamer, 12 pentamer to form procapsid.</em></li>
+</ul>
+</li>
+<li>Viral Rna inserted into procapsid, <em>VP0 is cleaved into VP2 + VP4</em>, forming mature capsid</li>
+<li>Released by cell lysis (<em>cytolytic</em>)<h2 id="poliovirus">Poliovirus</h2>
+</li>
+<li>Enterovirus</li>
+<li>Entry into mouth</li>
+<li>Replication in pharynx, GI, lymphatics</li>
+<li><em>Hematologic spread to lymphatics</em> -&gt; <strong>CNS Invasion</strong></li>
+<li>Viral spread along nerve fibers</li>
+<li><strong>Destruction of motor neurons</strong></li>
+<li>Salk Vaccine: Inactivated</li>
+<li>Sabin Vaccine: Live<h2 id="coxsackieviruses-group-a-and-b">Coxsackieviruses: Group A and B</h2>
+</li>
+<li>Infants and children</li>
+<li>Fecal-oral tx</li>
+<li>Herpangina (mouth blisters) caused by A:</li>
+<li>Hand, Foot, Mouth commonly caused by Cox A16</li>
+<li>Cox B:<ul>
+<li>Myocarditis</li>
+<li>Pleurodynia</li>
+<li>Cox Asecepitc Meningitis<h2 id="rhinoviruses">Rhinoviruses</h2>
+</li>
+</ul>
+</li>
+<li>Unable to replicate in Gi (labile to pH)</li>
+<li>Common cause of URT infection</li>
+<li>Tx as aerosole and on fomite</li>
+<li>Asymptomatic in many case<h2 id="noroviruses">Noroviruses</h2>
+</li>
+<li>Member of calicivirus</li>
+<li>Oral-fecal tx</li>
+<li>Resistant to heat, pH, detergent</li>
+<li>Food-borne, Direct contact</li>
+<li>Commonly outbreaks in long-term care facilities</li>
+<li>No specific treatment. Prevent dehydration</li>
+<li>Diagnosis:<ul>
+<li>Real time RT/PCR</li>
+<li>EIA (enzyme immunoassay) for outbreaks. Not specific enough for individual cases<h2 id="coronaviruses">Coronaviruses</h2>
+</li>
+</ul>
+</li>
+<li>Nidovirales &gt; Coronaviridae &gt; Coronavirinae &gt; Beta coronavirus &gt; SARS-CoV, MERS-CoV, SARS-COV2<h3 id="sars-cov2">SARS-COV2</h3>
+</li>
+<li>RNA+, 30 kb</li>
+<li>Structural proteins:  S, E, M, N</li>
+<li>Several viral enzymes</li>
+<li>Enveloped virion 80-100 nm</li>
+<li>Envelope contains club-shaped glycoprotein projects that appear crown-like.</li>
+<li><strong>S protein</strong>:<ul>
+<li>Attaches to host ACE2 receptor using two subunits, S1 and S2</li>
+<li>S1 determines host range and cellular tropism by RBD</li>
+<li>S2 mediates virus-cell membrane fusion by HR1 and HR2</li>
+<li>Animals were intermediate host, no ACE2 binding in non-humans</li>
+</ul>
+</li>
+<li><strong>M protein</strong><ul>
+<li>Responsible for transmembrane transport of nutrients, bud relase, and envelope formation</li>
+</ul>
+</li>
+<li><strong>N E protein</strong>:<ul>
+<li>Interfere with host immune response</li>
+</ul>
+</li>
+<li>Host Factors:<ul>
+<li><strong>hACE2</strong></li>
+<li>Elderly more susceptible</li>
+<li><em>CPE</em> Cytopathic effect and cytokine storm.<h3 id="replication">Replication:</h3>
+</li>
+</ul>
+<ol>
+<li>Spike binds ACE2 receptor. Remove envelope</li>
+<li>Translate ORF1a/b</li>
+<li>Cleave proteins. Repl/Transcriptionm complex use RNA+ as templat</li>
+<li>RNA+ produced through replication, becomes genome for baby virus</li>
+<li>NESTED RNA from step 4 translated into S E M N proteins, make viral particle</li>
+<li>Spike, envelope and membrane enter ER and nucleocapsid protein combine dwith RNA+ genomic RNA. Merge into complete virus in ER-Golgi and get excreted.</li>
+</ol>
+<ul>
+<li><figure class="post__image"><img loading="lazy" src="https://github.com/BGASM/medNotes/blob/23850cbd41869d2dbb6aa7664824552e90733361/MMG%2Fimg%2Fsars.JPG" data-is-external-image="true"  alt="SARS COV" /></figure></li>
+<li>Seven human coronaviruses, some common ones:<ul>
+<li>229E (alpha)</li>
+<li>NL63 (alpha)</li>
+<li>OC43 (beta)</li>
+<li>HKU1 (beta)</li>
+</ul>
+</li>
+<li>Common cause of URT infect in adult.</li>
+<li>Second most common cause of ‘cold’, right behind rhinovirus.</li>
+<li>Occasionally cause enteric infect.</li>
+<li>Rarely cause neuroligcial</li>
+<li>Sometimes cornavirus that infect animals evolve and become human coronavirus:<ul>
+<li>MERS-CoV</li>
+<li>SARS-CoV</li>
+<li>SARS-CoV-2<h3 id="sars-cov">SARS-COV</h3>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>person-person tx</li>
+<li>most virulent during 2nd week of illness, peak of respiratory excretion</li>
+<li>MOst case of human-human occur in health care setting</li>
+<li>Symptoms:<ul>
+<li>influenza-like</li>
+<li>fever, malaise, myalgia, headache, diarrhea, shivereing</li>
+<li>Cough, SoB, diarrhea in first/second week</li>
+<li>sever case evolve rapidly, progress to respiratory distress -&gt; ICU<h3 id="mers-cov">MERS-CoV</h3>
+</li>
+</ul>
+</li>
+</ul>
+<h2 id="urt">URT</h2>
+<ul>
+<li>Causes: 90% due to viruses, 10% Bacteria</li>
+<li>The common cold: runny nose, sore throat, sneezing, “bronchitis”, coughing, headaches, body aches, low grade fever.</li>
+<li>Over 200 viruses in many different families can cause upper respiratory infections;</li>
+<li>Rhinovirus (Picornaviridae)*</li>
+<li>Coronavirus (Coronaviridae)*</li>
+<li>Adenovirus (Adenoviridae)*</li>
+<li>RSV (Paramyxoviridae)</li>
+<li>Parainfluenza (Paramyxoviridae)</li>
+<li>Influenza (Orthomyxoviridae)<h3 id="rotavirus">Rotavirus</h3>
+<ul>
+<li>Respiratory, Enteric, Orphan</li>
+<li>Group A-E. Group A most common cause of childhood diarrhea and dastroenteritis</li>
+<li>Non-eveloped, double layer capsid</li>
+<li>Survive gGI</li>
+<li>50% hospitalization in children with diarrhea during autom winter spring</li>
+<li>NSP4 protein has toxin-like activity</li>
+<li>Two vaccine (live, oral)</li>
+</ul>
+</li>
+</ul>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Virology III</title>
+        <author>
+            <name>William Slattery</name>
+        </author>
+        <link href="https://BGASM.github.io/medNotes/virology-iii.html"/>
+        <id>https://BGASM.github.io/medNotes/virology-iii.html</id>
+            <category term="MMG"/>
+
+        <updated>2020-12-06T17:14:17-05:00</updated>
+            <summary>
+                <![CDATA[
+                    Small/Medium DNA virusesPolyoma, Papilloma, AdenoAdenoReplicationParvoPapillomaPolyomavirusMerkel Cell Virus MCVSmall/Medium DNA virusesPolyoma, Papilloma, AdenoAdenoTwo genera, aviadenovirus and mastasdenovirusGenome is ds Linear DNA 30-40kb long5’ terminal protein and DNA binding proteinCapsid icsosahedron with fiber attachment protein at each verticeNON-EnvelopedCan utilize both strands for transcription. Makes a lot of&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <ul>
+<li><a href="#smallmedium-dna-viruses">Small/Medium DNA viruses</a><ul>
+<li><a href="#polyoma-papilloma-adeno">Polyoma, Papilloma, Adeno</a><ul>
+<li><a href="#adeno">Adeno</a><ul>
+<li><a href="#replication">Replication</a></li>
+</ul>
+</li>
+<li><a href="#parvo">Parvo</a></li>
+<li><a href="#papilloma">Papilloma</a><ul>
+<li><a href="#polyomavirus">Polyomavirus</a><ul>
+<li><a href="#merkel-cell-virus-mcv">Merkel Cell Virus MCV</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h2 id="smallmedium-dna-viruses">Small/Medium DNA viruses</h2>
+<h3 id="polyoma-papilloma-adeno">Polyoma, Papilloma, Adeno</h3>
+<h4 id="adeno">Adeno</h4>
+<p>Two genera, aviadenovirus and mastasdenovirus
+Genome is ds Linear DNA 30-40kb long
+5’ terminal protein and DNA binding protein
+Capsid icsosahedron with fiber attachment protein at each vertice
+NON-Enveloped
+Can utilize both strands for transcription. 
+Makes a lot of dsRNA which also <strong>induces a ton of IFN</strong></p>
+<h5 id="replication">Replication</h5>
+<p>Enter cells via receptor mediated endocytosis
+Early genes transcibed and translated useing host protein</p>
+<ul>
+<li>Activate more viral gene expression</li>
+<li>Induce host enter S phase</li>
+<li>Block apoptosis</li>
+<li>Inhibit IFN</li>
+<li>In permissive: early gene expression followed by viral DNA replication - using 5’ terminal protein as primer</li>
+<li>DNA replication followed by expression of <strong>late genes</strong><ul>
+<li>Structural proteins that get made in cytosol and then target back into nucleus</li>
+</ul>
+</li>
+<li>High copy number leads to cell lysis</li>
+<li>Can establish latent or persistent infect in some cells.</li>
+</ul>
+<p>47 serotype divided into 6 subgroups (A-F)
+Cause respiratory disease, conjunctivitis, hemorrhagic cystitis, and gastroenteritis.
+Differences due to penton base and fiber protein
+Establish lytic infection in respiratory and GI tract. Latent in lymphoid tissue
+Cause URI and croup
+Immunocompromised leads to fulminant respiratory failure, hepatitis, death</p>
+<p>Virus enter URT through eyes or upper resp. Goes LRT or GI then into lymph nodes. Skin or other ogans, and then resolves or persists.
+One week incubateion and then contagious</p>
+<p>Acute respiratory disease: 3,4,7,14
+Hemorrhagic Cystitits: 11, 21</p>
+<p>Treatment:
+No specific anti-viral drugs, some broad specturm work for immunocompromised.
+Vaccine made for military a while ago, but production stopped.</p>
+<p>#####</p>
+<h4 id="parvo">Parvo</h4>
+<p>Smallest DNA virus
+Non-enveloped icosahedral capsid 18-26nm
+Genome is ssDNA, 5.5kb
+Genus ertyhrovirus, species B19
+Depndovirus, species adeno associated virus - species requries adenovirus present to infect
+Only able to infect proliferating cells.</p>
+<ul>
+<li>Dependednt on cellular enzymes, cannot induce quiescent cells into cell cycle</li>
+</ul>
+<p>Genome:
+Inverted repeats at the ends of genome
+Partially uncoated, need to get viral dn into nucleus to make dsDNA
+Make mRNA to make viral proteins
+Single stranded dna can be + or -</p>
+<p>Fifth classic childhood rash and can infect dogs</p>
+<p>Primary replication in respiratory tract, then bone marrow -&gt; kills replicating erythroid precursor cells
+Virema
+Complexes precipitate in skin and joints, causing rash
+Rash on both cheeks, followed with erythematous rash on trunk nad limbs
+No specific thrrapy or vaccine</p>
+<p>Aplastic Crisis
+Replicates in RBC precursors
+PT with Chronic hemolytic anemia -&gt; aplastic anema can occur
+Virus can cross placenta and cause hydrops fetalis</p>
+<h4 id="papilloma">Papilloma</h4>
+<p>Small, non-enveloped
+dsCircular DNA
+Depened on host cell polymerase to express their genes
+100 serotypes
+Some sexually transmitted
+16 and 18 cause squamous cell carcinoma
+Lytic replication in permissive cells
+Can persist either integrated or unintegrated
+Warts: Benign - Plantar/common - transmitted by direct contact
+Laryngeal papillomatosis - benign tumors on larynx</p>
+<p>Development of papilloma (warts)</p>
+<p>HPV and cancer:
+85% cervical carcinoma contain HPV dna
+HPV genome is episomal (not integrated into the host genome) in cervical warts and pre-neoplastic lesions
+Genome is integrated into genome of malignant cervical cancers
+Can also cause cancer in vagina and vulva, penis, anus, and throat.</p>
+<p>How does virus cause tumor?
+E5 gene - activate epidermal growth factor (EGF) receptor
+E6 gene - Targets p53 suppressor for degrade
+E7 gene - Inhibits pRb suppressor from halting cell cycle</p>
+<p><strong>5 promotes growth, 6 and 7 prevent suppression</strong></p>
+<p>Detection:
+Papanicolaou stain (pap smear)
+Detects perinuclear vacuolated cytoplasm, sign of cancer and of HPV
+PCR</p>
+<p>Prevention:
+Gardasil for male and female
+Gardasil protect against HPV 6,11,16,18 (cervical and anal cancer, cervical warts)
+Gardasil 9 also protects against 31,33,45,52,58
+16,18 cause 80% of cervical cancer
+6,11 cause 90% genital warts
+Cervarix only for female
+Cervarix: protect only against 16,18</p>
+<h5 id="polyomavirus">Polyomavirus</h5>
+<p>Small non-enveloped
+Circular dsDNA
+Two human viruses BK and JC
+Don’t usually cause disease in healhty people, but they can establish latent infection in kidneys
+In immunocompromised the virus can reactivate and cause severe urinary tract infections (BK)
+or Viremia and CNS infection with progressive multifocal leukoencephalopathy (PML JC)
+Inoculate into respiratory tract
+replicate and cause primary viremia
+Multiply in kidney
+Secondary viremia, healthy people either resolve or go latent
+Immunosuppressed see reactivation and then urinary tract if BK, CNS if JC</p>
+<h6 id="merkel-cell-virus-mcv">Merkel Cell Virus MCV</h6>
+<p>ds DNA, a polyoma virus
+Infect older kids and adults
+Integration of MCV genome is cause of rate but aggressive skin cancer
+80% merkel cell carcinomas contain MCV genome
+1500 caseas/year
+High incidence in elderly</p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Virology II</title>
+        <author>
+            <name>William Slattery</name>
+        </author>
+        <link href="https://BGASM.github.io/medNotes/virology-ii.html"/>
+        <id>https://BGASM.github.io/medNotes/virology-ii.html</id>
+            <category term="MMG"/>
+
+        <updated>2020-12-06T17:14:01-05:00</updated>
+            <summary>
+                <![CDATA[
+                    Pathways of entery and the stages of viral infection in humansStagesGeneral Characteristics of Viral infectionMechanisms of Viral PathogenesisHost Defense: InnateHumoral Immunity:Cellular Immunity:Viral Evasion:Immunization:Attenuated Live Viral Vadccines:Killed (Inactivated) Viral VaccineSubunit Vaccine:Recombinant Viral VaccineVaccine Limitations:Anti-Viral DrugsPathways of entery and the stages of viral infection in humansViral life&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <ul>
+<li><a href="#pathways-of-entery-and-the-stages-of-viral-infection-in-humans">Pathways of entery and the stages of viral infection in humans</a><ul>
+<li><a href="#stages">Stages</a></li>
+</ul>
+</li>
+<li><a href="#general-characteristics-of-viral-infection">General Characteristics of Viral infection</a></li>
+<li><a href="#mechanisms-of-viral-pathogenesis">Mechanisms of Viral Pathogenesis</a><ul>
+<li><a href="#host-defense-innate">Host Defense: Innate</a></li>
+<li><a href="#humoral-immunity">Humoral Immunity:</a></li>
+<li><a href="#cellular-immunity">Cellular Immunity:</a></li>
+<li><a href="#viral-evasion">Viral Evasion:</a></li>
+</ul>
+</li>
+<li><a href="#immunization">Immunization:</a><ul>
+<li><a href="#attenuated-live-viral-vadccines">Attenuated Live Viral Vadccines:</a></li>
+<li><a href="#killed-inactivated-viral-vaccine">Killed (Inactivated) Viral Vaccine</a></li>
+<li><a href="#subunit-vaccine">Subunit Vaccine:</a></li>
+<li><a href="#recombinant-viral-vaccine">Recombinant Viral Vaccine</a></li>
+<li><a href="#vaccine-limitations">Vaccine Limitations:</a></li>
+<li><a href="#anti-viral-drugs">Anti-Viral Drugs</a></li>
+</ul>
+</li>
+</ul>
+<h2 id="pathways-of-entery-and-the-stages-of-viral-infection-in-humans">Pathways of entery and the stages of viral infection in humans</h2>
+<p>Viral life cycle
+Tropism
+Acute vs Chronic
+And pathogenicity</p>
+<p>Learning about interferon in antiviral defense
+Humoral and cellular immunity
+Vaccination and antiviral drugs
+Methods for detection and Diagnosis</p>
+<p>Pathways:
+Respiratory, alimentary, urogenital, lesions, conjuctiva, direct blood, bites, arthropod bites</p>
+<p>Enveloped viruses in general are more sensitive to dessication, pH, detergent  AND require direct contact via blood, aerosols.
+Non-enveloped in general are more resistant.
+e.g. ENterovirus can withstand acid environment of the stomach</p>
+<h3 id="stages">Stages</h3>
+<p>Entry
+Initiation of infect at primary site
+Activation of protection/immunity
+REplication at primary site
+Some virus replicate in secondary target organ
+Infection of final target tissue
+Host responses that can limit or contribute (immunopathogenesis)
+Release/shedding of virus
+Resolution of infectior or persistent infection</p>
+<h2 id="general-characteristics-of-viral-infection">General Characteristics of Viral infection</h2>
+<p>Infection is cell type and species specific
+Types of cells taht can be infected == tissue tropism of virus
+Determinants of tropism == receptors, enzymes, environmnet
+Cells that a virus can reproduce in == Permissive
+Infection of cells can lead to <strong>abortive infection</strong>
+Successfully infected cells can be lytic or non-lytic
+Lytic leads to cell death
+Non-lytic can produce virus == budding
+Non-lytic can be dormant.
+Both styles of non-lytic are considered <strong>peristently infected</strong>
+Temporary infection == acute
+Persistent == chronic
+Persistent can lead to constent shedding OR the virus may be latenet. If latent, can see NO free virus, but still infected.</p>
+<h2 id="mechanisms-of-viral-pathogenesis">Mechanisms of Viral Pathogenesis</h2>
+<p>Direct killing == lysis, inhib protein synth, altered membrane/function
+Direct infect of immune cells == immunodef
+Indirect effects on immune system
+Immunopathology == inflamm, fever, edema, vascular permeability
+Oncogenic transformation == virus can express oncogenes and cause cancer</p>
+<h3 id="host-defense-innate">Host Defense: Innate</h3>
+<p>Cytokines
+Interferon Alpha/Beta important agianst viral infect
+Virally infected cells induced to make IFN A or B
+DS RNA is a signal to induce IFN synth
+IFN binds to receptors on infect and uninfect cells
+Binding IFN results in antiviral state
+If infect, antiviral state activated to interrupt viral life cycle
+Other cells are now primed to defend against infect.</p>
+<ul>
+<li>PKR is a kinase activated by DS RNA or by IFN<ul>
+<li>Activated PKR phosphorylates eIF2a translation which inhibits tranlsation and leads to block of both viral and host protein synthesis</li>
+</ul>
+</li>
+<li>RNase L also induced by IFN.</li>
+<li>Needs oligo A to activate</li>
+<li>Oligo A induced by IFN and activated by DS RNA<ul>
+<li>Degrades viral and cellular RNA</li>
+</ul>
+</li>
+<li>RNaseL and PKR inhibit viral replication
+Summary:</li>
+</ul>
+<p>** PKR and OLIGOA synthesized in inactive form in response to IFN. Both enzymes activated if DS RNA, which happens during viral infect**</p>
+<h3 id="humoral-immunity">Humoral Immunity:</h3>
+<p>Effective agianst extracellular stage
+Neutralizing antibodies prevent virus from enter or replicating in cells.</p>
+<ul>
+<li>Block attachment, penetration, membrane fusion, or uncoating
+Ab coating viruses can induce opsonization
+Enveloped virus coated in Ab can be lysed by complement
+Virally infeccted cells can be lysed by commplement, or NK cells using ADCC (antibody dependent cellular cytotoxicity)
+Limits: Not as effective in late infect
+Ab alone not sufficient to confer long term immunity</li>
+</ul>
+<h3 id="cellular-immunity">Cellular Immunity:</h3>
+<p>Tcells recognize forein ag on mhc i or ii
+When cells are infected, new foreign viral proteins get boudn to mhc i and presented
+Activation requires 2 signals: Ag binding and CD4 activation</p>
+<h3 id="viral-evasion">Viral Evasion:</h3>
+<p>Rapid acute infection, adaptive doesnt have time
+Ag variation
+Restricted or no expression of viral gene products
+Active suppression of MHC1
+Infect cells that do not normally express MHCi
+Decrease cell adhesion molecule so T cell cannot bind and interact
+Kill or suppress immune cells</p>
+<h2 id="immunization">Immunization:</h2>
+<p>Neutralizing Ab block early stages
+Subsequent infect elicit stronger secondary immune response
+Break infection-spread cycle</p>
+<h3 id="attenuated-live-viral-vadccines">Attenuated Live Viral Vadccines:</h3>
+<p>Use related nbut non-pathogenic version of virus
+Or attneuated strains of virus
+Stimulate both humoral and cellular immune system and confer long term immunit
+Sometimes even attenuated can cause disease
+Can revert to virulence</p>
+<h3 id="killed-inactivated-viral-vaccine">Killed (Inactivated) Viral Vaccine</h3>
+<p>Virus inactivated by chemical or physical without destroying antigenicity
+Require adjuvants and multiple dose
+Inefficient for immune response and long term immunity
+Safe</p>
+<h3 id="subunit-vaccine">Subunit Vaccine:</h3>
+<p>Purified viral proteins used as immunogen
+Involkves cloning the gene of interest in a vector and using heterologus cell to produce the protein</p>
+<h3 id="recombinant-viral-vaccine">Recombinant Viral Vaccine</h3>
+<p>Gene encoding a viral antigen that is target of neutralizing Ab is cloned into a non-virulent viral vector</p>
+<p>DNA/RNA Base vaccine</p>
+<h3 id="vaccine-limitations">Vaccine Limitations:</h3>
+<p>– Attenuated strains may be difficult to develop.
+– Inactivation may destroy antigenicity.
+– Purified proteins may not be immunogenic.
+– Virus may “mutate” or evolve too rapidly.</p>
+<h3 id="anti-viral-drugs">Anti-Viral Drugs</h3>
+<p>Identify drugs that inhibti viral replication without harming human host
+Targetr any stage of viral life cycle</p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Virology I</title>
+        <author>
+            <name>William Slattery</name>
+        </author>
+        <link href="https://BGASM.github.io/medNotes/virology-i.html"/>
+        <id>https://BGASM.github.io/medNotes/virology-i.html</id>
+            <category term="MMG"/>
+
+        <updated>2020-12-06T17:13:41-05:00</updated>
+            <summary>
+                <![CDATA[
+                    Overall GoalsDefinitionsClassificationRNACapsidReceptor Mediated EndocytosisOther Surface EntryUncoating and TargettingReplication/Gene StrategiesGene Expression/Replication of DNA VirusesOverall GoalsUnderstand fundamenta l structure, classification and replication cycle of virusesUnderstand biologya and PathogenesisUnderstand host-defense strategiesHow virus undermine these defensesHow medications can interfereDefinitionsInfectiousObligate intracellularLack a metabolismSubmicroscopic - 25nm-000’sn,FilterableNo division for replication.ClassificationMorphology - Size,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <ul>
+<li><a href="#overall-goals">Overall Goals</a><ul>
+<li><a href="#definitions">Definitions</a></li>
+<li><a href="#classification">Classification</a></li>
+</ul>
+</li>
+<li><a href="#rna">RNA</a></li>
+<li><a href="#capsid">Capsid</a></li>
+<li><a href="#receptor-mediated-endocytosis">Receptor Mediated Endocytosis</a></li>
+<li><a href="#other-surface-entry">Other Surface Entry</a></li>
+<li><a href="#uncoating-and-targetting">Uncoating and Targetting</a></li>
+<li><a href="#replicationgene-strategies">Replication/Gene Strategies</a></li>
+<li><a href="#gene-expressionreplication-of-dna-viruses">Gene Expression/Replication of DNA Viruses</a><h2 id="overall-goals">Overall Goals</h2>
+</li>
+<li>Understand fundamenta l structure, classification and replication cycle of viruses</li>
+<li>Understand biologya and PathogenesisUnderstand host-defense strategies</li>
+<li>How virus undermine these defenses</li>
+<li>How medications can interfere<h3 id="definitions">Definitions</h3>
+</li>
+<li>Infectious</li>
+<li>Obligate intracellular</li>
+<li>Lack a metabolism</li>
+<li>Submicroscopic - 25nm-000’sn,</li>
+<li>Filterable</li>
+<li>No division for replication.</li>
+</ul>
+<h3 id="classification">Classification</h3>
+<ul>
+<li>Morphology - Size, shape, envelope</li>
+<li>Genome size, RNA/DNA, +- strand</li>
+<li>Proteins</li>
+<li>Genome organization and replication strategy</li>
+<li>Antigenic properties and serological relations</li>
+<li>Biological properties and structural</li>
+</ul>
+<p>Virus Structure Summary
+ALl </p>
+<ul>
+<li>Viral Genome DNA Structure</li>
+<li>Range in size from 5-200 kb</li>
+<li>Linear or circular structure</li>
+<li>Double or single stranded</li>
+<li>Can have unusual structure, such as a Gapped Circle</li>
+</ul>
+<h2 id="rna">RNA</h2>
+<ul>
+<li>Double stranded Linear</li>
+<li>SIngle stranded LinearPositive sense +<ul>
+<li>5-3 directly translated )genome is like mRNA)</li>
+</ul>
+</li>
+<li>Negative Sense or - strand is<ul>
+<li>Ambisense: RNA that is in part of positive and in part of negative polarity</li>
+</ul>
+</li>
+<li>RNA can have segmented genomes</li>
+<li>Circular single stranded RNA are found in the viroids and the hepatitis delta virus HDV</li>
+</ul>
+<h2 id="capsid">Capsid</h2>
+<ul>
+<li>Usually one of two repeated structures:<ul>
+<li>Helix</li>
+<li>Icosahedron</li>
+</ul>
+</li>
+<li>Composed of structural subunits called protomers</li>
+<li>Morphological units are called capsomers, these cluster around an axis of symmetry.</li>
+<li>May also have spikes that project from the surgace</li>
+<li><strong>Protomers are the structural units, capsomers are the functional units</strong><pre><code>
+</code></pre></li>
+</ul>
+<pre><code>BATHROOM BREAKDOWN</code></pre><pre><code>The account is in the name July 52 Chandler LLC at Michigan State University Federal Credit Union. The account number is 022552282 and the routing number is 272479663.
+
+Virus Attachment to Host
+
+## Receptor Mediated Endocytosis
+- Virus binds to receptor at cell surface in areas called coated patients
+- Pinches off and forms a coated vesicles
+- Endsome can then fuse with others
+- Acidification
+## Other Surface Entry
+- Membrane fusion (enveloped) or pore/channel formation (non-enveloped)
+- Receptor 
+
+## Uncoating and Targetting
+- Can be partial or complet
+- Some viruses, including most DNA virus, must be targeted
+
+## Replication/Gene Strategies
+- Class I - VI
+- VII: Double stranded DNA with an RNA intermediate (Hepatitis B Virus)
+
+## Gene Expression/Replication of DNA Viruses
+
+
+
+
+
+
+
+--------------------------------
+Describe Pathways of entry, and the stages of viral infection.
+</code></pre>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Adrenergic_Cholinergic V</title>
+        <author>
+            <name>William Slattery</name>
+        </author>
+        <link href="https://BGASM.github.io/medNotes/adrenergic_cholinergic-v.html"/>
+        <id>https://BGASM.github.io/medNotes/adrenergic_cholinergic-v.html</id>
+            <category term="Pharm"/>
+
+        <updated>2020-12-06T17:04:23-05:00</updated>
+            <summary>
+                <![CDATA[
+                    IntroCholinomimeticsDIRECT Cholinomimetic: Agonists on muscarinic and nicotinic receptorsMuscarinic AgonistNicotinic Agonist:Indirect Cholinomimetic: AChE inhibitorsReversible and thereapeuticOrganophosphates - Irreversible, toxicTOXICITY MANIFESTATION AFTER ORGANOPHOSPHATES (OPs) EXPOSURE:CholinolyticsIndirectDirectMuscarinic Anatgonists:Nicotinic Antagonists: NMJ blocksTextbook NotesIntroAceytlchole binds on both Nicotinic and Muscarinic receptorsOn nictotinic it has an ionotropric effect, allowing passage of ions.On&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <ul>
+<li><a href="#intro">Intro</a><ul>
+<li><a href="#"></a></li>
+</ul>
+</li>
+<li><a href="#cholinomimetics">Cholinomimetics</a><ul>
+<li><a href="#direct-cholinomimetic-agonists-on-muscarinic-and-nicotinic-receptors">DIRECT Cholinomimetic: Agonists on muscarinic and nicotinic receptors</a><ul>
+<li><a href="#muscarinic-agonist">Muscarinic Agonist</a></li>
+<li><a href="#nicotinic-agonist">Nicotinic Agonist:</a></li>
+</ul>
+</li>
+<li><a href="#indirect-cholinomimetic-ache-inhibitors">Indirect Cholinomimetic: AChE inhibitors</a><ul>
+<li><a href="#reversible-and-thereapeutic">Reversible and thereapeutic</a></li>
+<li><a href="#organophosphates---irreversible-toxic">Organophosphates - Irreversible, toxic</a></li>
+<li><a href="#toxicity-manifestation-after-organophosphates-ops-exposure">TOXICITY MANIFESTATION AFTER ORGANOPHOSPHATES (OPs) EXPOSURE:</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#cholinolytics">Cholinolytics</a><ul>
+<li><a href="#indirect">Indirect</a></li>
+<li><a href="#direct">Direct</a><ul>
+<li><a href="#muscarinic-anatgonists">Muscarinic Anatgonists:</a></li>
+<li><a href="#nicotinic-antagonists-nmj-blocks">Nicotinic Antagonists: NMJ blocks</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#textbook-notes">Textbook Notes</a><h2 id="intro">Intro</h2>
+<h3 id=""></h3>
+</li>
+<li>Aceytlchole binds on both Nicotinic and Muscarinic receptors</li>
+<li>On nictotinic it has an ionotropric effect, allowing passage of ions.</li>
+<li>On muscarinic it binds to M receptors and has a metabotropic effect, which are all GPCRs</li>
+<li>In PNS it is the parasympathetic system that uses Ach for post-ganglion signalling on muscarinic receptors</li>
+<li>CNS<ul>
+<li>Nictonic Effects: Reward, arousal, improve task performance</li>
+<li>Muscarinic: Learning and memory
+Drugs acting on chilinergic systems in the PNS or CNS can act as either cholinomimetics, or cholinolytics.</li>
+</ul>
+</li>
+</ul>
+<h2 id="cholinomimetics">Cholinomimetics</h2>
+<ul>
+<li><p>Stimulate the cholinergic systems by enhancing the effects of either nicotinic or muscarinic receptors.</p>
+</li>
+<li><p>THey may also be indirectly stimulated by blocking AchE.</p>
+</li>
+<li><p>Directy agonists such as nicotine, Ach, carbachol, succinychole, or varenicline</p>
+</li>
+<li><p>Directly agonist such as pilocarpine and muscarine, ACh, Carbachol, Bethanechol, Methacholine, Cevimeline</p>
+<h3 id="direct-cholinomimetic-agonists-on-muscarinic-and-nicotinic-receptors">DIRECT Cholinomimetic: Agonists on muscarinic and nicotinic receptors</h3>
+<h4 id="muscarinic-agonist">Muscarinic Agonist</h4>
+</li>
+<li><p>Esters:</p>
+<ul>
+<li>Poorly absorveb and little CNS access because they are hydrophilic</li>
+<li>They are hydrolyzed in the GI in the following priority:<ul>
+<li>ACH &gt;&gt;&gt; METHacholine &gt;&gt;&gt; Bethanechol &gt;&gt;&gt; Carbachol </li>
+</ul>
+</li>
+<li>ACh use is limited to some opthalmic procedures to cause miosis.</li>
+<li>Carbachol has the longest duration<ul>
+<li>Better choice drug for causing miosis</li>
+<li>Constricts pupil and lowers IOP</li>
+<li>Topical and intraoculare injections</li>
+<li>AE: May cause asthma if it reaches PNS</li>
+</ul>
+</li>
+<li>Bethanechol<ul>
+<li>Selectivelty stimulates urinary and GI tract</li>
+<li>Does not cause bradycardia</li>
+<li><strong>Stimulate urinary retention</strong></li>
+</ul>
+</li>
+<li>Methacholine<ul>
+<li>Used for diagnostic only</li>
+<li>Not used clinically</li>
+<li>Asthma challenge test - bronchoprovocation test</li>
+<li>Administer via inhlation</li>
+<li>AE: Cardiac arrest</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p>Alkaloids:</p>
+<ul>
+<li>Pilocarpine:<ul>
+<li>Well absorbed</li>
+<li>High affinity to mascarinic receptors: CNS and Periphery</li>
+<li>Stimulates tears, sweating, saliva, pupil constriction, and contraction of ciliary muscle</li>
+<li>TI: <strong>Glaucoma</strong> decrease IOP via topical or intraocular or dry mouth</li>
+<li><strong>AE: Diaphoresis if it reaches systemic circulation</strong></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p>Synthetics: </p>
+<ul>
+<li>CEVIMELINE (synthetic):<ul>
+<li>Selectivity as M1 and M3 agonist.</li>
+<li>Therapeutic uses: - <strong>Treat xerostomia (dry mouth)</strong>. It is a <strong>sialagogue</strong>.<h4 id="nicotinic-agonist">Nicotinic Agonist:</h4>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p>Esters:</p>
+<ul>
+<li>ACh</li>
+<li>Carbachol</li>
+<li>Succinylcholine</li>
+</ul>
+</li>
+<li><p>Alkaloids</p>
+<ul>
+<li>Nicotine:<ul>
+<li>Only nicotinic stimulation: CNS and PNS</li>
+<li>At a high dose it acts as a blocker. <strong>Desensitization</strong></li>
+<li>Higher affinity for neuronal receptors than other tissue</li>
+<li>CNS Stimulant: Increase respiratory rate, tremor, convulsions, vomiting</li>
+<li>Parenteral Admin: Increase BP, nausea, diarrhea, bladder voiding<ul>
+<li>TI: Nicotine Replacement therapy</li>
+<li>AE: Increased salivation, upset stomach, bleeding gums, throat irritation</li>
+<li>Symptoms of acute nicotine severe poisoning</li>
+</ul>
+</li>
+<li>Nausea, salivatition, abdominal pain, vomiting, diarrhea, cold sweat, headache, dizziness, confusion, muscle weakness</li>
+<li>Hypotension and rapid pulse</li>
+<li>Labored breathing</li>
+<li>Convulsions</li>
+<li>Death from respiratory arrest </li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p>Synthetics:</p>
+<ul>
+<li>Varenicline<ul>
+<li>Cross BBB</li>
+<li>Partial agonist on nicotinic receptors in brain</li>
+<li>TI: Smoking cessation</li>
+<li>AE: Sleep disturbance and depression<h3 id="indirect-cholinomimetic-ache-inhibitors">Indirect Cholinomimetic: AChE inhibitors</h3>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p>Increased amount of ACh to act in muscarinic and nicotinic receptors.</p>
+</li>
+<li><p>CNS: Enhance cholinergic function. High concentrations cause convulsions.</p>
+</li>
+<li><p><strong>Respiratory, GI, urinary tracts, and eye</strong>: Same as direct-acting cholinomimetics.</p>
+</li>
+<li><p><strong>Cardiovascular system</strong>: <strong>M2</strong> Inhibitory effect on heart predominates. Little effect on vasculature. </p>
+<ul>
+<li>Moderate doses – increase vascular resistance and BP.</li>
+</ul>
+</li>
+<li><p>NMJ: Increase the strength of contraction, which may cause fasciculation and fibrillations and blockage.</p>
+<h4 id="reversible-and-thereapeutic">Reversible and thereapeutic</h4>
+</li>
+<li><p>Neostigmine and Pyridostigmine: Reversible</p>
+<ul>
+<li>Low lipid solube so poort absorption</li>
+<li>TI: Reverse effects of competititve NMJ blockers (<strong>non-depolarizing muscle releaxant</strong>)</li>
+<li>Note, neostigmine also directly activates nicotinic receptors</li>
+</ul>
+</li>
+<li><p>Physostigmine: Reversible</p>
+<ul>
+<li>Highly abosrbed by all routes</li>
+<li>Access to CNS</li>
+<li>TI: Glaucoma and reversing anticholinergic poisoning (like from atropine)</li>
+</ul>
+</li>
+<li><p><strong>NEOSTIGMINE, PYRIDOSTIGMINE, and PHYSOSTIGMINE</strong>:</p>
+<ul>
+<li><strong>Myasthenia gravis (dec progression symptoms) Diagnosis of myasthenia gravis.</strong></li>
+</ul>
+</li>
+<li><p>Donepezil, Galantamine, Rivastigmine: Reversible</p>
+<ul>
+<li>CNS action</li>
+<li>TI: Alzeheimers Disease</li>
+</ul>
+</li>
+</ul>
+<h4 id="organophosphates---irreversible-toxic">Organophosphates - Irreversible, toxic</h4>
+<ul>
+<li>Parathion, Malathion (insecticides), Soman (gas), Sarin (liquid/evaporate as gas)<ul>
+<li>Well absorbed from skin, lung, gut, conjunctiva</li>
+<li>Lipid soluble: access to CNS.</li>
+<li>Mechanism of Toxicity: Hydrolyzed by AChE, but the resulting phosphorylated enzyme.</li>
+<li>form a very stable complex with the enzyme</li>
+<li>bind to AChE irreversibly. </li>
+<li>Require synthesis of the new enzyme to restore its function.</li>
+<li>Malathion, parathion must be metabolized to be activated:</li>
+</ul>
+</li>
+<li>Malathion: Moderately toxic (rapidly metabolized by other pathways to inactive forms in birds and mammals but not insects);</li>
+<li>Parathion: Highly Toxic (not detoxified by vertebrates).<h4 id="toxicity-manifestation-after-organophosphates-ops-exposure">TOXICITY MANIFESTATION AFTER ORGANOPHOSPHATES (OPs) EXPOSURE:</h4>
+</li>
+<li>Acute (min- 24 h): effects include actions on CNS (anxiety, respiratory depression, convulsion)</li>
+<li>Initial treatment will be atropine</li>
+<li>Muscarinic symptoms: <strong>D U M B B EE L L S</strong>:<ul>
+<li><strong>Diarrhea</strong></li>
+<li>Urination</li>
+<li><strong>Miosis</strong></li>
+<li><strong>Bronchoconstriction</strong></li>
+<li>Bradycardia</li>
+<li>Excitation/Emesis</li>
+<li>Lacrimation</li>
+<li>Lethargy</li>
+<li>Salivation</li>
+<li><strong>Sweating</strong></li>
+</ul>
+</li>
+<li>Nicitonic Symptoms: Mon, Tues, Wed, tHurs, Fri<ul>
+<li>Mydriasis</li>
+<li>Tachycardia</li>
+<li>Weakness</li>
+<li>Hypertension</li>
+<li>Fasciculations</li>
+</ul>
+</li>
+<li>Delayed (24h - 2 weeks) and later-onset: nicotinic, muscarinic actions and stronger CNS impairment (encephalopathy, extrapyramidal symptoms, coma).</li>
+<li>Atropine has an issue, it only has antimuscarininc effects.</li>
+<li>ANTIDOTE to AChEi INTOXICATION (OP): Oxime agents</li>
+<li>Pralidoxime:<ul>
+<li>Cholinesterase regenerator if given before aging occurs (48-hours).</li>
+<li>Works at NMJ but does not prevent CNS effects.</li>
+</ul>
+</li>
+</ul>
+<h2 id="cholinolytics">Cholinolytics</h2>
+<h3 id="indirect">Indirect</h3>
+<ul>
+<li>Botulinum Toxin:<ul>
+<li>Cleave protein associated with fusion and exocytosis of vesicles carrying ACh (<strong>SNARE proteins</strong>)</li>
+<li>Prevent docking and release of ACh</li>
+<li>TI: Prevent sustained involuntary muscle spasms</li>
+<li>Bleopharospasm (excessive blinking)</li>
+<li>Severe axillary hyperhidrosis (excessive sweating)</li>
+</ul>
+</li>
+</ul>
+<h3 id="direct">Direct</h3>
+<h4 id="muscarinic-anatgonists">Muscarinic Anatgonists:</h4>
+<ul>
+<li>Tropicamide: Causes <strong>mydriasis and cycloplegia</strong> good for use in eyes because short acting.</li>
+<li>Tiotropium, Ipratropium: <strong>Inhaled</strong>, does not cross BBB. Mostly M3, bronchodilation, - <strong>Asthma and COPD</strong></li>
+<li>Atropine: <strong>Reverse bradycardia</strong>, cholinergic poisoning, hyperhidrosis <strong>Dose Dependent</strong>, can also be used in the eyes</li>
+<li>Atropine, Scopolamine: Inhibit <strong>excessive salivation and mucus secretion during surgery</strong></li>
+<li>Scopolamine: motion sickness</li>
+<li>Solifenacin, Tolterodine, Oxybutynin: Urinary bladder spasm/incontinence M1 and M3 affinity -&gt; <strong>OAB</strong></li>
+<li><strong>Desloratadine and Diphenhydramine</strong> - Antihistamine drugs with additional muscarinic antagonists mech.</li>
+<li>Antimuscarinic Syndrome:<ul>
+<li>Red as a beet - skin flushed</li>
+<li>Hot as a hare - Hyperthermia</li>
+<li>Dry as a bone - Dry mucous membranes and no sweating</li>
+<li>Blind as a bat - Blurred vision, mydriasis, cycloplegia</li>
+<li>Mad as a hatter - Confusion</li>
+</ul>
+</li>
+<li>Atropine Toxicity is dose-dependent<ul>
+<li>++ Slight bradycardia <strong>and dry mouth</strong>/loss of sweating</li>
+<li>+++ Dry mouth, thirst, increased heart rate, pupil dilation<h4 id="nicotinic-antagonists-nmj-blocks">Nicotinic Antagonists: NMJ blocks</h4>
+</li>
+</ul>
+</li>
+<li>Non-Depolarizing (curonium or curium) - competititve antag<ul>
+<li>Pancuronium (long acting)</li>
+<li>Rocuronium (intermediate)</li>
+<li>Atracurium (intermediate)</li>
+<li>Competitive antagonist</li>
+<li>TI: Adjunct to general anesthesia. Facilitate intubation</li>
+<li>AE: Hypotension, tachycardia, bronchospasms, respiratory paralysis, aspiration of gastrict contents</li>
+<li><strong>Antidote: Effects reveresed by AChEi (neostigmine)</strong></li>
+</ul>
+</li>
+<li>Depolarizing:<ul>
+<li><strong>Succinylcholine</strong> hydrolyzed by AChE and BuChE<ul>
+<li>Persistent stimulation of nicotinic receptor at NMJ that leads to desensitization to ACh</li>
+<li>TI: Induce muscle relaxation</li>
+<li>AE: Muscle weakness, post-op myalgia, Hyperkalemia (<strong>life-threatening arrhythmias/cardiac arrest</strong> esp in pediatrics), malignant hyperthermia</li>
+<li><strong>NOT REVERSIBLE BY AChEi</strong></li>
+<li>Antidone is Sugammadex </li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h2 id="textbook-notes">Textbook Notes</h2>
+<ol>
+<li>Explain the difference between anticholinergic and antimuscarinic drugs.</li>
+<li>Describe the mechanism of action and primary clinical use of Carbachol, Pilocarpine,Carbachol, Bethanechol, Methacholine, Varenicline, and Cevimeline.</li>
+<li>List the symptoms of nicotine poisoning and explain why nicotine may have  cholinomimetic and cholinolytic effects.</li>
+<li>List the main differences between the AChE inhibitors (AChEi) Neostigmine and Organophosphates (e.g., parathion).</li>
+<li>Explain why the oximes are not always as effective as AChEi antidote.</li>
+<li>List the primary clinical use of Pyridostigmine, Neostigmine, Donepezil, Rivastigmine, and Galantamine.</li>
+<li>Explain the mechanisms triggered for the occurrence of “DUMBEELSS”.</li>
+<li>List the main similarities and differences among Atropine, Scopolamine, Tiotropium, Tolterodine, Solifenacin, Desloratadine, Diphenhydramine.</li>
+<li>List and explain the (“Antimuscarinic Syndrome”) poisoning signs/symptoms.</li>
+<li>Explain the main differences between succinylcholine and ‘curoniums’.</li>
+</ol>
+<ul>
+<li>Muscarine mimicked parasympathetic nerve dischage. Its effects were <strong>parasympathomimetic</strong></li>
+<li>. The effects of acetylcholine itself and of other cholinomimetic drugs at autonomic neuroeffector junctions are called parasympathomimetic effects and are mediated by muscarinic receptors.</li>
+<li>nicotine stimulated autonomic ganglia and skeletal muscle neuromuscular junctions but not autonomic effector cells. The <strong>ganglion and skeletal muscle receptors were therefore labeled nicotinic</strong>.</li>
+<li>acetylcholine was later identified as the physiologic transmitter at both muscarinic and nicotinic receptors, both receptors were recognized as <strong>cholinoceptor subtypes.</strong></li>
+<li>Direct-acting cholinomimetic agents bind to and activate muscarinic or nicotinic receptors</li>
+<li>Indirect-acting agents produce their primary effects by inhibiting acetylcholinesterase.<ul>
+<li>By inhibiting acetylcholinesterase, the indirect-acting drugs increase the endogenous acetylcholine concentration in synaptic clefts and neuroeffector junctions.</li>
+</ul>
+</li>
+<li>First, <em>acetylcholine released from parasympathetic nerves</em> <strong>activates</strong> muscarinic receptors on <strong>effector cells</strong> to alter organ function directly. </li>
+<li>Second, <em>acetylcholine released from parasympathetic nerves</em> interacts with muscarinic receptors on <strong>nerve terminals</strong> to <strong>inhibit the release of their neurotransmitter</strong>. </li>
+<li>Muscarinic agonist binding to <strong>M1, M3, and M5</strong> receptors activates the <strong>inositol trisphosphate (IP3), diacylglycerol (DAG)</strong> cascade.</li>
+<li>Activation of <strong>M2 and M4</strong> muscarinic receptors <strong>inhibits adenylyl cyclase activity</strong> in tissues (eg, heart, intestine)</li>
+<li>Continued presence of the nicotinic agonist <strong>prevents electrical recovery</strong> of the postjunctional membrane. Thus, a state of <strong>“depolarizing blockade”</strong> occurs initially during persistent agonist occupancy of the receptor. Continued agonist occupancy is associated with return of membrane voltage to the resting level. The receptor becomes <strong>desensitized</strong> to agonist, and this state is refractory to reversal by other agonists.</li>
+<li><strong>Effects of direct-acting cholinoceptor stimulant</strong><ul>
+<li>Sinoatrial node: <strong>Decrease in rate (negative chronotropy)</strong></li>
+<li>Atria: <strong>Decrease in contractile strength (negative inotropy)</strong>. Decrease in refractory period</li>
+<li>Atrioventricular node: <strong>Decrease in conduction velocity (negative dromotropy)</strong>. Increase in refractory period</li>
+<li>Ventricles: Small decrease in contractile strength</li>
+</ul>
+</li>
+</ul>
+
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Chemotherapy II</title>
         <author>
@@ -16,8 +1264,9 @@
         </author>
         <link href="https://BGASM.github.io/medNotes/chemotherapy-ii.html"/>
         <id>https://BGASM.github.io/medNotes/chemotherapy-ii.html</id>
+            <category term="Pharm"/>
 
-        <updated>2020-12-03T21:20:33-05:00</updated>
+        <updated>2020-12-06T17:05:32-05:00</updated>
             <summary>
                 <![CDATA[
                     Anti-MetabolitePyrimidine ANtagonist: Cytarabine and GemcitabineToxicityPurine AntagonistTumor AntibioticsAnthracyclinesAnthracycline Mechanism:Antrhacycline CardiotoxicityAntrhacenedionesAntrhacenedione Mechanism:BleomycinBleomycin Mechanism:Bleomycin ToxicityTopoisomerase inhibitorsTopoisomerase I - Campthothecins: Topotecan and IrinotecanMechanism:Topoisomerase II -Podophyllotoxins: Etoposide and TeniposideMechanism:Microtubule InhibitorsTaxanes: Paclitaxel, Docetaxel, nab-PaclitaxelMechanism:Vinca Alkaloids: Vincristine, Vinorelbine, VinblastineMechanism:Adverse Effects:Drug Interactions:Targeted TherapiesTyrosine Kinase Inhibitors and Monoclonal AntibodiesTKIs “nibs” - Imatinib, Dasatinib, NilotinibMonoclonal&hellip;
@@ -425,8 +1674,9 @@ Tumor cells evade by either upregulating the PD1L or by upregulating CD80 and bi
         </author>
         <link href="https://BGASM.github.io/medNotes/chemotherapy-i.html"/>
         <id>https://BGASM.github.io/medNotes/chemotherapy-i.html</id>
+            <category term="Pharm"/>
 
-        <updated>2020-12-03T21:18:14-05:00</updated>
+        <updated>2020-12-06T17:05:24-05:00</updated>
             <summary>
                 <![CDATA[
                     Chemotherapy IHallmarks of CancerChallengesMultiple mutationsHeterogeneityEpigeneticsTumor MicroenvironmentDrug Resistance:Chemotherapy:History:Types of ChemoTargetting the Cell CycleTherapeutic WindowDrug Resistance: Goldie-Coldman ModelCombination ChemotherapyRoute of Administration - 5-FUPharmacokineticsAlkylating AgentsAlkylating Mustards:General Mechanism:Reactivity:Notes on MustardsAlkylating Mustards: Cyclophosphamide and Ifosfamide are pro-drugsAlkylating Mustards: Cyclophosphamide and Ifosfamide and acrolein toxicityAlkylating Mustards: Ifosfamide Neurotoxicity:Alkylating NitrosoureasAlkylating TriazenesAlkylating Platinum&hellip;
@@ -726,14 +1976,15 @@ gernate isocyanates</li>
         </content>
     </entry>
     <entry>
-        <title>Infarction Shock and DIC</title>
+        <title>PSL III Infarction Shock and DIC</title>
         <author>
             <name>William Slattery</name>
         </author>
         <link href="https://BGASM.github.io/medNotes/infarction-shock-and-dic.html"/>
         <id>https://BGASM.github.io/medNotes/infarction-shock-and-dic.html</id>
+            <category term="PSL"/>
 
-        <updated>2020-12-03T01:34:30-05:00</updated>
+        <updated>2020-12-06T17:06:20-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://BGASM.github.io/medNotes/media/posts/8/Myelolipoma_histology_HE.jpg" alt="" />
@@ -950,14 +2201,15 @@ gernate isocyanates</li>
         </content>
     </entry>
     <entry>
-        <title>Adrenergic Inhibitors</title>
+        <title>Adrenergic and Cholinergic IV</title>
         <author>
             <name>William Slattery</name>
         </author>
         <link href="https://BGASM.github.io/medNotes/adrenergic-inhibitors.html"/>
         <id>https://BGASM.github.io/medNotes/adrenergic-inhibitors.html</id>
+            <category term="Pharm"/>
 
-        <updated>2020-12-02T23:14:44-05:00</updated>
+        <updated>2020-12-06T17:05:15-05:00</updated>
             <summary>
                 <![CDATA[
                     Effects of stimulating Alpha receptors:Effect of inhibiting Alpha receptors:Beta BlockersSelective B1: cardio-selevtiveNon-Selective: B1 and B2Direct effect of Beta Blockers on the Heart: Decreased Heart RateAdverse:Selection:Indirect:Reserpine: cause depletion of catecholamine storesA-methyldopa: false neurotransmitterA-methyltyrosine: catecholamine inhibitorEffects of stimulating Alpha receptors:A1:Contract vascular smooth musclesIncrease foce of heart contractionDilate&hellip;
@@ -1128,1865 +2380,6 @@ gernate isocyanates</li>
 <li>Inhibits TH tyrosine hydroxylase</li>
 <li>Used in treatment of inoperable pheochromocytoma</li>
 </ul>
-
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Hemorrhage Thrombosis and Embolism</title>
-        <author>
-            <name>William Slattery</name>
-        </author>
-        <link href="https://BGASM.github.io/medNotes/hemorrhage-thrombosis-and-embolism-2.html"/>
-        <id>https://BGASM.github.io/medNotes/hemorrhage-thrombosis-and-embolism-2.html</id>
-
-        <updated>2020-12-03T00:32:08-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://BGASM.github.io/medNotes/media/posts/6/Myelolipoma_histology_HE.jpg" alt="" />
-                    Hemorrhage:Thrombosis:Morphology of thrombusFate of the thrombusEmbolismHemorrhage:Defined as the extravastation of intravascular blood to the extravascular space.Petechiae1-2mm hemorrhage of skin, mucous membrane, or serosal surfaceLocally increased intravasc pressureSeen with low platelet count or defective platelet.Purpura`&gt;=3mm hemorrhage in same location and etiologie of petechiaeMore common in vasculitic&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://BGASM.github.io/medNotes/media/posts/6/Myelolipoma_histology_HE.jpg" alt="" />
-                <ul>
-<li><a href="#hemorrhage">Hemorrhage:</a></li>
-<li><a href="#thrombosis">Thrombosis:</a></li>
-<li><a href="#morphology-of-thrombus">Morphology of thrombus</a></li>
-<li><a href="#fate-of-the-thrombus">Fate of the thrombus</a></li>
-<li><a href="#embolism">Embolism</a></li>
-</ul>
-<h2 id="hemorrhage">Hemorrhage:</h2>
-<ul>
-<li>Defined as the <strong>extravastation of intravascular blood to the extravascular space</strong>.</li>
-<li>Petechiae<ul>
-<li>1-2mm hemorrhage of skin, mucous membrane, or serosal surface</li>
-<li>Locally increased intravasc pressure</li>
-<li>Seen with low platelet count or defective platelet.</li>
-</ul>
-</li>
-<li>Purpura<ul>
-<li>`&gt;=3mm hemorrhage in same location and etiologie of petechiae</li>
-<li>More common in vasculitic state</li>
-<li>Feel the bumps…</li>
-</ul>
-</li>
-<li>Ecchymose<ul>
-<li>Larger &gt;= 1 cm subcutaneous collections of blood bruises.</li>
-<li>RBC undergoing continous breakdown by macrophage.</li>
-</ul>
-</li>
-<li>Hematoma<ul>
-<li>Term used for a collection of hemorrhage that has a well-defined and 3D shape.</li>
-<li>You can use similar terms to describe as we used for edema.</li>
-</ul>
-</li>
-<li>Rapid loss of 20% may be tolerated in healthy adults. <ul>
-<li>Larger losses in a more rapid progression can result in hypovolemic shock.</li>
-</ul>
-</li>
-<li>Recurrent hemorrhage that exits the body can lead to net iron loss and iron deficiency  anemia. <ul>
-<li>The iron in the hemorrhage into a cavity or tissue is typically recovered and recycled.<h2 id="thrombosis">Thrombosis:</h2>
-</li>
-<li>Thrombosis is pathologic<ul>
-<li>An unwanted thrombus.</li>
-</ul>
-</li>
-<li>Thrombus is physiologic and normal<ul>
-<li>Body makes one to initiate a coagulation cascade.<pre><code>What is the point of this clarification?
-Well, a hematoma is a 3d collection of blood within tissue.
-A thrombosis is when an unwanted coagulation cascade has been initiated.
-We clarify because once again, we need to determine if the red chunk we see within the tissue is due to a **bleeding or coagulation state**. Is it blood, or is it a thrombi?</code></pre>The pathophysiology of hemostatic mechanisms can be determined by looking for sources of abnormalities. - <em>Virchow’s Triad</em>.  </li>
-</ul>
-</li>
-<li>Endothelial Injury/Dysfunction<ul>
-<li>Injury here leads to exposure of ECM, released tissue factor,adherence of plateleys and begins the coagulation cascade.<ol>
-<li>Myocardial infarction</li>
-<li>Atherosclerotic plaques</li>
-<li>Trauma</li>
-</ol>
-</li>
-<li>Dysfunction is any state where normal procoagulant and anticoagulant properties get messed up.<ol>
-<li>Production of more procoagulant factor (plateley adhesion molecule, tissue factor, plasminogen activator inhibitor)</li>
-<li>LESS production of anti-coagulant factors (thrombomodulin, PGI2, tPA)</li>
-</ol>
-</li>
-</ul>
-</li>
-<li>Hypercoagulability <em>thromophilia</em><ul>
-<li>This can be the major etiology for any patient in a clinical setting, loosely defined as any alteration of the coagulation pathway that predisposes one to thrombosis. </li>
-<li>Causes can be genetic (<em>primary</em>) or acquired (<em>secondary</em>) in nature. </li>
-<li><strong>Primary:</strong><ul>
-<li>Factor V Leiden - Factor V </li>
-<li>Prothrombin gene mutation</li>
-<li>Hyperhomocysteinemia</li>
-</ul>
-</li>
-<li><strong>Secondary:</strong><ul>
-<li>Heparin-induced thrombocytopenia syndrome</li>
-<li>Antiphospholipid antibody syndrom</li>
-</ul>
-</li>
-</ul>
-</li>
-<li>Abnormal blood flow<ul>
-<li>Disruption of laminar flow allows for coagulation components to start sticking.<ul>
-<li>This can be caused by hyperviscosity, sickle cell anemia, or aneurysms.<h2 id="morphology-of-thrombus">Morphology of thrombus</h2>
-Desribe a thrumbus.</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-<li>Arterial Thrombi</li>
-<li>Venous Thrombi<ul>
-<li>DVT</li>
-</ul>
-</li>
-<li>Mural Thrombi</li>
-<li>Vegetations</li>
-<li>Post-mortem<h2 id="fate-of-the-thrombus">Fate of the thrombus</h2>
-</li>
-<li>If the initial insult is not fatal, one of four pathways can be discerned.<ol>
-<li>Propagation – accentuation and prolongation of the hemostatic process</li>
-<li>Embolization – thrombi that disassociate from their main mass and travel to other sites  in the vascular tree.</li>
-<li>Dissolution – Small and/or recent thrombi can undergo fibrinolysis and completely  resolve. <ul>
-<li>Larger and/or older thrombi are more resistant to lysis.</li>
-</ul>
-</li>
-<li>Organization – the process of incorporating a thrombus into the “new normal.” <ul>
-<li>Variable ingrowth of endothelial cells, smooth muscle cells, and fibroblasts to create remodeled vascular channels (<strong>recanalization</strong>), albeit imperfectly.</li>
-</ul>
-</li>
-</ol>
-</li>
-</ul>
-<h2 id="embolism">Embolism</h2>
-<p>An embolism is a <strong>detached intravascular solid, liquid, or gaseous mass</strong> that gets carried by blood to some other site. A <em>thromboembolism</em> is an emolism that originates from a dislodged thrombus. Emboli can lodge in a vessels that are too small to permit passage, and this can cause vascular occlusion, which can lead to ischemic necrosis/infarction.</p>
-<ul>
-<li>Pulmonary Embolus <strong>PE</strong><ul>
-<li>Venous in nature</li>
-<li>Commonly from DVT.</li>
-<li>Travel through large veins, through the right side of the heart and then get trapped in pulmonary arterial vasculatire.<ul>
-<li>Single embolus can straddle pulmonary artery bifurcation (saddle embolus)</li>
-<li>Can lodge in a pulmonary artery main branch and cause one-sided disease</li>
-<li>Most frequently, one or both sides of the lungs get small emboli that lodge in the smallest arterioles possible</li>
-<li><strong>Patients who have had one PE are at high risk for having another</strong></li>
-</ul>
-</li>
-<li>`&gt;60% ovvlusion can cause cardiovascular collapse.</li>
-<li>Can lead to pulmonary hemorrhage, but not usually infarction</li>
-<li>Small end-arterioles pulm. branches don’t usually hemorrhage or infarct.</li>
-<li>Multiple small emboli (over time) can cause pulmonary hypertension and right sided heart failure</li>
-</ul>
-</li>
-<li>Systemic (thrombo-)embolus <em>Cause infarction typically</em><ul>
-<li>Usually defined as an embolus in arterial circulation. </li>
-<li>80% from <strong>intracardiac mural thrombi</strong>. Other causes include:<ul>
-<li>Valvular vegetation</li>
-<li>Paradoxical embolus (venous embolism that makes it to arterial circulation because of other cardiac defect)</li>
-<li>Aortic aneurysm</li>
-<li>Thrombus on ulcerated atherosclerotic plaque. </li>
-</ul>
-</li>
-<li>Emboli in arteries most likely lodge in the lower extremities (75%) and brain (10%), with theintestines, kidneys, spleen and upper extremities also affected.</li>
-</ul>
-</li>
-<li>Fat and Marrow Embolism<ul>
-<li>After injury there can be a rupture of soft tissue venules or marrow vascular sinusoids.</li>
-<li>Adipose tissue or bone marrow can herniate into the intravascular space and travel to lungs and get lodged.<ul>
-<li>Fracture of long bones: 90% of severe skeletal injuries lead to embolism, but only 10% have symptoms.</li>
-<li>Soft tissue Trauma</li>
-<li>Burns</li>
-<li><strong>Vigorous cardiopulmonary resuscitation</strong>:</li>
-</ul>
-</li>
-<li><strong>Fat Embolism Syndrome</strong> is a situation where these types of embolism ARE symptomatic.<ul>
-<li>After 1-3 days patient experience pulmonary insufficiency, neuro symptoms, anemia, thrombocytopenia and a diffuse petechial rash.</li>
-<li>This can be fatal in 5-15% of paitents.</li>
-</ul>
-</li>
-<li>Air embolism: <ul>
-<li>More than 100cc of air is enough to have a clinical effect on pulmonary circulation.</li>
-<li>Volumes smaller than that can be catastrophic if introduced into coronary circulation.<ul>
-<li>ie. during a coronary bypass surgery.</li>
-</ul>
-</li>
-</ul>
-</li>
-<li>Decompression Sickness<ul>
-<li>Bends - gas bubbles in skeletal muscles</li>
-<li>Chokes - respiratory distress caused by pulmonary gas emboli. Leads to edema, hemorrhage, and emphysema:</li>
-<li>Caisson disease - chronic decompression condition. Persistence of gas emboli in skeletal system leads to multpile foci of ischemic necrosis<ul>
-<li>Mainly seen in femoral head, tibia, and humeri.</li>
-</ul>
-</li>
-</ul>
-</li>
-<li>Amniotic Fluid Embolism:<ul>
-<li>Squamous cells, fat, or mucin make it to pulmonary vasculature</li>
-<li>Severe respiratory compromise (dyspnea and cyanosis)</li>
-<li>followed by Neuro impairment (headache, seizure, coma)</li>
-<li>Finally disseminated intravascular coagulation (DIC).<pre><code>Incidence is 1 in 40,000 deliveries
-Mortality is 80%, making it the fifth most common cause of maternal mortality
-worldwide
-Causes 10% of the maternal deaths in the US
-85% of patients that survive have neurologic deficits</code></pre></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Adrenergic and Cholinergic Systems II</title>
-        <author>
-            <name>William Slattery</name>
-        </author>
-        <link href="https://BGASM.github.io/medNotes/adrenergic-and-cholinergic-systems-ii.html"/>
-        <id>https://BGASM.github.io/medNotes/adrenergic-and-cholinergic-systems-ii.html</id>
-
-        <updated>2020-12-02T23:06:50-05:00</updated>
-            <summary>
-                <![CDATA[
-                    Direct Adrenergic Stimulants (agonists)Organization:Adrenergic Stimulants (Sympathomimetics)A1 Agonist:A2 Agonists:B1 and B2 agonist:B3 agonist:Direct Adrenergic Stimulants (agonists)Factors that influence response to cholinergic and adrenergic drugs:Physical chemical propertiesRoute of administration and the pharmacokinetic properiesLocalization density and proportion of receptorAffinity for receptor subtypesCompensatory reflexesReceptor desensitizationDisease StateAgeOrganization:Drugs acting on adrenergic&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <ul>
-<li><a href="#-direct-adrenergic-stimulants-agonists">Direct Adrenergic Stimulants (agonists)</a></li>
-<li><a href="#-organization">Organization:</a></li>
-<li><a href="#-adrenergic-stimulants-sympathomimetics">Adrenergic Stimulants (Sympathomimetics)</a></li>
-<li><a href="#---a1-agonists">A1 Agonist:</a></li>
-<li><a href="#---a2-agonists">A2 Agonists:</a></li>
-<li><a href="#---b1-and-b2-agonist">B1 and B2 agonist:</a></li>
-<li><a href="#---b3-agonist">B3 agonist:</a></li>
-</ul>
-<h2 id="direct-adrenergic-stimulants-agonists">Direct Adrenergic Stimulants (agonists)</h2>
-<hr>
-<ul>
-<li>Factors that influence response to cholinergic and adrenergic drugs:<ul>
-<li>Physical chemical properties</li>
-<li>Route of administration and the pharmacokinetic properies</li>
-<li>Localization density and proportion of receptor</li>
-<li>Affinity for receptor subtypes</li>
-<li>Compensatory reflexes</li>
-<li>Receptor desensitization</li>
-<li>Disease State</li>
-<li>Age</li>
-</ul>
-</li>
-</ul>
-<h2 id="organization">Organization:</h2>
-<hr>
-<ul>
-<li>Drugs acting on adrenergic systems:</li>
-<li>Peripheral (Sympathetic) and Central</li>
-<li>Adrenergic stimulants: Mimetics<ul>
-<li>Direct</li>
-<li>Indirect</li>
-<li>Both</li>
-</ul>
-</li>
-<li>Adrenergic Blockers: Lytics<ul>
-<li>Direct</li>
-<li>Indirect<h2 id="adrenergic-stimulants-sympathomimetics">Adrenergic Stimulants (Sympathomimetics)</h2>
-</li>
-</ul>
-</li>
-</ul>
-<hr>
-<ul>
-<li><p>Direct - Direct drugs mimic catecholamines as selective or non-selective. This is referring to therapeutic doses. In high concentration above the TD, drugs may lose selectivity.</p>
-<ul>
-<li><p>Adrenergic Receptor Agonists:</p>
-<ul>
-<li>Alpha 1 and 2</li>
-<li>Beta 1, 2, 3</li>
-<li>All coupled to G protein<ul>
-<li>Metabotropic</li>
-<li>Use of second messengers</li>
-</ul>
-</li>
-</ul>
-</li>
-<li><h3 id="adrenergic-system-recap">Adrenergic System Recap:</h3>
-<hr>
-<ul>
-<li>Sympathetic come from thoraco-lumbar region</li>
-<li>Organized mainly in paravertebral ganglion</li>
-<li>Pre-gang neuron uses ACh to communicate with post-gang neuron</li>
-<li>Post-gang releases 80% NE, and only 20% Epi.</li>
-<li>Fight or Flight<ul>
-<li>Tachycardia, bronchodilation, vasoconstriction in most vessels</li>
-<li>Vasodilation in SOME vessels, such as those supplying skeletal muscles</li>
-</ul>
-</li>
-<li>Dopamine is released to control renal vascular tone, but not a primary catecholamine.</li>
-<li>Adrenal gland acts as like a post-ganglion neuron.<ul>
-<li>It releases 80% epinephrine, 20% NE &lt;&lt;&lt; Different than normal neurons.</li>
-</ul>
-</li>
-<li>CNS is mostly affected by NE.<ul>
-<li>Attention, alertness, concentration, energy, reduce appetite, sex drive.</li>
-</ul>
-</li>
-</ul>
-</li>
-<li><h3 id="therapeutic-indication-of-ne">Therapeutic Indication of NE:</h3>
-<hr>
-<ul>
-<li>Treat cardiogenic shock (IV)<ul>
-<li>Increase total peripheral resistance.</li>
-<li>Increase diastolic and systolic blood pressure during cardiogenic shock.</li>
-<li>Poor oral bioavailability. Quikcly inactivated by COMT and MAO in the liver and gut.</li>
-<li>Short action duration because it is matbolized.</li>
-<li>Lack of selectivity.</li>
-</ul>
-</li>
-</ul>
-</li>
-<li><h3 id="therapeutic-indications-of-epi">Therapeutic Indications of Epi:</h3>
-<hr>
-<ul>
-<li>Rapid relief of anaphylaxis reactions</li>
-<li>Prolong the effect of local anesthetics (alpha 1)</li>
-</ul>
-</li>
-<li><p><strong>Ceases bleeding (hemostatic agent) (alpha1→ vasoconstriction)</strong></p>
-</li>
-<li><p>Beneficial for asthma</p>
-<ul>
-<li>B2: decrease in antigen-induced inflammatory mediator release</li>
-<li>a1: decrease in bronchial secretion and congestion in mucosa</li>
-<li><strong>B2: Increases bronchodilation</strong></li>
-</ul>
-</li>
-<li><p>Adverse Effects:</p>
-<ul>
-<li>CNS: Anxiety and restlesness</li>
-<li>PNS:<ul>
-<li>Increase in physiological tremor (B2)</li>
-<li>Palpitations (B1)</li>
-<li>Increase blood sugar (A2)</li>
-</ul>
-</li>
-</ul>
-</li>
-<li><h3 id="selectivity">Selectivity</h3>
-</li>
-</ul>
-<hr>
-<ul>
-<li>Relative affinity: Epinephrine typically has a higher affinity for adrenergic receptors<ul>
-<li>A1: Epi &gt; NE</li>
-<li>A2: Epi &gt; NE</li>
-<li>B1: NE= Epi</li>
-<li>B2: Epi &gt;&gt;NE</li>
-<li>B3: NE &gt; Epi</li>
-</ul>
-</li>
-</ul>
-<h2 id="a1-agonists">A1 Agonists:</h2>
-<hr>
-<ul>
-<li><h3 id="phenylephrine">Phenylephrine:</h3>
-<ul>
-<li>Pharmacokinetics: within therapeutic doses it does not cross the BBB.<ul>
-<li>Only metabolized by MAO. Not by COMPT. Higher Bioavail than epi.</li>
-<li>Pharmacodynamics: Selective for A1-adrenergic agonist</li>
-<li>Therapeutic Uses: are related with vasoconstriction<ul>
-<li><strong>Nasal decongestant</strong></li>
-<li>Maintain BP during anesthesia</li>
-<li>Cause contraction in radial muscle</li>
-<li>Contraction in pupils - Mydriassis</li>
-</ul>
-</li>
-<li>Adverse Effects:<ul>
-<li>Excess vasoconstriction</li>
-<li>Insomnia</li>
-<li><strong>Rebound nasal congestion</strong><ul>
-<li>After three days the therapeutic affect drops, and congestion rebounds severely.</li>
-</ul>
-</li>
-<li>May worsen prostatic hyperplasia</li>
-<li>Urinary bladder sphincter contraction</li>
-<li>Drug interactions:<ul>
-<li>MAO inhibitor will prolong</li>
-</ul>
-</li>
-<li><strong>Potential Systemic Problems:</strong><ul>
-<li>associated to BP, like hypertension and <strong>reflex bradycardia</strong></li>
-<li>BP = CO * TPR</li>
-<li>High % A1 receptors in these vessels.</li>
-<li>Agonist causes vascular contraction, which increases BP.</li>
-<li>To react to the increased BP, CO decreases, causing bradycardia.</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-<li><h3 id="midodrine">Midodrine:</h3>
-<ul>
-<li>Therapeutic Use related with Vasoconstriction<ul>
-<li><strong>Orthostatic hypotension</strong></li>
-</ul>
-</li>
-<li>Adverse Effects due to A1 Stimulation<ul>
-<li>Vasoconstriction = hypertension</li>
-<li><strong>Contraction in urinary bladder sphincter = Urinary retention</strong></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-<li><h2 id="a2-agonists">A2 Agonists:</h2>
-<hr>
-<pre><code>  - Coupled to Gi proteins, which are inhibitory
-  - Decrease in NT release
-  - Decrease insulin secretion from Pancreatic B cells.
-  - Decreased sympathetic nerve activity due to brainstem (CNS) adrenoreceptors
-  - Increase aqueous outflow of humor in the eyes.</code></pre><ul>
-<li><h3 id="clonidine-central-acting-adrenergic-agonist">Clonidine: Central Acting Adrenergic Agonist</h3>
-<ul>
-<li>Good bioavailability and crosses BBB, reaching the A2 receptors in the brainstem.</li>
-<li><strong>Reduce Adrenergic discharge of norepinephrine</strong></li>
-<li>Therapeutic Uses:<ul>
-<li><strong>Reduce Hypertension</strong>, withdrawal symptoms.</li>
-</ul>
-</li>
-<li>Adverse Effects:<ul>
-<li>Dry mouth, fatigue</li>
-<li><strong>Orthostatic Hypotension (old patients may fall)</strong></li>
-</ul>
-</li>
-</ul>
-</li>
-<li><h3 id="apraclonidine-and-brimonidine">Apraclonidine and Brimonidine:</h3>
-<ul>
-<li>Topical Intraocular administration</li>
-<li>Treat decrease pressure caused  accumulation of aqueous outflow.</li>
-<li>Therapeutic Use:<ul>
-<li>Open-angle glaucome</li>
-</ul>
-</li>
-<li>Adverse Effect:<ul>
-<li>Orthostatic hypotension caused if drug reaches systemic circulation</li>
-</ul>
-</li>
-</ul>
-</li>
-<li><h3 id="methyldopa">Methyldopa:</h3>
-<ul>
-<li>Prodrug. Distribution throughout the body (placenta, BBB)</li>
-<li>CNS mainly. Causes a reduction in the release of NE from CNS</li>
-<li>Decrease sympathetic tone, which decreases total peripheral resistance.</li>
-<li>Therapeutic Use:<ul>
-<li>Decrease hypertension</li>
-<li><strong>Drug of choice for hypertension during pregnancy and breastfeeding</strong></li>
-<li></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-<li><h2 id="b-1-adrenergic-receptor-agonist">B-1 Adrenergic Receptor Agonist:</h2>
-</li>
-</ul>
-<hr>
-<pre><code>  - Increased Heart Rate: Positive chronotropic effect
-  - Increase force: Positive inotropic effect
-  - Increase automaticity: Positive dromotropic effect
-  - Increased Cardiac Output:
-  - Dobutamine, Dopamine (mostly cardio-stimulatory effects)</code></pre><ul>
-<li><h3 id="dopamine">Dopamine</h3>
-<ul>
-<li>PK: Very short acting (substrate for transporters and enzymes)</li>
-<li>Dose dependent.</li>
-<li>Therapeutic EffecT: Moderate Dose<ul>
-<li>Severe congestive heart failure</li>
-<li>Cardiogenic shock with hypotension</li>
-</ul>
-</li>
-<li>Low Dose:<ul>
-<li><strong>Increase renal blood floow. DA1 agonist in kidneys</strong></li>
-<li>Cause vomiting D2 in CNS.</li>
-</ul>
-</li>
-<li>High Dose:<ul>
-<li>A1 agonist. Increases peripheral vascular resistance: cardiac output, heart rate</li>
-</ul>
-</li>
-</ul>
-</li>
-<li><h3 id="dobutamine">Dobutamine:</h3>
-<ul>
-<li>PK: Short duration, IV adm.</li>
-<li>Only stimulate B1 receptors</li>
-<li>Positive inotropic drug</li>
-<li>Small amount of vasoconstriction due to A1-agonism</li>
-<li>Therapeutic:<ul>
-<li>Drug of choice to treat cardiogenic shock</li>
-</ul>
-</li>
-<li>Does not cause vomiting or increase renal blood flow.</li>
-<li>Can cause tachycardia.<ul>
-<li><h2 id="b-2-adrenergic-receptor-agonist">B-2 Adrenergic Receptor Agonist:</h2>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-<hr>
-<pre><code>  - Smooth muscle relaxation
-  - Some blood vessels: vasodilation
-      - Skeletal, liver, heart, coronary
-  - Glycogenolysis, gluconeogenesis
-  - Increase insulin release from pancreas.
-  - Mast cells decrease histamine release.
-  - Adrenergic neurons increase NE release.</code></pre><ul>
-<li><strong>SABA - Short Acting Beta Agonist</strong>    <pre><code> - Abuterol, Terbutaline - SABA
- - Fast onset and offset.</code></pre></li>
-<li><strong>LABA - Long Acting Beta Agonist</strong><pre><code> - Formoterol - fast onset
- - Salmeterol - slow onset</code></pre><ul>
-<li>Effect of B2 activation<ul>
-<li>Bronchorelaxation</li>
-<li>Reduction of airway inflammation</li>
-<li>Reduction of episodic bronchospasms due to allergens</li>
-</ul>
-</li>
-<li>Therapeutic Use: Asthma and COPD<ul>
-<li><strong>Terbutaline is used as off-label to delay premature labor.</strong></li>
-</ul>
-</li>
-<li>Adverse Effect:<ul>
-<li>Tremor</li>
-<li>Tachycardia</li>
-<li><strong>Insulin secretion. - Terbutaline</strong><ul>
-<li><h2 id="b1-and-b2-agonist">B1 and B2 agonist:</h2>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-<hr>
-<ul>
-<li><h3 id="isoproterenol">Isoproterenol:</h3>
-<ul>
-<li>Target organs:<ul>
-<li>Heart - B1</li>
-<li>Lungs - B2</li>
-</ul>
-</li>
-<li>PK: Metabolized by liver (COMT): brief duration of action</li>
-<li>Effects:<ul>
-<li>Stimulate heart (B1)</li>
-<li>Vasodilator - vessels that irrigate skeletal muscle(B2)</li>
-<li>Bronchodilation (B2)</li>
-</ul>
-</li>
-<li>Therapeutic:<ul>
-<li>Rarely used</li>
-<li>Heart block to stimulate heart B1 and management is asthma/bronchitis B2</li>
-</ul>
-</li>
-<li>Adverse effect: Tachycardia, headache, flushing</li>
-<li><h2 id="b3-agonist">B3 agonist:</h2>
-</li>
-</ul>
-</li>
-</ul>
-<hr>
-<ul>
-<li><h3 id="mirabegron">Mirabegron</h3>
-<ul>
-<li>Affect:<ul>
-<li>Endogenous B3 Agonist Activate lipolysis in fat cells. </li>
-<li><strong>The Mirabegron drug does NOT have the effect.</strong></li>
-<li><strong>Detrusor muscle relaxation</strong> in smooth muslce tissue of the urinary bladder</li>
-</ul>
-</li>
-<li>B3 receptor in detrusor muscle in bladder. Couple to Gi protein, so has inhibitory affect, which relaxes the muscle. It allows storage of more urine.</li>
-<li>Therapeutic:<ul>
-<li>Treat symptoms of frequent or urgent urination and incontinence due to overactive bladder (OAB).</li>
-</ul>
-</li>
-<li>PK: Good bioavailabilty, no BBB crossing</li>
-<li>AE: <strong>Urinary</strong> retention, Tachycardia, Tremor</li>
-<li>Non-Selective</li>
-</ul>
-</li>
-</ul>
-
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Edema Congestion and Hemostasis</title>
-        <author>
-            <name>William Slattery</name>
-        </author>
-        <link href="https://BGASM.github.io/medNotes/edema-congestion-and-hemostasis.html"/>
-        <id>https://BGASM.github.io/medNotes/edema-congestion-and-hemostasis.html</id>
-
-        <updated>2020-11-30T22:17:57-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://BGASM.github.io/medNotes/media/posts/3/Myelolipoma_histology_HE.jpg" alt="" />
-                    Congestion and Hyperemia:HemostasisBleeding or Hypercoagulable state:Platlet vs Coagulation Cascade: Qualitative vs QuantitativeEdema60% bodyweight is water, 2/3 which is intracellular. Transudate Exudate Remeber that inflammatory edema makes sense. Inflammation leads to vascular permeability/dilation. This hyperemia allows fluid to leave vessels and settle, causing edema.Increased hydrostatic pressure&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://BGASM.github.io/medNotes/media/posts/3/Myelolipoma_histology_HE.jpg" alt="" />
-                <ul>
-<li><a href="#congestion-and-hyperemia">Congestion and Hyperemia:</a></li>
-<li><a href="#hemostasis">Hemostasis</a><ul>
-<li><a href="#-bleeding-or-hypercoagulable-state">Bleeding or Hypercoagulable state:</a></li>
-<li><a href="#-platlet-vs-coagulation-cascade-qualitative-vs-quantitative">Platlet vs Coagulation Cascade: Qualitative vs Quantitative</a></li>
-</ul>
-</li>
-</ul>
-<h1 id="edema">Edema</h1>
-<ul>
-<li><p>60% bodyweight is water, 2/3 which is intracellular.</p>
-<ul>
-<li>Of the remaining water, 35% is in extracellular space. AKA interstitial fluid and ‘third spaces’<ul>
-<li>Third space is not quite interstitial, its like the cavities of the pleual or abdominal cavities, the pericardial sac. And fluid does collect in these spaces.</li>
-</ul>
-</li>
-<li>There is a balance of vascular hydrostatic pressure against plasma colloid osmotic pressure.<ul>
-<li>Hydrostatic is always a little higher, because fluid needs to escape the vessel and reach lymphatics.</li>
-<li>While RBCs die, we will also keep fluid moving overall.  </li>
-</ul>
-</li>
-</ul>
-<p>Transudate</p>
-<ul>
-<li>Protein and cell poor edema that is caused by an increase in hydrostatic pressure, or a reduction in plasma proteins.  </li>
-<li>It is common in organ failure and malnutrition.  </li>
-<li>Appears clear or amber.  </li>
-</ul>
-</li>
-</ul>
-<p> Exudate</p>
-<ul>
-<li>Protein and cell rich edema that is caused by inflammation.  </li>
-<li>It is one of the outcomes caused by the cascade of inflammatory-induced events (vascular permeability, cellular response.)  </li>
-<li>Fluid appears amber or cloudy.</li>
-</ul>
-<h2 id="edema-names">Edema Names:</h2>
-<hr>
-<ul>
-<li>Anasarca: Whole-body generalized and severe edema with subcutaneous tissue swelling.  </li>
-<li>Serous: A transudate or light exudate with mainly edema fluid.  </li>
-<li>Serosanguinous: Effusion with RBC.  </li>
-<li>Fibrinous: Fibrin strans that bridge from heart and pericardial sac and are derived from a protein rich exudate.  </li>
-<li>Purulent: Exudate with numerous neutrophils. ALso called empyema in pleural space.  </li>
-</ul>
-<h2 id="severity">Severity:</h2>
-<hr>
-<ul>
-<li>Edema can range from having minimal to life threatening consequences.</li>
-<li>Subcutaneous can be a bite or a blister, or it can signal systemic cardiac or renal disease.</li>
-<li>Localized edema can inhibit wound healing, prevent clearing pathogens, or cause a physical obstruction.</li>
-<li>Pulmonary edema can be caused by several clinical scenarious, and it can be life threatening.</li>
-<li>Cerebral edema can also be fatal, as it developes rapidly and can cause the brain to herniate.</li>
-</ul>
-<h2 id="morphology">Morphology:</h2>
-<hr>
-<ul>
-<li>Pitting Edema:<ul>
-<li>Subcutaneous:<ul>
-<li>Appears swollen, shiny and boggy</li>
-<li>Compression artifact that resolves slowly.</li>
-<li>Gravity and hydrostatic pressure cause <strong>dependent edema</strong> in the legs when standing or sacrum with prone.</li>
-<li>Linked with Right heart failure<ul>
-<li>Poor blood return. Blood backs up into vena cava and edema builds up in lowed extremities.</li>
-</ul>
-</li>
-</ul>
-</li>
-<li>Pulmonary:<ul>
-<li>Heavy wet lungs.</li>
-<li>Frothy, blood-tinged fluid expressed when compressing parenchyma.</li>
-</ul>
-</li>
-<li>Cerebral:<ul>
-<li>Generalized or local swelling.</li>
-<li>Expanded gyri, narrowed sulci</li>
-<li>Herniation of brain or brainstem</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-<h2 id="pathophysiology-of-non-inflammatory-edema">Pathophysiology of Non-Inflammatory Edema:</h2>
-<hr>
-<pre><code> Remeber that inflammatory edema makes sense. 
- Inflammation leads to vascular permeability/dilation.
- This hyperemia allows fluid to leave vessels and settle, causing edema.</code></pre><ol>
-<li>Increased hydrostatic pressure <strong>Usually Cardiac</strong><ul>
-<li>Can occur due as regional or systemic.</li>
-<li>Localized edema in one leg can lead to <strong>DVT</strong> which can cause a focal impairment of venous return.</li>
-<li>Generalized <strong>increases in venous pressure can also lead to systemic edema</strong>. Such as in congestive heart failure.</li>
-</ul>
-</li>
-<li>Reduced oncotic pressure due to inadequate plasma protein (albumin) <strong>Usually Hepatic</strong><ul>
-<li>Reduced albumin synthesis (<strong>liver disease</strong>), malnut</li>
-</ul>
-</li>
-<li>Primary sodium retention. <strong>Kidneys</strong></li>
-<li>Primary water retention</li>
-<li>Lymphatic obstruction leading to lymphedema.<ul>
-<li>Usually localized.</li>
-<li>Lymphedema in an extremity, usually upper arm, is seen commonly due to removal of or radiation to axiallary lymph nodes. <strong>Breast Cancer</strong></li>
-<li>Parasitic disease <strong>filariasis</strong> show extensive lower limb and genital edema.</li>
-</ul>
-</li>
-</ol>
-<h1 id="congestion-and-hyperemia">Congestion and Hyperemia:</h1>
-<ul>
-<li><p>Occur when a vascular space is expanded.</p>
-</li>
-<li><p>Both result from <strong>locally increased blood volume</strong>.</p>
-</li>
-<li><p>Associated with increased intravascular pressures, which often lead to edema.</p>
-</li>
-<li><p><strong>Hyperemia</strong> is an active process. It is due to blood inflow from arterial dilation.</p>
-<ul>
-<li>Tissue becomes red and engorged with blood. <strong>Obvious when seen</strong></li>
-<li>Seen in skeletal muscle when exercising, or sites of inflammation.</li>
-</ul>
-</li>
-<li><p><strong>Congestion</strong> is a passive proocess due to impaired outflow of blood from tissue.</p>
-<ul>
-<li>Tissue are blue <strong>cyanotic</strong>  due to accumulation of deoxyhemoglobin.</li>
-<li>Over time, lack of oxygenated blood lead to localized hypoxia - which can eventually lead to ischemia and necrosis.</li>
-<li>Capillaries rupture. Lead to characterisitc <strong>hemosiderin-laden macrophages</strong></li>
-<li>Organ Specific Congestion has characteristic morphologic changes:<ul>
-<li>Chronic pulmonary congestion:<ul>
-<li>Alveolara septa get thick and fibrotic.</li>
-<li>Lots of the hemosiderin-laden macrophages (<strong>heart failure cells</strong>)</li>
-</ul>
-</li>
-<li>Chronic hepatic congestion:<ul>
-<li>Homorrhage within the lobes of the liver lead to a dumping-out of the hemosiderin-laden macrophages and hepatocytes.</li>
-<li>These cells undergo ischemia and necrosis and they make the liver look mottled, red-brown, and depressed.<ul>
-<li><strong>Nutmeg Liver</strong><h1 id="hemostasis">Hemostasis</h1>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-<li><p>Sequence of Events:</p>
-<ol>
-<li>Following injury <strong>vasoconstriction</strong> limits blood flow in the area. Vasoconstriction is transient and augmented by endothelial cell endothelin.</li>
-<li>Exposed <strong>extracellular matrix is thrombogenic</strong>. Induces reaction that causes <strong>adherence and activateion of platelets</strong> in order to form a <strong>hemostatic plug</strong>.</li>
-<li>Endothelial cells release tissue factor (<strong>factor III or thromboplastin</strong>) which works iwht factor VII to initiate <strong>coagulation</strong>. Thrombin gets generated at the site and cleaves <strong>fibrinogen into fibrin</strong>. Forms a fibrin mesh and this is secondary hemostasis.</li>
-<li>Fibrin and platelet aggregates form a stable plug. Counter processes to stop and revers thrombus formation.  </li>
-</ol>
-</li>
-</ul>
-<h3 id="bleeding-or-hypercoagulable-state">Bleeding or Hypercoagulable state:</h3>
-<hr>
-<ul>
-<li><strong>Bleeding State</strong></li>
-<li>Bernard-Soulier Syndrome GP1B.</li>
-<li>Von Willibrand disease due to too little or too weak vWF.</li>
-<li>Glanzmaan thromoasthenia due to deficiency in GpIIa-IIIb.  </li>
-</ul>
-<h3 id="platlet-vs-coagulation-cascade-qualitative-vs-quantitative">Platlet vs Coagulation Cascade: Qualitative vs Quantitative**</h3>
-<hr>
-<ul>
-<li>Platelet Tests:<ul>
-<li>Qualitative: Bleed time</li>
-<li>Quantitative: Platelets are measured and counted.</li>
-</ul>
-</li>
-<li>Coagulation Tests:<ul>
-<li>Activated Partial Thromboplastin Time - aPPT</li>
-<li>Prothrombin Time - PT.  </li>
-</ul>
-</li>
-</ul>
-<hr>
-<ul>
-<li>Normal endothelium supports a state of anti-coagulation. If there is an injury we flip things up.<ul>
-<li>von WIllibrong Factor (GP1B receptor - deficiency is called Bernard-Soulier syndrome)</li>
-<li>Tissue factor: Ectivates extrinsic pathway in response to TNF.</li>
-<li>Plasminogen activator inhibitors: Favor thrombosis</li>
-</ul>
-</li>
-</ul>
-
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Adrenergic and Cholinergic III</title>
-        <author>
-            <name>William Slattery</name>
-        </author>
-        <link href="https://BGASM.github.io/medNotes/adrenergic-and-cholinergic-pharm-iii.html"/>
-        <id>https://BGASM.github.io/medNotes/adrenergic-and-cholinergic-pharm-iii.html</id>
-
-        <updated>2020-11-30T22:20:14-05:00</updated>
-            <summary>
-                <![CDATA[
-                    Indirect Adrenergic Mimicking drugsMAO Inhibitors - Phenelzine and SelegilineCOMT Inhibitors - Entacapone, Levodopa, CabidopaReuptake Inhibitors - NET: Amphetamine, Methamphetamine, Lisdexamphetamine, DextroamphetamineReuptake Inhibitors - DAT and NET: CocaineReuptake Inhibitors - NET and 5HT: IMIPRAMINE, DESIPRAMINE, AMITRIPTYLINE, NORTRIPTYLINE: Tricyclic Antidepressants (TCA)Releasing agent: Tyramine:Mixed Adrenergic Mimicking DrugsMethylphenidate /&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <ul>
-<li><a href="#-indirect-adrenergic-mimicking-drugs">Indirect Adrenergic Mimicking drugs</a><ul>
-<li><a href="#-mao-inhibitors---phenelzine-and-selegiline">MAO Inhibitors - Phenelzine and Selegiline</a></li>
-<li><a href="#-comt-inhibitors---entacapone-levodopa-cabidopa">COMT Inhibitors - Entacapone, Levodopa, Cabidopa</a></li>
-<li><a href="#-reuptake-inhibitors---net-amphetamine-methamphetamine-lisdexamphetamine-dextroamphetamine">Reuptake Inhibitors - NET: Amphetamine, Methamphetamine, Lisdexamphetamine, Dextroamphetamine</a></li>
-<li><a href="#-reuptake-inhibitors---dat-and-net-cocaine">Reuptake Inhibitors - DAT and NET: Cocaine</a></li>
-<li><a href="#-reuptake-inhibitors---net-and-5ht-imipramine-desipramine-amitriptyline-nortriptyline-tricyclic-antidepressants-tca">Reuptake Inhibitors - NET and 5HT: IMIPRAMINE, DESIPRAMINE, AMITRIPTYLINE, NORTRIPTYLINE: Tricyclic Antidepressants (TCA)</a></li>
-<li><a href="#-releasing-agent-tyramine">Releasing agent: Tyramine:</a></li>
-</ul>
-</li>
-<li><a href="#-mixed-adrenergic-mimicking-drugs">Mixed Adrenergic Mimicking Drugs</a><ul>
-<li><a href="#---methylphenidate--dextroamphetamine">Methylphenidate / Dextroamphetamine</a></li>
-<li><a href="#---pseudophedrin">Pseudophedrin</a><ul>
-<li><a href="#summary-of-therapeutic-uses-of-indirect-and-mixed">Summary of Therapeutic Uses of Indirect and Mixed</a></li>
-</ul>
-</li>
-</ul>
-</li>
-<li><a href="#notes">Notes</a><ul>
-<li><a href="#questions-34353946474969">Questions: 34;35;39;46;47;49;69.</a><h3 id="indirect-adrenergic-mimicking-drugs">Indirect Adrenergic Mimicking drugs</h3>
-</li>
-</ul>
-</li>
-</ul>
-<hr>
-<ul>
-<li>Enzyme inhbitors: MAO, COMT, DD (dopamine decarboxylase)<ul>
-<li>MAO:<ul>
-<li>Phenelzine</li>
-<li>Selegiline</li>
-</ul>
-</li>
-<li>COMT:<ul>
-<li>Entacapone</li>
-</ul>
-</li>
-<li>DD:<ul>
-<li>Carbidopa</li>
-</ul>
-</li>
-</ul>
-</li>
-<li>Uptake inhibitors: NET, DAT<ul>
-<li>NET:<ul>
-<li>Amphetamine</li>
-<li>Methamphetamine</li>
-</ul>
-</li>
-<li>DAT and NET:<ul>
-<li>Cocaine</li>
-<li>Methylphenidate</li>
-</ul>
-</li>
-<li>NET and 5HT:<ul>
-<li>Imipramine</li>
-<li>Desipramine</li>
-<li>Amitriptyline</li>
-<li>Nortiptyline</li>
-</ul>
-</li>
-</ul>
-</li>
-<li>Releasing agent:<ul>
-<li>Tyramine: Not a drug, but does interfere.<h3 id="mao-inhibitors---phenelzine-and-selegiline">MAO Inhibitors - Phenelzine and Selegiline</h3>
-</li>
-</ul>
-</li>
-</ul>
-<hr>
-<ul>
-<li>When catecholamines and 5HT are taken up, they are inactivated by MAO or COMPT. (Tissue more COMPT, Nerve ending more MAO)</li>
-<li>This takes place before storage of NT. They get inactivated before storage.</li>
-<li>MAO-A and MAO-B. Both cause irreversible inhibition of MAO.<ul>
-<li>MAO-A is not selective</li>
-<li>MAO-B is selevtive for dopamine.</li>
-<li>Phenelzine inhibits MAO-A and MAO-B<ul>
-<li>Increase in NE, DA, 5HT</li>
-</ul>
-</li>
-<li>Selegiline inhibits MAO-B<ul>
-<li>Increase in DA.</li>
-</ul>
-</li>
-<li>Therapeutic Use:<ul>
-<li>Depression: Phenelzine</li>
-<li>Parkinson: Selegiline (disease with low levels of Dopa.) <h3 id="comt-inhibitors---entacapone-levodopa-cabidopa">COMT Inhibitors - Entacapone, Levodopa, Cabidopa</h3>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-<hr>
-<ul>
-<li>Dopamine is mostly made in CNS.<ul>
-<li>If dopamine is not stored it can be inactivated by COMT</li>
-<li>Dopamine is a norepi precursor. It cannot cross the BBB.<ul>
-<li>This means that if there is degeneration of Dopamine production in the brain, peripheral Dopamine cannot rescue it because it cannot cross BBB.</li>
-<li>L-DOPA can cross the BBB, but COMT and DD quickly degrade it.</li>
-<li>Treatment revolves around inhibiting COMT and DD so that L-DOPA can cross the BBB.</li>
-</ul>
-</li>
-</ul>
-</li>
-<li>Entacapone:<ul>
-<li>Drug that inhibits COMT. This enhances the conversion of L-DOPA to DA.</li>
-<li>No effect on DD, so efficacy is fairly low.</li>
-<li>Drug has low CNS penetration, so it will not have effect on the brain.</li>
-<li>We combine with Levodopa, which is not an inhibitor of any of these enzyme on its own.</li>
-</ul>
-</li>
-<li>Levodopa:<ul>
-<li>Not an enzyme inhibitor.</li>
-<li>Levodopa enhances the effect of Entacapone.</li>
-<li>Levodopa can cross the BBB.</li>
-<li>It is similar (synthetic) to L-Dopa, so it saturates COMT and DD in the CNS.</li>
-<li>This allows for more L-Dopa to cross BBB and get converted to DA.</li>
-</ul>
-</li>
-<li>Carbidopa:<ul>
-<li>DD inhibitor.</li>
-<li>Unable to cross BBB.</li>
-<li>Can be combined with Levodopa again.</li>
-<li><strong>Carbidopa + Levodopa is the Gold Standard for Parkinsons Disease</strong><h3 id="reuptake-inhibitors---net-amphetamine-methamphetamine-lisdexamphetamine-dextroamphetamine">Reuptake Inhibitors - NET: Amphetamine, Methamphetamine, Lisdexamphetamine, Dextroamphetamine</h3>
-</li>
-</ul>
-</li>
-</ul>
-<hr>
-<ul>
-<li><p>Amphetamine, Methamphetamine:</p>
-<ul>
-<li><p>Liposoluble, good bioavailability, long duration of action.</p>
-</li>
-<li><p>Penetrate the BBB</p>
-</li>
-<li><p>MoA is Inhibition of Norepinephrine Transporter - NET.</p>
-<ul>
-<li>Blocks uptake of Norepi, allowing it to accumulate in the synaptic cleft and continue its action.</li>
-<li>Also enters nerve through NET and transports into vesicles through VMAT.</li>
-<li>This causes Norepinephrine to displace out from the vesicle, where it can be released through reverse transport!</li>
-</ul>
-</li>
-<li><p>Overall effect of NET inhibition is an  ↑↑↑ of NE in the cleft, so an enhanced stimulant action.</p>
-</li>
-<li><p>Peripheral: B1 and A1 primarily</p>
-<ul>
-<li>Tachycardia (B1)</li>
-<li>Vasoconstriction (A1)</li>
-</ul>
-</li>
-<li><p>Therapeutic:</p>
-<ul>
-<li>Treat narcolepsy, ADHD, Binge eating</li>
-</ul>
-</li>
-<li><p>Adverse:</p>
-<ul>
-<li>CNS stimuli: jitters, <strong>insomnia, anorexia</strong>, seizures, hallucination, paranoia.</li>
-<li>PNS: headace, <strong>tachyarrhytmias, hypertension</strong>/hypotension, sweating, nausea, diarrhea,<h3 id="reuptake-inhibitors---dat-and-net-cocaine">Reuptake Inhibitors - DAT and NET: Cocaine</h3>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-<hr>
-<ul>
-<li>Cocaine:<ul>
-<li>Penetrates BBB</li>
-<li>MoA: DAT and NET inhibition. This increases the amount of both NE and DA in the synaptic cleft and therefore enhance the stimulant action of both.</li>
-<li>In particular, it inhibits the reuptake in pleasure centers of CNS.<ul>
-<li>Sympathomimetic effect in PNS. The reuptake is also blocked in PNS, but its less exciting.</li>
-</ul>
-</li>
-<li>Therapeutic:<ul>
-<li>Pretty limited. Only used as a local anesthetic.</li>
-<li>No systemic effect. Only used topically (damn, not even orally)</li>
-<li>Combine anesthetic and vasoconstriction (sympathomimetic)</li>
-</ul>
-</li>
-<li>Adverse effects:<ul>
-<li>Sudden death (<strong>cardiac and respiratory arrest</strong>). </li>
-<li>Non-fatal effects: <strong>agitation, paranoia, tachycardia and hypertension</strong>, seizures, angina pectoris/myocardial ischemia, and hyperthermia.</li>
-<li>Repeated “snorting” can result in chronic rhinitis, cartilaginous necrosis, sinusitis, and <strong>nose bleeds</strong>.<h3 id="reuptake-inhibitors---net-and-5ht-imipramine-desipramine-amitriptyline-nortriptyline-tricyclic-antidepressants-tca">Reuptake Inhibitors - NET and 5HT: IMIPRAMINE, DESIPRAMINE, AMITRIPTYLINE, NORTRIPTYLINE: Tricyclic Antidepressants (TCA)</h3>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-<hr>
-<ul>
-<li>Tricyclic Antidepressants (TCA)<ul>
-<li>Inhibit the Norepinephrine transporter at pre-synaptic terminals in the CNS</li>
-<li>Also inhibit the 5-HT transporters.</li>
-<li>Both NE and 5HT accumulate in synaptic cleft, and mostly in CNS, so they stimulate the mood.</li>
-<li>Therapeutic:<ul>
-<li>Used to treat depression, peripheral neuropathy, and chronic pain.</li>
-</ul>
-</li>
-<li>Additional Mechanism:<ul>
-<li>Antagonist of serotonergic, A1, histamine, and muscarinic receptors.</li>
-<li>These could potentially lead to adverse effects.</li>
-</ul>
-</li>
-<li>Adverse Effects:<ul>
-<li>CNS: Confusion and hallucinations (antimuscarininc)</li>
-<li>Periphery: <ul>
-<li>Postural hypotension (orthostatic) due to A1-adrenergic antagonism.</li>
-<li>Atropine-like effects (antimuscarinic)</li>
-<li>Sinus tachycardia, urinary retnetion, dry <strong>mouth</strong> (due to antimuscarinic).<h3 id="releasing-agent-tyramine">Releasing agent: Tyramine:</h3>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-<hr>
-<ul>
-<li>Not a drug, but plays a role in drug interaction.<ul>
-<li>Endogenous by-product of tyrosine metabolism. The amount of tyramine generated endogenously is not significant (only traces).</li>
-<li>Found in high concentrations in some fermented foods (<strong>cheese, wine</strong>, etc..)</li>
-<li>When foods containing tyramine are ingested, <strong>tyramine is inactivated (metabolized) by MAO in the liver and GI tract</strong> (rapid first-pass metabolism). <ul>
-<li>Thus, normally, tyramine is not found in the systemic circulation.</li>
-</ul>
-</li>
-</ul>
-</li>
-<li>Tyramine is not given to patients.<ul>
-<li>In animals when administered the effect was enhancing imipramine and amyitriptyline because tyramine releases catecholamines from nerve endings.</li>
-</ul>
-</li>
-<li>Route:<ul>
-<li>Tyramine gets absorbed in the gut and then the blood and gets taken up by sypathetic nerve endings through NET.</li>
-<li>Transported into vesicles by VMAT.</li>
-<li>Displaces NE from vesicles.</li>
-<li>Our patient is on MAO inhibitors, so there is no enzyme available to degrade the excess NE.</li>
-</ul>
-</li>
-<li><strong>Can cause a hypertensive crisis.</strong></li>
-</ul>
-<h3 id="mixed-adrenergic-mimicking-drugs">Mixed Adrenergic Mimicking Drugs</h3>
-<hr>
-<ul>
-<li>Direct and Indirect, they are mixed:<ul>
-<li>Agonist on adrenergic causing release of NE and DA</li>
-<li>Amphetamine-like Compounds</li>
-<li>Methylphenidate / Dextroamphetamine: Schedule II</li>
-<li>Pseudophedrin: Over the Counter<h3 id="--methylphenidate--dextroamphetamine">- Methylphenidate / Dextroamphetamine</h3>
-</li>
-</ul>
-</li>
-</ul>
-<hr>
-<ul>
-<li>Structural analogs of amphetamine<ul>
-<li>Mechanism: Indirectly <strong>inhibit DAT and NET</strong> as well as <strong>A1 agonist (vasoconstriction)</strong></li>
-<li>Consequence is an increase in the amount of NE and DA in synaptic clefts (both periphery and CNS)</li>
-<li>The NT’s are associated with learning and memory.</li>
-</ul>
-</li>
-<li>Therapeutic:<ul>
-<li>ADHD</li>
-</ul>
-</li>
-<li>Adverse Effects:<ul>
-<li>CNS: anorexia, dry mouth, anxiety, nausea, insomnia, agitation, irritability, dyskinesia, lethargy, dizziness, depression, emotional lability, confusion,</li>
-<li>Periphery: abdominal pain, tachycardia (reflex bradycardia), blurred vision (A1 agonism) and bruxism<h3 id="--pseudophedrin">- Pseudophedrin</h3>
-</li>
-</ul>
-</li>
-</ul>
-<hr>
-<ul>
-<li>Mechanism: <ul>
-<li>Indirect: inhibits NET and release of NE from vesicles </li>
-<li>Direct: A1 B1 agonist (low affinity for B2)</li>
-</ul>
-</li>
-<li>Consequence:<ul>
-<li>Inhibit NE reuptake and displaces NE from storage.</li>
-<li>Increase accumulation of NE in periphery and CNS<ul>
-<li>Similar to amphetamines, but less CNS stimulation.</li>
-</ul>
-</li>
-</ul>
-</li>
-<li>Therapeutic:<ul>
-<li>Nasal decongestant</li>
-</ul>
-</li>
-<li>Adverse Effects:<ul>
-<li>Atrial fibrillation, reflex bradycardia, ventricular permature beats, hypertension, insomnia.</li>
-</ul>
-</li>
-</ul>
-<h3 id="notes">Notes</h3>
-<ul>
-<li>Heteroreceptor<ul>
-<li>Receptors that are stimulated by agents other than catecholamines</li>
-</ul>
-</li>
-<li>Autoreceptor<ul>
-<li>Respond to NT’s released from their own nerve ending.</li>
-<li>Stimulation of these can inhibit further release</li>
-<li>A2 most common autoreceptor. Inhibit catecholamine release.</li>
-<li>B2 in pre-synaptic. Facilitates catecholamine release.</li>
-<li>A lot more A2 than B2.</li>
-</ul>
-</li>
-<li>Serotonin</li>
-<li>Pathway of Tyrosine to Catecholamine:<ol>
-<li>Tyrosine transported into the cell</li>
-<li>Converted into L-dopa by Tyrosine Hydroxylase</li>
-<li>L-Dopa converted to Dopamine by Dopa Decarboxylase DD </li>
-<li>Dopamine can be converted into NorEpi by Dopamine Beta Hydrozylase</li>
-<li>If not converted by DBH, then dopamine stored in vesicle by Vesicular Monoamine Transporter VMAT </li>
-</ol>
-</li>
-</ul>
-<h3 id="questions-34353946474969">Questions: 34;35;39;46;47;49;69.</h3>
-
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Adrenergic and Cholinergic Systems I</title>
-        <author>
-            <name>William Slattery</name>
-        </author>
-        <link href="https://BGASM.github.io/medNotes/adrenergic-and-cholinergic-systems.html"/>
-        <id>https://BGASM.github.io/medNotes/adrenergic-and-cholinergic-systems.html</id>
-
-        <updated>2020-12-02T23:05:24-05:00</updated>
-            <summary>
-                <![CDATA[
-                    Peripheral Nervous SystemDescribe the organizationCite primary neurotransmittersThe cholinergic autonomic neurons (ie, release acetylcholine)Describe synthesis, metabolism, storage, and termination of action of those neurotransmittersList respective receptors and subtypes. Describe the main transduction mechanisms and when the receptors are stimulated.NicotinicMuscarinicNoradrenergicAssociate target organs and physiological action when receptors&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <ol>
-<li><a href="#-peripheral-nervous-system">Peripheral Nervous System</a><ul>
-<li><a href="#describe-the-organization">Describe the organization</a></li>
-</ul>
-</li>
-<li><a href="#-cite-primary-neurotransmitters">Cite primary neurotransmitters</a></li>
-<li><a href="#-the-cholinergic-autonomic-neurons-ie-release-acetylcholine-are">The cholinergic autonomic neurons (ie, release acetylcholine)</a></li>
-<li><a href="#-describe-synthesis-metabolism-storage-and-termination-of-action-of-those-neurotransmitters">Describe synthesis, metabolism, storage, and termination of action of those neurotransmitters</a></li>
-<li><a href="#-list-respective-receptors-and-subtypes-describe-the-main-transduction-mechanisms-and-when-the-receptors-are-stimulated">List respective receptors and subtypes. Describe the main transduction mechanisms and when the receptors are stimulated.</a><ul>
-<li><a href="#nicotinic">Nicotinic</a></li>
-<li><a href="#muscarinic">Muscarinic</a></li>
-<li><a href="#noradrenergic">Noradrenergic</a></li>
-</ul>
-</li>
-<li><a href="#-associate-target-organs-and-physiological-action-when-receptors-are-stimulated-consider-the-affinities-when-descrbing-norephedrine-and-epinephrine">Associate target organs and physiological action when receptors are stimulated. Consider the affinities, when descrbing norephedrine and epinephrine.</a><ul>
-<li><a href="#list-effects-triggered-by-ach-and-catecholamines-ne-da-acting-on-the-cns">List effects triggered by ACh and catecholamines (NE, DA), acting on the CNS.</a></li>
-<li><a href="#end-of-chapter-notes">End of Chapter Notes:</a></li>
-<li><a href="#adrenergic-junctions">Adrenergic Junctions</a></li>
-</ul>
-</li>
-</ol>
-<hr>
-<h3 id="peripheral-nervous-system">Peripheral Nervous System</h3>
-<hr>
-<h3 id="describe-the-organization">Describe the organization</h3>
-<ul>
-<li>Pre and postganglionic neurons</li>
-<li>Cell bodies of pre-gang in spinal cord</li>
-<li>Axons of post-gang mostly unmyelinated</li>
-<li>Somatomotor nervous system:  the neuron that leaves the spinal cord projects directly to the effector organ.</li>
-<li>Autonomic nervous system: synapse between the neuron that leaves the spinal cord and the effector organ <ul>
-<li>except for neurons that innervate the adrenal medulla </li>
-</ul>
-</li>
-<li>Note all neurons that leave the CNS release acetylcholine (ACh).</li>
-<li>Parasympathetic release ACh pre and post-gang.</li>
-<li>Sympathetic release ACh pre-gang, and then an adrenergic NT post-gang.</li>
-<li>Sympathetic in thoracolumbar &gt; Paravertebral Gang &gt; Effectors</li>
-<li>Parasympathetic is craniosacral &gt; Effector or Vagal Nerve &gt; Sacral &gt; Effector</li>
-</ul>
-<h3 id="cite-primary-neurotransmitters">Cite primary neurotransmitters</h3>
-<hr>
-<ul>
-<li>ACh is neurotransmitter released by all neurons whose axons exit the CNS.<ul>
-<li>cranial motor neurons, α-motor neurons, γ-motor neurons, preganglionic sympathetic neurons, and preganglionic parasympathetic neurons</li>
-</ul>
-</li>
-<li>Post-gang parasympathetic neurons also release acetylcholine </li>
-<li>Post-gang sympathetic neurons release either norepinephrine, epinephrine or acetylcholine.<h3 id="the-cholinergic-autonomic-neurons-ie-release-acetylcholine-are">The cholinergic autonomic neurons (ie, release acetylcholine) are</h3>
-</li>
-</ul>
-<hr>
-<ol>
-<li>All pregang neurons</li>
-<li>All parasympathetic postgang neurons</li>
-<li>Sympathetic postgang neurons innervate sweat glands</li>
-<li>Sympathetic postgang neurons ending on vessels skeletal muscles and produce vasodilation when stimulated (sympathetic vasodilator nerves).</li>
-</ol>
-<ul>
-<li>Remaining sympathetic postganglionic neurons are noradrenergic (ie, release norepinephrine). </li>
-<li>Adrenal medulla is essentially a sympathetic ganglion in which the postgang cells have lost their axons and secrete both <strong>norepinephrine</strong> and <strong>epinephrine</strong> directly into the bloodstream.</li>
-</ul>
-<h3 id="describe-synthesis-metabolism-storage-and-termination-of-action-of-those-neurotransmitters">Describe synthesis, metabolism, storage, and termination of action of those neurotransmitters</h3>
-<hr>
-<ol>
-<li>Neurotransmitters are synthesized</li>
-<li>Stored in the nerve endings</li>
-<li>Released near the neurons, muscle cells, or gland cells</li>
-<li>They bind to various ion channels or G-protein-coupled receptors (GPCR)</li>
-<li>Initiate their characteristic actions. </li>
-<li>The neurotransmitters are then removed from the area by reuptake or metabolism. </li>
-</ol>
-<ul>
-<li>Each of these steps can be stimulated or inhibited, with predictable consequences.</li>
-</ul>
-<h3 id="list-respective-receptors-and-subtypes-describe-the-main-transduction-mechanisms-and-when-the-receptors-are-stimulated">List respective receptors and subtypes. Describe the main transduction mechanisms and when the receptors are stimulated.</h3>
-<hr>
-<h3 id="nicotinic">Nicotinic</h3>
-<ul>
-<li><strong>ACh from postgang acting on Nicotinic Receptors</strong>:  Causes a Na or K channel to open and depolarization. Nicotinic Receptors are ligand-gated ion channels. <ul>
-<li>Nn receptors are in autonomic ganglia. Blocked by hexamethonium.</li>
-<li>Nm receptors in neuromuscular junctions and blocked by curare.</li>
-</ul>
-</li>
-<li>Responses by post-gang include: Fast EPSP that generates AP’s and is produced by ACh on Nn receptors. Slow EPSP which modulates transmission through sympathetic gang and is produced by ACh on muscarinic receptor on post-gang neuron.<h3 id="muscarinic">Muscarinic</h3>
-</li>
-<li><strong>ACh from postgang acting on muscarinic cholinergic receptors</strong>: Act on GPCR’s and have a activating or inhibitory effect depending on what class of receptor.</li>
-<li>Muscarinic receptors and are blocked by <strong>atropine</strong>. </li>
-<li><strong>Muscarinic</strong> receptors are GPCR and are divided into subtypes:<ul>
-<li>M1–M5; M2 and M3 in autonomic target organs. </li>
-<li>M2 receptors are found in the heart<ul>
-<li>Binding agonist opens K+ channels and inhibits adenylyl cyclase. </li>
-</ul>
-</li>
-<li>M3 receptors are located on smooth muscle and glands <ul>
-<li>Binding agonist leads to (IP3) &amp; (DAG) &gt;&gt; increase in Ca2+.</li>
-</ul>
-</li>
-</ul>
-</li>
-<li>Compounds with muscarinic actions include congeners of acetylcholine and drugs that inhibit acetylcholinesterase.<ul>
-<li>Cholinesterase Inhibitor Effects: <strong>Inhibits the breakdown of ACh, so increase the muscarinic effect</strong><ul>
-<li>Excessive activation of autonomic muscarinic receptors; these include miosis, salivation, sweating, bronchial constriction, vomiting, and diarrhea. </li>
-<li>CNS signs of toxicity include cognitive disturbances, convulsions, seizures, and even coma; these signs are often accompanied by nicotinic effects such as depolarizing neuromuscular blockade.</li>
-</ul>
-</li>
-<li>Muscarinc Cholinergic Receptor Antagonist: Atropine <strong>Blocks ACh from binding to muscarinic receptors, decreasing the effect</strong><h3 id="noradrenergic">Noradrenergic</h3>
-<ul>
-<li>Norepinephrine spreads farther and has a more prolonged action than acetylcholine. </li>
-<li>Norepinephrine, epinephrine, and dopamine are all found in plasma. </li>
-</ul>
-</li>
-</ul>
-<ul>
-<li>The epinephrine and some of the dopamine come from the adrenal medulla</li>
-<li>But most of the norepinephrine diffuses into the bloodstream from sympathetic nerve endings.</li>
-</ul>
-</li>
-<li>Norepinephrine released from sympathetic post-gang binds to adrenoceptors: <ul>
-<li><strong>GPCR α1, α2, β1, β2, and β3.</strong></li>
-<li>Binding α1 → Gq → IP3+DAG = ↑↑↑↑ Ca2+. </li>
-<li>Binding α2 → Gi X adenylyl cyclase ↓↓↓↓ cAMP. </li>
-<li>Binding  β → Gs → adenylyl cyclase ↑↑↑↑ cAMP.</li>
-</ul>
-</li>
-<li>Horner syndrome is a result of dysfunctional sympathetic innervation.<ul>
-<li>Anhidrosis (reduced sweating), ptosis (drooping eyelid), and miosis (constricted pupil). Also enophthalmos (sunken eyeball) and vasodilation.</li>
-</ul>
-</li>
-</ul>
-<hr>
-<table>
-<thead>
-<tr>
-<th></th>
-<th>Ligands of Adrenoceptors</th>
-<th></th>
-<th></th>
-</tr>
-</thead>
-<tbody><tr>
-<td>Alpha1</td>
-<td>Vasoconstriction, ↑ TPR, BP, Myadriasis, Bladder closes.</td>
-<td>Norepi</td>
-<td>Epi</td>
-</tr>
-<tr>
-<td>Alpha2</td>
-<td>Presynaptic adrenergic nerve terminals. ↓ Norepi release, ACh release, Insulin release</td>
-<td>Norepi</td>
-<td>Epi</td>
-</tr>
-<tr>
-<td>Beta1</td>
-<td>Postsynaptic effector cells, Tachycardia, ↑ Lipolysis, myocardial contractility, renin release</td>
-<td>Norepi</td>
-<td>Epi</td>
-</tr>
-<tr>
-<td>Beta2</td>
-<td>Postsynaptic effector cells, Vasodilation, ↓ TPR, ↑ glucagon, ↓ relax uterine muscle muscle</td>
-<td></td>
-<td>Epi</td>
-</tr>
-<tr>
-<td>Beta3</td>
-<td>Postsynaptic effector cells, especially lipocytes; heart</td>
-<td>Norepi</td>
-<td></td>
-</tr>
-</tbody></table>
-<hr>
-<h3 id="associate-target-organs-and-physiological-action-when-receptors-are-stimulated-consider-the-affinities-when-descrbing-norephedrine-and-epinephrine">Associate target organs and physiological action when receptors are stimulated. Consider the affinities, when descrbing norephedrine and epinephrine.</h3>
-<hr>
-<ul>
-<li>Adrenergic neurons transport precusor amino acid tyrosine to the nerve ending, convert it to dopa, and then synthesize a catecholamine (dopamine, norepi, epi)</li>
-<li>In most sympathetic postganglionic neurons, norepinephrine is the final product. </li>
-<li>In the adrenal medulla and certain areas of the brain, some norepinephrine is further converted to epinephrine. In dopaminergic neurons, synthesis terminates with dopamine.</li>
-<li>ACh by α-motor neurons only leads to contraction of skeletal muscles. </li>
-<li>ACh onto smooth muscle organs leads to contraction (eg, walls of the gastrointestinal tract) or relaxation (eg, sphincters in the gastrointestinal tract).</li>
-<li>The only way to relax a skeletal muscle is to stop discharging from motor neuron.</li>
-<li>For muscle innervated by ANS:<ul>
-<li>contraction can shift to relaxation by switching from parasympathetic to sympathetic.</li>
-<li>Dual innervation with antagonistic effects:<ul>
-<li>heart, airways, digestive tract, and urinary bladder</li>
-</ul>
-</li>
-<li>Antagonistic Version: <ul>
-<li><strong>sympathetic increases heart rate</strong></li>
-<li><strong>parasympathetic decreases heart rate</strong></li>
-</ul>
-</li>
-<li>Complementary Version:<ul>
-<li><strong>Parasympathetic causes release of watery saliva</strong></li>
-<li><strong>Sympathetic causes production of thick, viscous saliva.</strong></li>
-</ul>
-</li>
-<li>Synergistic Version:<ul>
-<li>Control of pupil diameter in the eye. </li>
-<li><strong>Sympathetic and parasympathetic are excitatory.</strong></li>
-<li><strong>Sympathetic</strong> contracts the radial (or dilator) muscle to cause <strong>mydriasis (widening of the pupil)</strong></li>
-<li><strong>Parasympathetic</strong> contracts the sphincter (or constrictor) muscle to cause <strong>miosis (narrowing of the pupil)</strong></li>
-</ul>
-</li>
-<li>Exclusivity:<ul>
-<li>Sympathetic: Adrenal gland, most blood vessels, the pilomotor muscles, sweat glands.</li>
-<li>Parasympathetic: lacrimal muscle, ciliary muscle, and nasopharyngeal gland.</li>
-</ul>
-</li>
-<li>Fight or Flight: Sympathetic<ul>
-<li>Dilates the pupils (letting more light into the eyes)</li>
-<li>Accelerates the heartbeat and raises the blood pressure (providing better perfusion of the vital organs and muscles)</li>
-<li>Constricts the blood vessels of the skin (which limits bleeding from wounds). </li>
-<li>Noradrenergic discharge also leads to elevated plasma glucose and free fatty acid levels</li>
-</ul>
-</li>
-<li>Rest and Digest: Parasympathetic<ul>
-<li>Favors digestion and absorption of food. </li>
-<li>Increase the activity of the intestinal musculature</li>
-<li>Increase gastric secretion</li>
-<li>Relax the pyloric sphincter</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-<hr>
-<h3 id="list-effects-triggered-by-ach-and-catecholamines-ne-da-acting-on-the-cns">List effects triggered by ACh and catecholamines (NE, DA), acting on the CNS.</h3>
-<h3 id="end-of-chapter-notes">End of Chapter Notes:</h3>
-<ul>
-<li><p>Preganglionic sympathetic neurons are located in the spinal thoracolumbar IML and project to postganglionic neurons in the paravertebral or prevertebral ganglia or the adrenal medulla. Preganglionic parasympathetic neurons are located in motor nuclei of cranial nerves III, VII, IX, and X and the sacral IML and project to ganglia located in or near the effector target. The targets of the ANS include smooth muscle, cardiac muscle and pacemaker cells, exocrine and endocrine glands, adipose tissue, liver cells, and lymphatic tissue.</p>
-</li>
-<li><p>Acetylcholine is released at nerve terminals of all preganglionic neurons, postganglionic parasympathetic neurons, and a few postganglionic sympathetic neurons (sweat glands and sympathetic vasodilator fibers). The remaining sympathetic postganglionic neurons release norepinephrine.</p>
-</li>
-<li><p>Ganglionic transmission is mediated by activation of nicotinic receptors. Postganglionic cholinergic transmission is mediated by activation of muscarinic receptors. Postganglionic adrenergic transmission is mediated by activation of α1-, β-, or β2-adrenoceptors, depending on the target organ.</p>
-</li>
-<li><p>Many commonly used drugs exert their therapeutic actions by serving as agonists (eg, bethanecol, phenylephrine, albuterol) or antagonists (eg, atropine, phenoxybenzamine, atenolol) at autonomic synapses, by blocking neurotransmitter synthesis (eg, metyrosine), or by blocking neurotransmitter release (eg, tricyclic antidepressants).</p>
-</li>
-<li><p>The ANS works in concert with the endocrine system to maintain homeostasis or a stable internal environment despite challenges imposed by shifts in things such as air temperature, oxygen and carbon dioxide levels, physical activity, exposure to toxins, disease, drug therapies, fever, and diet.</p>
-</li>
-<li><p>Sympathetic activity prepares the individual to cope with an emergency by accelerating the heartbeat, raising blood pressure (perfusion of the vital organs), and constricting the blood vessels of the skin (limits bleeding from wounds). Parasympathetic activity is concerned with the vegetative aspects of day-to-day living and favors digestion and absorption of food by increasing the activity of the intestinal musculature, increasing gastric secretion, and relaxing the pyloric sphincter.</p>
-</li>
-<li><p>At many organs that receive dual innervation (eg, heart, airways, digestive tract, and urinary bladder), the two divisions of the ANS act as physiological antagonists. In other cases, the two divisions of the ANS can act in a synergistic manner in the control of some functions (eg, control of pupil diameter). Some organs are innervated by only the sympathetic (eg, blood vessels) or only parasympathetic (eg, ciliary muscle) nervous system.</p>
-</li>
-<li><p>Direct projections to sympathetic preganglionic neurons in the IML originate in the hypothalamic paraventricular nucleus, pontine catecholaminergic A5 cell group, rostral ventrolateral medulla, and medullary raphe nuclei.</p>
-</li>
-<li><p>The enteric nervous system is located within the wall of the digestive tract and is composed of the myenteric plexus (control of digestive tract motility) and the submucosal plexus (regulates gastrointestinal blood flow and epithelial cell function).</p>
-</li>
-</ul>
-<h3 id="adrenergic-junctions">Adrenergic Junctions</h3>
-<ul>
-<li>Schematic diagram of a generalized noradrenergic junction (not to scale). Tyrosine is transported into the noradrenergic nerve ending or varicosity by a sodium-dependent carrier (A). Tyrosine is converted to dopamine (see Figure 6–5 for details), and transported into the vesicle by the vesicular monoamine transporter (VMAT), which can be blocked by reserpine and tetrabenazine. The same carrier transports norepinephrine (NE) and several related amines into these vesicles. Dopamine is converted to NE in the vesicle by dopamine-β-hydroxylase. Physiologic release of transmitter occurs when an action potential opens voltage-sensitive calcium channels and increases intracellular calcium. Fusion of vesicles with the surface membrane results in expulsion of norepinephrine, cotransmitters, and dopamine-β-hydroxylase. Release can be blocked by drugs such as guanethidine and bretylium. After release, norepinephrine diffuses out of the cleft or is transported into the cytoplasm of the terminal by the norepinephrine transporter (NET), which can be blocked by cocaine and certain antidepressants, or into postjunctional or perijunctional cells. Regulatory receptors are present on the presynaptic terminal. SNAPs, synaptosome-associated proteins; VAMPs, vesicle-associated membrane proteins.
-<figure class="post__image"><img loading="lazy" src="adr_rec.png" data-is-external-image="true"  alt="Adrenergic_Receptor" /></figure></li>
-</ul>
-<table>
-<thead>
-<tr>
-<th>Effector Organs</th>
-<th>Parasympathetic Nervous System</th>
-<th>Sympathetic Nervous System</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>Receptor Type</td>
-<td>Response</td>
-<td></td>
-</tr>
-<tr>
-<td>Eyes</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Radial muscle of iris</td>
-<td>—</td>
-<td>α1</td>
-</tr>
-<tr>
-<td>Sphincter muscle of iris</td>
-<td>Contraction (miosis)</td>
-<td>α1</td>
-</tr>
-<tr>
-<td>Ciliary muscle</td>
-<td>Contraction for near vision</td>
-<td>α1</td>
-</tr>
-<tr>
-<td>Heart</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>SA node</td>
-<td>Decreased heart rate</td>
-<td>β1</td>
-</tr>
-<tr>
-<td>Atria and ventricle</td>
-<td>Decreased atrial contractility</td>
-<td>β1, β2</td>
-</tr>
-<tr>
-<td>AV node and Purkinje fibers</td>
-<td>Decreased conduction velocity</td>
-<td>β1</td>
-</tr>
-<tr>
-<td>Arterioles</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Skin, splanchnic vessels</td>
-<td>—</td>
-<td>α1</td>
-</tr>
-<tr>
-<td>Skeletal muscle</td>
-<td>—</td>
-<td>α1/ β2, M</td>
-</tr>
-<tr>
-<td>Systemic veins</td>
-<td>—</td>
-<td>α1, α2/ β2</td>
-</tr>
-<tr>
-<td>Bronchial smooth muscle</td>
-<td>Contraction</td>
-<td>β2</td>
-</tr>
-<tr>
-<td>Stomach and Intestine</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Motility and tone</td>
-<td>Increased</td>
-<td>α1, α2, β2</td>
-</tr>
-<tr>
-<td>Sphincters</td>
-<td>Relaxation</td>
-<td>α1</td>
-</tr>
-<tr>
-<td>Secretion</td>
-<td>Stimulation</td>
-<td>—</td>
-</tr>
-<tr>
-<td>Gallbladder</td>
-<td>Contraction</td>
-<td>β2</td>
-</tr>
-<tr>
-<td>Urinary bladder</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Detrusor</td>
-<td>Contraction</td>
-<td>β2</td>
-</tr>
-<tr>
-<td>Sphincter</td>
-<td>Relaxation</td>
-<td>α1</td>
-</tr>
-<tr>
-<td>Uterus (pregnant)</td>
-<td>—</td>
-<td>α1/ β2</td>
-</tr>
-<tr>
-<td>Male sex organs</td>
-<td>Erection</td>
-<td>α1</td>
-</tr>
-<tr>
-<td>Skin</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Pilomotor muscles</td>
-<td>—</td>
-<td>α1</td>
-</tr>
-<tr>
-<td>Sweat glands</td>
-<td>—</td>
-<td>M</td>
-</tr>
-<tr>
-<td>Liver</td>
-<td>—</td>
-<td>α1, β2</td>
-</tr>
-<tr>
-<td>Pancreas</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Acini</td>
-<td>Increased secretion</td>
-<td>α</td>
-</tr>
-<tr>
-<td>Islet cells</td>
-<td>—</td>
-<td>α2/β2</td>
-</tr>
-<tr>
-<td>Salivary glands</td>
-<td>Profuse, watery secretion</td>
-<td>α1/β</td>
-</tr>
-<tr>
-<td>Lacrimal glands</td>
-<td>Secretion</td>
-<td></td>
-</tr>
-<tr>
-<td>Adipose tissue</td>
-<td>—</td>
-<td>β3</td>
-</tr>
-</tbody></table>
-<p>.  
-.<br>.  
-.  </p>
-<table>
-<thead>
-<tr>
-<th>Receptor Name</th>
-<th>Typical Locations</th>
-<th>Result of Ligand Binding</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>Cholinoceptors</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Muscarinic M1</td>
-<td>CNS neurons, sympathetic postganglionic neurons, some presynaptic sites</td>
-<td>Formation of IP3 and DAG, increased intracellular calcium</td>
-</tr>
-<tr>
-<td>Muscarinic M2</td>
-<td>Myocardium, smooth muscle, some presynaptic sites; CNS neurons</td>
-<td>Opening of potassium channels, inhibition of adenylyl cyclase</td>
-</tr>
-<tr>
-<td>Muscarinic M3</td>
-<td>Exocrine glands, vessels (smooth muscle and endothelium); CNS neurons</td>
-<td>Like M1 receptor-ligand binding</td>
-</tr>
-<tr>
-<td>Muscarinic M4</td>
-<td>CNS neurons; possibly vagal nerve endings</td>
-<td>Like M2 receptor-ligand binding</td>
-</tr>
-<tr>
-<td>Muscarinic M5</td>
-<td>Vascular endothelium, especially cerebral vessels; CNS neurons</td>
-<td>Like M1 receptor-ligand binding</td>
-</tr>
-<tr>
-<td>Nicotinic NN</td>
-<td>Postganglionic neurons, some presynaptic cholinergic terminals; pentameric receptors typically contain α- and β-type subunits only</td>
-<td>Opening of Na<sup>+</sup>, K<sup>+</sup> channels, depolarization</td>
-</tr>
-<tr>
-<td>Nicotinic NM</td>
-<td>Skeletal muscle neuromuscular end plates; receptors typically contain two α1- and β1-type subunits in addition to γ and δ subunits</td>
-<td>Opening of Na<sup>+</sup>, K<sup>+</sup> channels, depolarization</td>
-</tr>
-<tr>
-<td>Adrenoceptors</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Alpha1</td>
-<td>Postsynaptic effector cells, especially smooth muscle</td>
-<td>Formation of IP3 and DAG, increased intracellular calcium</td>
-</tr>
-<tr>
-<td>Alpha2</td>
-<td>Presynaptic adrenergic nerve terminals, platelets, lipocytes, smooth muscle</td>
-<td>Inhibition of adenylyl cyclase, decreased cAMP</td>
-</tr>
-<tr>
-<td>Beta1</td>
-<td>Postsynaptic effector cells, especially heart, lipocytes, brain; presynaptic adrenergic and cholinergic nerve terminals, juxtaglomerular apparatus of renal tubules, ciliary body epithelium</td>
-<td>Stimulation of adenylyl cyclase, increased cAMP</td>
-</tr>
-<tr>
-<td>Beta2</td>
-<td>Postsynaptic effector cells, especially smooth muscle and cardiac muscle</td>
-<td>Stimulation of adenylyl cyclase and increased cAMP. Activates cardiac Gi under some conditions.</td>
-</tr>
-<tr>
-<td>Beta3</td>
-<td>Postsynaptic effector cells, especially lipocytes; heart</td>
-<td>Stimulation of adenylyl cyclase and increased cAMP<sup>1</sup></td>
-</tr>
-<tr>
-<td>Dopamine receptors</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>D1 (DA1), D5</td>
-<td>Brain; effector tissues, especially smooth muscle of the renal vascular bed</td>
-<td>Stimulation of adenylyl cyclase and increased cAMP</td>
-</tr>
-<tr>
-<td>D2 (DA2)</td>
-<td>Brain; effector tissues, especially smooth muscle; presynaptic nerve terminals</td>
-<td>Inhibition of adenylyl cyclase; increased potassium conductance</td>
-</tr>
-<tr>
-<td>D3</td>
-<td>Brain</td>
-<td>Inhibition of adenylyl cyclase</td>
-</tr>
-<tr>
-<td>D4</td>
-<td>Brain, cardiovascular system</td>
-<td>Inhibition of adenylyl cyclase</td>
-</tr>
-</tbody></table>
-<p>.  
-.<br>.  
-.  </p>
-<table>
-<thead>
-<tr>
-<th>Process Affected</th>
-<th>Drug Example</th>
-<th>Site</th>
-<th>Action</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>Action potential propagation</td>
-<td>Local anesthetics, tetrodotoxin, saxitoxin</td>
-<td>Nerve axons</td>
-<td>Block voltage-gated sodium channels; block conduction</td>
-</tr>
-<tr>
-<td>Transmitter synthesis</td>
-<td>Hemicholiniums</td>
-<td>Cholinergic nerve terminals: membrane</td>
-<td>Block uptake of choline and slow ACh synthesis</td>
-</tr>
-<tr>
-<td></td>
-<td>α-Methyltyrosine (metyrosine)</td>
-<td>Adrenergic nerve terminals and adrenal medulla: cytoplasm</td>
-<td>Inhibits tyrosine hydroxylase and blocks synthesis of catecholamines</td>
-</tr>
-<tr>
-<td>Transmitter storage</td>
-<td>Vesamicol</td>
-<td>Cholinergic terminals: VAT on vesicles</td>
-<td>Prevents storage, depletes</td>
-</tr>
-<tr>
-<td></td>
-<td>Reserpine, tetrabenazine</td>
-<td>Adrenergic terminals: VMAT on vesicles</td>
-<td>Prevents storage, depletes</td>
-</tr>
-<tr>
-<td>Transmitter release</td>
-<td>Many</td>
-<td>Nerve terminal membrane receptors</td>
-<td>Modulate release</td>
-</tr>
-<tr>
-<td></td>
-<td>ω-Conotoxin GVIA</td>
-<td>Nerve terminal calcium channels</td>
-<td>Reduces transmitter release</td>
-</tr>
-<tr>
-<td></td>
-<td>Domoic acid</td>
-<td>Nerve terminal kainate receptors (primarily CNS)</td>
-<td>Modulates transmitter release by altering calcium influx/release</td>
-</tr>
-<tr>
-<td></td>
-<td>Botulinum toxin</td>
-<td>Cholinergic vesicles</td>
-<td>Prevents ACh release</td>
-</tr>
-<tr>
-<td></td>
-<td>α-Latrotoxin</td>
-<td>Cholinergic and adrenergic vesicles</td>
-<td>Causes explosive transmitter release</td>
-</tr>
-<tr>
-<td></td>
-<td>Tyramine, amphetamine</td>
-<td>Adrenergic nerve terminals</td>
-<td>Promote transmitter release</td>
-</tr>
-<tr>
-<td>Transmitter reuptake after release</td>
-<td>Cocaine, tricyclic antidepressants, SNRI antidepressants</td>
-<td>Adrenergic nerve terminals, NET</td>
-<td>Inhibit uptake; increase transmitter effect on postsynaptic receptors</td>
-</tr>
-<tr>
-<td>Receptor activation or blockade</td>
-<td>Norepinephrine</td>
-<td>Receptors at adrenergic junctions</td>
-<td>Binds and activates a receptors; causes contraction</td>
-</tr>
-<tr>
-<td></td>
-<td>Phentolamine</td>
-<td>Receptors at adrenergic junctions</td>
-<td>Binds a receptors; prevents activation</td>
-</tr>
-<tr>
-<td></td>
-<td>Isoproterenol</td>
-<td>Receptors at adrenergic junctions</td>
-<td>Binds β receptors; activates adenylyl cyclase</td>
-</tr>
-<tr>
-<td></td>
-<td>Propranolol</td>
-<td>Receptors at adrenergic junctions</td>
-<td>Binds β receptors; prevents activation</td>
-</tr>
-<tr>
-<td></td>
-<td>Nicotine</td>
-<td>Receptors at nicotinic cholinergic junctions (autonomic ganglia, neuromuscular end plates)</td>
-<td>Binds nicotinic receptors; opens ion channel in postsynaptic membrane</td>
-</tr>
-<tr>
-<td></td>
-<td>Tubocurarine</td>
-<td>Neuromuscular end plates</td>
-<td>Prevents activation of nicotinic receptors</td>
-</tr>
-<tr>
-<td></td>
-<td>Bethanechol</td>
-<td>Receptors, parasympathetic effector cells (smooth muscle, glands)</td>
-<td>Binds and activates muscarinic receptors</td>
-</tr>
-<tr>
-<td></td>
-<td>Atropine</td>
-<td>Receptors, parasympathetic effector cells</td>
-<td>Binds muscarinic receptors; prevents activation</td>
-</tr>
-<tr>
-<td>Enzymatic inactivation of transmitter</td>
-<td>Neostigmine</td>
-<td>Cholinergic synapses (acetylcholinesterase)</td>
-<td>Inhibits enzyme; prolongs and intensifies transmitter action after release</td>
-</tr>
-<tr>
-<td></td>
-<td>Tranylcypromine</td>
-<td>Adrenergic nerve terminals (monoamine oxidase)</td>
-<td>Inhibits enzyme; increases stored transmitter pool</td>
-</tr>
-</tbody></table>
 
             ]]>
         </content>
