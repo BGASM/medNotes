@@ -15,7 +15,7 @@
 - Upon binding, change in virus structure.
   - RNA+ injected directly to cytoplasm
 - Picorn genome has **one large ORF**, that makes a single polyprotein.
-- ![pico genome](pico.JPG)
+- ![pico genome](https://github.com/BGASM/medNotes/blob/main/MMG%2Fimg%2Fpico.JPG)
 - Several encoded proteins are **Proteases**, that cleave polyprotein into various proteins:
   - Capsid proteins
   - **Viral replicase (RDRP)**

@@ -1,3 +1,13 @@
+- [Overall Goals](#overall-goals)
+  - [Definitions](#definitions)
+  - [Classification](#classification)
+- [RNA](#rna)
+- [Capsid](#capsid)
+- [Receptor Mediated Endocytosis](#receptor-mediated-endocytosis)
+- [Other Surface Entry](#other-surface-entry)
+- [Uncoating and Targetting](#uncoating-and-targetting)
+- [Replication/Gene Strategies](#replicationgene-strategies)
+- [Gene Expression/Replication of DNA Viruses](#gene-expressionreplication-of-dna-viruses)
 ## Overall Goals
 - Understand fundamenta l structure, classification and replication cycle of viruses
 - Understand biologya and PathogenesisUnderstand host-defense strategies

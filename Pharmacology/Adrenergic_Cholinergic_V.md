@@ -1,3 +1,19 @@
+- [Intro](#intro)
+  - [](#)
+- [Cholinomimetics](#cholinomimetics)
+  - [DIRECT Cholinomimetic: Agonists on muscarinic and nicotinic receptors](#direct-cholinomimetic-agonists-on-muscarinic-and-nicotinic-receptors)
+    - [Muscarinic Agonist](#muscarinic-agonist)
+    - [Nicotinic Agonist:](#nicotinic-agonist)
+  - [Indirect Cholinomimetic: AChE inhibitors](#indirect-cholinomimetic-ache-inhibitors)
+    - [Reversible and thereapeutic](#reversible-and-thereapeutic)
+    - [Organophosphates - Irreversible, toxic](#organophosphates---irreversible-toxic)
+    - [TOXICITY MANIFESTATION AFTER ORGANOPHOSPHATES (OPs) EXPOSURE:](#toxicity-manifestation-after-organophosphates-ops-exposure)
+- [Cholinolytics](#cholinolytics)
+  - [Indirect](#indirect)
+  - [Direct](#direct)
+    - [Muscarinic Anatgonists:](#muscarinic-anatgonists)
+    - [Nicotinic Antagonists: NMJ blocks](#nicotinic-antagonists-nmj-blocks)
+- [Textbook Notes](#textbook-notes)
 ## Intro
 ### 
 - Aceytlchole binds on both Nicotinic and Muscarinic receptors

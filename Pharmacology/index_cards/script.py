@@ -6,7 +6,7 @@ def make_set(sett, param):
     return temp_set
 
 
-with open('Pharmacology\Index_cards.txt', 'r') as filein:
+with open('Pharmacology\index_cards\Index_cards.txt', 'r') as filein:
     bigstring = filein.read()
 
 

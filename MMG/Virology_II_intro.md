@@ -1,4 +1,20 @@
-Pathways of entery and the stages of viral infection in humans
+- [Pathways of entery and the stages of viral infection in humans](#pathways-of-entery-and-the-stages-of-viral-infection-in-humans)
+  - [Stages](#stages)
+- [General Characteristics of Viral infection](#general-characteristics-of-viral-infection)
+- [Mechanisms of Viral Pathogenesis](#mechanisms-of-viral-pathogenesis)
+  - [Host Defense: Innate](#host-defense-innate)
+  - [Humoral Immunity:](#humoral-immunity)
+  - [Cellular Immunity:](#cellular-immunity)
+  - [Viral Evasion:](#viral-evasion)
+- [Immunization:](#immunization)
+  - [Attenuated Live Viral Vadccines:](#attenuated-live-viral-vadccines)
+  - [Killed (Inactivated) Viral Vaccine](#killed-inactivated-viral-vaccine)
+  - [Subunit Vaccine:](#subunit-vaccine)
+  - [Recombinant Viral Vaccine](#recombinant-viral-vaccine)
+  - [Vaccine Limitations:](#vaccine-limitations)
+  - [Anti-Viral Drugs](#anti-viral-drugs)
+ 
+## Pathways of entery and the stages of viral infection in humans
 Viral life cycle
 Tropism
 Acute vs Chronic
@@ -16,7 +32,7 @@ Enveloped viruses in general are more sensitive to dessication, pH, detergent  A
 Non-enveloped in general are more resistant.
 e.g. ENterovirus can withstand acid environment of the stomach
 
-Stages
+### Stages
 Entry
 Initiation of infect at primary site
 Activation of protection/immunity
@@ -27,11 +43,8 @@ Host responses that can limit or contribute (immunopathogenesis)
 Release/shedding of virus
 Resolution of infectior or persistent infection
 
-SARS COVID 19
-- URT and LRT
-- 
 
-General Characteristics of Viral infection
+## General Characteristics of Viral infection
 Infection is cell type and species specific
 Types of cells taht can be infected == tissue tropism of virus
 Determinants of tropism == receptors, enzymes, environmnet
@@ -46,14 +59,14 @@ Temporary infection == acute
 Persistent == chronic
 Persistent can lead to constent shedding OR the virus may be latenet. If latent, can see NO free virus, but still infected.
 
-Mechanisms of Viral Pathogenesis
+## Mechanisms of Viral Pathogenesis
 Direct killing == lysis, inhib protein synth, altered membrane/function
 Direct infect of immune cells == immunodef
 Indirect effects on immune system
 Immunopathology == inflamm, fever, edema, vascular permeability
 Oncogenic transformation == virus can express oncogenes and cause cancer
 
-Host Defense: Innate
+### Host Defense: Innate
 Cytokines
 Interferon Alpha/Beta important agianst viral infect
 Virally infected cells induced to make IFN A or B
@@ -73,7 +86,7 @@ Summary:
 ** PKR and OLIGOA synthesized in inactive form in response to IFN. Both enzymes activated if DS RNA, which happens during viral infect**
 
 
-Humoral Immunity:
+### Humoral Immunity:
 Effective agianst extracellular stage
 Neutralizing antibodies prevent virus from enter or replicating in cells.
   - Block attachment, penetration, membrane fusion, or uncoating
@@ -83,12 +96,12 @@ Virally infeccted cells can be lysed by commplement, or NK cells using ADCC (ant
 Limits: Not as effective in late infect
 Ab alone not sufficient to confer long term immunity
 
-Cellular Immunity:
+### Cellular Immunity:
 Tcells recognize forein ag on mhc i or ii
 When cells are infected, new foreign viral proteins get boudn to mhc i and presented
 Activation requires 2 signals: Ag binding and CD4 activation
 
-Viral Evasion:
+### Viral Evasion:
 Rapid acute infection, adaptive doesnt have time
 Ag variation
 Restricted or no expression of viral gene products
@@ -98,41 +111,41 @@ Decrease cell adhesion molecule so T cell cannot bind and interact
 Kill or suppress immune cells
 
 
-Immunization:
+## Immunization:
 Neutralizing Ab block early stages
 Subsequent infect elicit stronger secondary immune response
 Break infection-spread cycle
 
-Attenuated Live Viral Vadccines:
+### Attenuated Live Viral Vadccines:
 Use related nbut non-pathogenic version of virus
 Or attneuated strains of virus
 Stimulate both humoral and cellular immune system and confer long term immunit
 Sometimes even attenuated can cause disease
 Can revert to virulence
 
-Killed (Inactivated) Viral Vaccine
+### Killed (Inactivated) Viral Vaccine
 Virus inactivated by chemical or physical without destroying antigenicity
 Require adjuvants and multiple dose
 Inefficient for immune response and long term immunity
 Safe
 
-Subunit Vaccine:
+### Subunit Vaccine:
 Purified viral proteins used as immunogen
 Involkves cloning the gene of interest in a vector and using heterologus cell to produce the protein
 
-Recombinant Viral Vaccine
+### Recombinant Viral Vaccine
 Gene encoding a viral antigen that is target of neutralizing Ab is cloned into a non-virulent viral vector
 
 DNA/RNA Base vaccine
 
-Vaccine Limitations:
+### Vaccine Limitations:
 – Attenuated strains may be difficult to develop.
 – Inactivation may destroy antigenicity.
 – Purified proteins may not be immunogenic.
 – Virus may “mutate” or evolve too rapidly.
 
 
-Anti-Viral Drugs
+### Anti-Viral Drugs
 Identify drugs that inhibti viral replication without harming human host
 Targetr any stage of viral life cycle
 
