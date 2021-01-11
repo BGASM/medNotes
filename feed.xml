@@ -3,12 +3,325 @@
     <title>BHOLE</title>
     <link href="https://BGASM.github.io/medNotes/feed.xml" rel="self" />
     <link href="https://BGASM.github.io/medNotes" />
-    <updated>2020-12-06T17:14:54-05:00</updated>
+    <updated>2021-01-11T09:19:41-05:00</updated>
     <author>
         <name>William Slattery</name>
     </author>
     <id>https://BGASM.github.io/medNotes</id>
 
+    <entry>
+        <title>NMS03 - Principles of Neurobiology II</title>
+        <author>
+            <name>William Slattery</name>
+        </author>
+        <link href="https://BGASM.github.io/medNotes/nms03-principles-of-neurobiology-ii.html"/>
+        <id>https://BGASM.github.io/medNotes/nms03-principles-of-neurobiology-ii.html</id>
+
+        <updated>2021-01-11T09:19:41-05:00</updated>
+            <summary>
+                <![CDATA[
+                    LOsDefine and use following terms: circuit/pathway, decussation, lesion, primary/secondary/tertiary neurons, homunculus Describe in broad detail the pathway for detecting pain from the body, and how primary sensationis only one part of experiencing pain. Describe the homunculus and its use. Describe the limbic system and its&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2 id="los">LOs</h2>
+<ol>
+<li><p>Define and use following terms: circuit/pathway, decussation, lesion, primary/secondary/tertiary 
+neurons, homunculus</p>
+<ul>
+<li><a href="#principles-of-neurobiology">Circuit/Pathway:</a> Functions of the nervous system rely on multiple, interconnected gray and white matter structures
+working together in a circuit. Function requires intact circuits. Damage to any part or to connections between parts breaks the
+circuit and overall function is lost or damaged.</li>
+<li><a href="#principles-of-neurobiology">Decussation:</a> Decussation is the movement of a signal from one side of the body to the 
+contralateral side of the brain.</li>
+<li><a href="#principles-of-neurobiology">Lesion:</a> area of abnormal tissue.</li>
+<li><a href="#pain">Neurons:</a><ul>
+<li>Primary: Enters from periphery into proximal portion of dorsal horn where it activates a synapse.</li>
+<li>Secondary: Secondary neuron crosses midline and ascends up through a tract and through the 
+brainstem to the thalamus</li>
+<li>Tertiary Neurons: At the thalamus, secondary synapse onto tertiary neurons. This synapse 
+allows for modulation</li>
+</ul>
+</li>
+<li><a href="#homunculus">Homunculus:</a> Somatosensory and Motor homunculus are a artistic representation of cortex body 
+mapping</li>
+</ul>
+</li>
+<li><p><a href="#pain">Describe in broad detail the pathway for detecting pain from the body, and how primary sensation
+is only one part of experiencing pain.</a></p>
+<ul>
+<li>Pain enters from periphery and travels along the distal portion of a <em>primary neuron</em> into the proximal
+portion located in the dorsal horn.</li>
+<li>Primary activates a synapse in the dorsal horn, which allows for a reflex response and modulation.<ul>
+<li>Reflexes elicit a movement away from the painful thing before the pain is even processed by CNS</li>
+<li>Synapse allows for modulation (intensity) of the painful signal (ascending/descending) </li>
+</ul>
+</li>
+<li>Secondary neuron crosses midline and ascends up through a tract and through the brainstem to the
+thalamus</li>
+<li>At the thalamus, secondary synapse onto tertiary neurons. This synapse allows for modulation.</li>
+</ul>
+</li>
+<li><p><a href="#homunculus">Describe the homunculus and its use.</a></p>
+<ul>
+<li>Somatosensory and Motor homunculus are a artistic representation of cortex body 
+mapping</li>
+</ul>
+</li>
+<li><p><a href="#limbic-system">Describe the limbic system and its broad functions</a></p>
+<ul>
+<li>Connects primary cortex stimuli to <em>context</em>.</li>
+<li>Cingulate Gyrus: C-shaped, involved in <em>emotional</em> feeling.</li>
+<li>Amygdala and hippocampus: <em>learning</em> pain as well as <em>recall</em>.</li>
+<li>Hypothalamus: Evoke ‘fight or flight’ response</li>
+</ul>
+</li>
+<li><p><a href="#shared-processing---movement">Describe three major components of healthy movement and the nervous system structures associated
+with each.</a></p>
+<ul>
+<li>Nervous system needs to make muscles contract. <em>Corticospinal tract</em></li>
+<li>Contractions occur when you want, and not when you dont. <em>Basal Ganglia</em></li>
+<li>Contractions add up to complex movment should flow from one to another fluidly. <em>Cerebellum</em></li>
+</ul>
+</li>
+</ol>
+<hr>
+<h3 id="pain">Pain:</h3>
+<ul>
+<li>Pain enters from periphery and travels along the distal portion of a <em>primary neuron</em> into the proximal
+portion located in the dorsal horn.</li>
+<li>Primary activates a synapse in the dorsal horn, which allows for a reflex response and modulation.<ul>
+<li>Reflexes elicit a movement away from the painful thing before the pain is even processed by CNS</li>
+<li>Synapse allows for modulation (intensity) of the painful signal (ascending/descending) </li>
+</ul>
+</li>
+<li>Secondary neuron crosses midline and ascends up through a tract and through the brainstem to the
+thalamus</li>
+<li>At the thalamus, secondary synapse onto tertiary neurons. This synapse allows for modulation.</li>
+</ul>
+<h3 id="homunculus">Homunculus</h3>
+<ul>
+<li>All inputs and outputs of the cortex are bodymapped.</li>
+<li>Somatosensory and Motor homunculus are a artistic representation of cortex body mapping.
+<figure class="post__image"><img loading="lazy" src="http://github.com/BGASM/medNotes/blob/main/Spring%202021/Neuro/homonc.png" data-is-external-image="true"  alt="Homonculus" /></figure></li>
+</ul>
+<h3 id="primary-sensation-vs-pain">Primary Sensation vs “Pain”</h3>
+<ul>
+<li>Primary cortex detects a stimulus and informs other cortex, adding context to the signal.</li>
+<li><em>Limbic System</em> </li>
+</ul>
+<h3 id="limbic-system">Limbic System</h3>
+<ul>
+<li>Connects primary cortex stimuli to <em>context</em>.</li>
+<li>Cingulate Gyrus: C-shaped, involved in <em>emotional</em> feeling.</li>
+<li>Amygdala and hippocampus: <em>learning</em> pain as well as <em>recall</em>.</li>
+<li>Hypothalamus: Evoke ‘fight or flight’ response</li>
+</ul>
+<h3 id="principles-of-neurobiology">Principles of Neurobiology</h3>
+<ul>
+<li>Functions of the nervous system rely on multiple, interconnected gray and white matter structures
+working together in a circuit.</li>
+<li>Function requires intact circuits. Damage to any part or to connections between parts breaks the
+circuit and overall function is lost or damaged.</li>
+<li>Decussation is the movement of a signal from one side of the body to the contralateral side of
+the brain. Pain decussates immediately, but not all pathways decussate immediately. Fine touch
+pathway ascends to the brainstem BEFORE it decussates.</li>
+<li>Any signals going to the cortex will have to pass through thalamus first.</li>
+<li>Inputs and outputs of the brain are body-mapped.</li>
+<li>Shared processing is essential for full effect. </li>
+<li>Lesions: area of abnormal tissue.</li>
+</ul>
+<h3 id="shared-processing---movement">Shared Processing - Movement</h3>
+<ul>
+<li>Nervous system needs to make muscles contract. <em>Corticospinal tract</em></li>
+<li>Contractions occur when you want, and not when you dont. <em>Basal Ganglia</em></li>
+<li>Contractions add up to complex movment should flow from one to another fluidly. <em>Cerebellum</em></li>
+</ul>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>NMS02 - Principles of Neurobiology</title>
+        <author>
+            <name>William Slattery</name>
+        </author>
+        <link href="https://BGASM.github.io/medNotes/02-principles-of-neurobiology.html"/>
+        <id>https://BGASM.github.io/medNotes/02-principles-of-neurobiology.html</id>
+
+        <updated>2021-01-11T08:57:11-05:00</updated>
+            <summary>
+                <![CDATA[
+                    LOsDescribe parts of neuron List major structures that comprise CNS and PNS. Describe the difference in terminology for grayand white matter between those two divisions. Define and use following terms: nucleus, ganglion, tract, nerve, gray matter, white matter, cortex, sub-cortical, modality, neuraxis Identify and describe&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2 id="los">LOs</h2>
+<ol>
+<li><p><a href="#neurons">Describe parts of neuron</a></p>
+<ul>
+<li>Dendrites rx, axon tx, synapse in connection between. soma keeps the cell alive.</li>
+</ul>
+</li>
+<li><p><a href="#divisions">List major structures that comprise CNS and PNS. Describe the difference in terminology for gray
+and white matter between those two divisions.</a></p>
+<ul>
+<li>CNS: Brain, brainstem, spinal cord.</li>
+<li>PNS: Spinal nerves, cranial nerves</li>
+<li>Grey: neuronal cell bodies. Spine has a grey chewy center.</li>
+<li>White: Myelinated axons. Brain has a white chewy center</li>
+</ul>
+</li>
+<li><p><a href="#divisions">Define and use following terms: nucleus, ganglion, tract, nerve, gray matter, white matter, 
+cortex, sub-cortical, modality, neuraxis</a></p>
+<ul>
+<li>Nucleus:  CNS a collection of neuronal cell bodies</li>
+<li>Ganglion: PNS a collection of neuronal cell bodies</li>
+<li>Tract: CNS a bundle of axons</li>
+<li>Nerve: PNS a bundle of axons</li>
+<li>Gray Matter: neuronal cell bodies</li>
+<li>White Matter: Myelinated axons</li>
+<li><a href="#lobes-of-cerebral-cortex">Cortex:</a> Multi-layered quilts of neurons surrounding hemispheres</li>
+<li><a href="#examples-of-sub-cortical-gray-matter">Sub-cortical:</a> Deeper within grey matter beneath cortex. Cerebellum, Basal Ganglia, Thalamus, 
+Hypothalamus</li>
+<li><a href="#modality">Modality:</a> A type of information that is sent to CNS. <ul>
+<li>Sensory:(pain, touch, visual, auditory)</li>
+<li>Cognitive: Process sensory using context of memories, emotions, expectations</li>
+<li>Behavioral: Govern state of the brain (sleep, awareness, emotional state, motivation)</li>
+</ul>
+</li>
+<li>Neuraxis: Rostral, Caudal, Dorsal, Ventral. Remember a 90* bend after spine.</li>
+</ul>
+</li>
+<li><p><a href="#spinal-cord">Identify and describe major parts of spinal cord, brainstem, and brain.</a></p>
+<ul>
+<li><a href="#spinal-cord">Spinal cord:</a><ul>
+<li>Extends from lowest part of brainstem. It controls body and limbs.
+Contains white matter bundles that run up/down, as well as a core of cell bodies.</li>
+<li>Dorsal Root Ganglion: White matter structure that links peripheral sensory to CNS</li>
+<li>Ventral Root: White matter that carries motor bundles.</li>
+<li>Dorsal Horn: Grey matter that contains sensory bundles.</li>
+</ul>
+</li>
+<li><a href="#brainstem">Brainstem:</a><ul>
+<li>Midbrain</li>
+<li>Pons</li>
+<li>Medulla - physically connects to spinal cord</li>
+<li>Brainstem is a conduit for fibers from brain to spinal cord</li>
+<li>Home to gray matter that carries out motor commands to and sensation from, the head and neck.</li>
+<li>Home to life-sustaining functions such as breathing, cardiac function, and consciousness.</li>
+<li>In the spine we had grey matter on the inside, white on the outside. Within brain this gets 
+intermingled.</li>
+<li><a href="#brain">Brain:</a></li>
+<li>Two cerebral hemispheres. Physically identical, but functionally not.</li>
+<li>Contralateral control.</li>
+<li>Each is covered with a multi-layered quilts of neurons called a cortex</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p>List planes of sections and directional terms used for CNS. Describe structures in relation to
+one another using correct terminology. Be able to identify coronal, sagittal, and horizontal sections.</p>
+</li>
+</ol>
+<hr>
+<h3 id="neurons">Neurons:</h3>
+<p>Dendrites receive. Soma keeps neuron alive. Axons communicate. And a synapse is the connection spot
+between axon and dendrite.</p>
+<h3 id="divisions">Divisions:</h3>
+<ul>
+<li>CNS: Brain, brainstem, spinal cord</li>
+<li>PNS: Spinal nerves, cranial nerves</li>
+<li>Both contain gray and white matter. Gray = neuronal cell bodies, white = myelinated axons.</li>
+<li>In CNS a collection of neuronal cell bodies is called a nucleus.</li>
+<li>In PNS a collection of neuronal cell bodies is called a ganglion.</li>
+<li>In CNS a bundle of axons can be called: tract, lemniscus, column, fasciculus, funiculus, etc.</li>
+<li>In PNS it can be called a nerve, ramus, cord, etc.</li>
+</ul>
+<h3 id="modality">Modality:</h3>
+<ul>
+<li>Sensory systems - input to CNS in multiple modalities. Modality is a type of information like touch
+, pain, visual, etc.</li>
+<li>Cognitive systems - process incoming sensory information in the context of memories, emotions,
+expectations, plans.</li>
+<li>Behavioral systems - govern state of the brain ie. sleep, awareness, emotional state, motivation</li>
+</ul>
+<h3 id="output">Output:</h3>
+<ul>
+<li>Somatic motor</li>
+<li>Autonomic (visceral motor)</li>
+<li>Neuroendocrine (homeostatic)</li>
+</ul>
+<h3 id="spinal-cord">Spinal Cord:</h3>
+<ul>
+<li>Extends from lowest part of brainstem</li>
+<li>Allow brain and brainstem to control body/limbs</li>
+<li>Contain white matter bundles that run up and down, as well as a core of cell bodies</li>
+<li>Dorsal Root Ganglion: Dorsal Root is a white matter structure that links sensory to CNS</li>
+<li>Ventral Root: White matter. Motor</li>
+<li>Dorsal Horn: Grey matter</li>
+</ul>
+<h3 id="brainstem">Brainstem:</h3>
+<ul>
+<li>Midbrain</li>
+<li>Pons</li>
+<li>Medulla - physically connects to spinal cord</li>
+<li>Brainstem is a conduit for fibers from brain to spinal cord</li>
+<li>Home to gray matter that carries out motor commands to and sensation from, the head and neck.</li>
+<li>Home to life-sustaining functions such as breathing, cardiac function, and consciousness.</li>
+<li>In the spine we had grey matter on the inside, white on the outside. Within brain this gets 
+intermingled.</li>
+</ul>
+<h3 id="brain">Brain:</h3>
+<ul>
+<li>Two cerebral hemispheres. Physically identical, but functionally not.</li>
+<li>Contralateral control.</li>
+<li>Each is covered with a multi-layered quilts of neurons called a cortex</li>
+</ul>
+<h3 id="lobes-of-cerebral-cortex">Lobes of Cerebral Cortex:</h3>
+<ul>
+<li>Frontal: Primary motor cortex/executive functions (decision-making, logic)</li>
+<li>Parietal: Somatosensory cortex</li>
+<li>Temporal: Auditory cortex</li>
+<li>Occipital: Visual cortex</li>
+</ul>
+<h3 id="hemispheric-contents">Hemispheric Contents:</h3>
+<ul>
+<li>Cortex has ridges (gyri) and valleys (sulci)</li>
+<li>Cortex connected to itself and other structures by network of white matter bundles inside each 
+hemisphere.</li>
+<li>More gray matter nuclei (sub-cortical grey matter) within the cortex</li>
+<li>Corpus callosum is a sub-cortical white matter bridge between left and right hemispheres.</li>
+</ul>
+<h3 id="examples-of-sub-cortical-gray-matter">Examples of sub-cortical gray matter:</h3>
+<ul>
+<li>Thalamus: gateway to cortex, one on each side</li>
+<li>Hypothalamus: maintains homeostasis, controls autonomic, and endocrine function</li>
+<li>Basal Ganglia: Caudate, putamen, globus pallidus</li>
+<li>Cerebellum: ‘little brain’</li>
+</ul>
+<h3 id="grey-and-white-matter-in-cns">Grey and White matter in CNS:</h3>
+<ul>
+<li>Within the hemispheres the (cortical) grey matter is on the outside, 
+and the white matter is deep.</li>
+<li>Subcortical structures are dotted within this deep white matter.</li>
+<li>Within the brain stem the grey and white matter is more mixed up and intermingled.</li>
+<li>Within the spinal cord the grey matter is deep, making the horned butterfly shape, surrounded by 
+white.</li>
+<li>There is a fluid filled <em>ventricular system</em> within the hemispheres. They produce and circulate
+CSF. Always next to caudate nucleus.</li>
+</ul>
+<h3 id="planes-of-section">Planes of Section</h3>
+<ul>
+<li>Horizontal, Coronal, Sagittal</li>
+<li>Remember, for spine rostral = top of head and for brain rostral = beak/face</li>
+</ul>
+
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Virology VII</title>
         <author>
@@ -1970,415 +2283,6 @@ gernate isocyanates</li>
 </li>
 </ul>
 </li>
-</ul>
-
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>PSL III Infarction Shock and DIC</title>
-        <author>
-            <name>William Slattery</name>
-        </author>
-        <link href="https://BGASM.github.io/medNotes/infarction-shock-and-dic.html"/>
-        <id>https://BGASM.github.io/medNotes/infarction-shock-and-dic.html</id>
-            <category term="PSL"/>
-
-        <updated>2020-12-06T17:06:20-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://BGASM.github.io/medNotes/media/posts/8/Myelolipoma_histology_HE.jpg" alt="" />
-                    InfarctionShockCauses:Categories:Stages:Septic ShockDisseminated Intravascular CoagulationConsequences of DICInfarctionInfarction is the process of ischemic necrosis due to either occlusion of arterial supply or of venous drainage.Mainly due to interruption of arterial supply, even if caused by a venous event.Thrombotic events: eg DVT travels to lungs and then occludes&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://BGASM.github.io/medNotes/media/posts/8/Myelolipoma_histology_HE.jpg" alt="" />
-                <ul>
-<li><a href="#infarction">Infarction</a></li>
-<li><a href="#shock">Shock</a><ul>
-<li><a href="#causes">Causes:</a></li>
-<li><a href="#categories">Categories:</a></li>
-<li><a href="#stages">Stages:</a></li>
-</ul>
-</li>
-<li><a href="#septic-shock">Septic Shock</a></li>
-<li><a href="#disseminated-intravascular-coagulation">Disseminated Intravascular Coagulation</a><ul>
-<li><a href="#consequences-of-dic">Consequences of DIC</a><h1 id="infarction">Infarction</h1>
-</li>
-</ul>
-</li>
-<li>Infarction is the process of ischemic necrosis due to either occlusion of arterial supply or of venous drainage.</li>
-<li>Mainly due to interruption of arterial supply, even if caused by a venous event.<ul>
-<li>Thrombotic events: <em>eg</em> DVT travels to lungs and then occludes <strong>arterial</strong> pulmonary artery.</li>
-<li>Vasospasm</li>
-<li>Extrinsic compression by tumor, edema, entrapment in hernia</li>
-<li>Twisting/Torsion</li>
-<li>Vessel rupture</li>
-<li>Venous thrmobosis in organs with single venous outflow.<h2 id="infarct-outcome">Infarct Outcome</h2>
-<ul>
-<li>Dual blood supply (lung, liver, extremities)</li>
-<li>Rate of occlusion: slower occlusion time allow for collateral circulation</li>
-<li>Tissue’s vulnerability to hypoxis<ul>
-<li>Neurons: 3-4 minutes</li>
-<li>Myocardial: 20-30</li>
-<li>Fibroblasts: hours<h2 id="gross-morphology">Gross Morphology</h2>
-</li>
-</ul>
-</li>
-<li>Wedge shaped</li>
-<li>Occluded vessel at apex, organ at base</li>
-<li>Acute poorly defined and slightly hemorrhagic</li>
-<li>Chronic defined with a <em>narrow rim of congestion</em> due to the inflammatory response</li>
-<li>Red vs. White</li>
-<li>Septic vs. Bland<h3 id="red-infarct">Red Infarct</h3>
-<ul>
-<li>RBC-rich blood present</li>
-<li>Venous occlusion</li>
-<li>Loose tissue (lung)</li>
-<li>Dual blood supply</li>
-<li>Congested</li>
-<li>Previous occluison or necrosis.<h3 id="white-infarct">White Infarct</h3>
-</li>
-<li>Organs with end-arterial supply (<em>heart, spleen, kidney</em>)</li>
-<li>Anemic</li>
-<li>Due to lack of nutrients into necrotic zone.<h3 id="septic">Septic</h3>
-</li>
-<li>Occur when infected heart valve vegetation embolize</li>
-<li>Occur when microbes seed an area of necrosis<h2 id="microscopic-morphology">Microscopic Morphology</h2>
-</li>
-</ul>
-</li>
-<li>characterized by ischemic coagulative necrosis<ul>
-<li>Timeline:<ul>
-<li>No visible histologic changes are the norm if ischemia occurs within minutes to a fewhours before death</li>
-<li>4-12 hours, tissue necrosis begins to appear, and acute inflammation begins to show up around the edges</li>
-<li>1-2 days, tissue necrosis is established, and the peripheral inflammatory response is well-defined</li>
-<li>Reparative process follows over the next several days to weeks, where necrotic tissue is removed, and scar tissue replaces<h1 id="shock">Shock</h1>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-<li>Systemic hypoperfusion due to reduced cardiac output or blood volume<h2 id="causes">Causes:</h2>
-<ul>
-<li>Severe hemorrhage</li>
-<li>Extensive trauma</li>
-<li>Large myocardial infarction</li>
-<li>Massive PE</li>
-<li>Septicemia<h2 id="categories">Categories:</h2>
-<ol>
-<li>Cardiogenic shock:<ul>
-<li>outflow obstruction (PE)</li>
-<li>myocardial pump failure (myocardial infection, arrhythmia, or pericardial tamponade)</li>
-</ul>
-</li>
-<li>Hypovolemic shock:<ul>
-<li>extensive hemorrhage and/or fluid loss (burns, trauma, vomiting, diarrhea)</li>
-</ul>
-</li>
-<li>Septic shock: <ul>
-<li>vasodilation and peripheral blood pooling caused by overwhelming microbial infection and associated immune response</li>
-</ul>
-</li>
-<li>Neurogenic shock:<ul>
-<li>rarer cause with loss of vascular tone and peripheral pooling (anesthetic accident, spinal cord injury)</li>
-</ul>
-</li>
-<li>Anaphylactic shock: <ul>
-<li>rarer cause with systemic vasodilation and increased vascular permeability (IgE-mediated hypersensitivity)<h2 id="stages">Stages:</h2>
-</li>
-</ul>
-</li>
-</ol>
-<ul>
-<li>Non-progressive:<ul>
-<li>Reflex neurohumoral compensatory mechanisms are activated (catecholamines, ADH, renin-angiotensin axis, etc.) </li>
-<li>Produces tachycardia, peripheral vasoconstriction, and renal conservation of fluid. </li>
-<li>Perfusion of vital organsmaintained.</li>
-</ul>
-</li>
-<li>Progressive:<ul>
-<li>Occurs when persistent hypoxemia leads to anaerobic glycolysis, lactic acid generation, and decreased tissue pH</li>
-<li>This reduces vasomotor response</li>
-<li>Leads to vasodilation, peripheral pooling, decreased CO, ultimately tissue hypoxia</li>
-</ul>
-</li>
-<li>Irreversible:<ul>
-<li>When re-perfusion will not correct death spiral</li>
-<li>Ischemic bowel may lead to superimposed bactermia/septic shock</li>
-<li>Renal failure and tubular necrosis can lead to anuria<h2 id="morphology">Morphology:</h2>
-<h3 id="lungs">Lungs:</h3>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-<li>Diffuse alveolar damage<ul>
-<li>Sepsis or trauma</li>
-</ul>
-</li>
-<li>Hyaline membranes lining alveolar spaces</li>
-<li>Interstitial inflammation<h3 id="kidneys">Kidneys:</h3>
-</li>
-<li>Acute tubular necrosis causes oliguira, anuria, electrolyte disturbances</li>
-<li>Swollen vacuolated tubular cells with necrosis and tubular casts<h3 id="brain">Brain:</h3>
-</li>
-<li>Red neurons and neuronal loss<h3 id="adrenals">Adrenals:</h3>
-</li>
-<li>Coritcal cell lipid depletion<h3 id="gi">GI:</h3>
-</li>
-<li>Ischemia with mucosal breakdown<h3 id="skin">Skin:</h3>
-</li>
-<li>Petechial hemorrhage<h2 id="clinical-consequences">Clinical Consequences:</h2>
-</li>
-<li>Cardiogenic and hypovolemic:<ul>
-<li>Hypotension, weak rapid pulse, tachypnea, cool cyanotic skin.</li>
-</ul>
-</li>
-<li>Septic Shock:<ul>
-<li>Skin warm and flushed</li>
-</ul>
-</li>
-<li>Most healthy PT survive hypovolemic shock</li>
-<li>Cardiogenic and spetic are less survivable<h1 id="septic-shock">Septic Shock</h1>
-</li>
-</ul>
-</li>
-<li>Most common in infection by G+/- bacteria and fungi</li>
-<li>Several factors in causation:<ul>
-<li>Inflammatory and counter-inflammatory response</li>
-<li>Endothelia cell activation/injury leading to increased thrombotic, vasodilation, permeability and edema</li>
-<li>DIC</li>
-<li>Metabolic abnormalities<ul>
-<li>Adrenal gland necrosis due to DIC is named Waterhouse-Friderichson Syndrome</li>
-</ul>
-</li>
-<li>Organ dysfunction when systemic hypotension, interstitial edema, small vessel thrombosis all decrease oxygen to organs.<ul>
-<li>Decreased cardiac contractility can lead to cardiovascular collapse</li>
-<li>Increased vascular permeability and endothelial injury lead to lung failure</li>
-<li>Anuria can develop due to acute tubular necrosis or renal failure</li>
-<li>Multiorgan failure: liver, adrenals, etc.<h1 id="disseminated-intravascular-coagulation">Disseminated Intravascular Coagulation</h1>
-</li>
-</ul>
-</li>
-<li>Acute, Subacute, or chronic thrombohemorrhagic disorder.</li>
-<li>Excessive activation of coagulation and thrombi formation.</li>
-<li>Not a primary disease. A secondary response to disease.<h2 id="triggers-for-dic">Triggers for DIC</h2>
-<ul>
-<li>Bacterial endotoxins can inhibit endothelial thrombomodulin production.<ul>
-<li>Endotoxins can also activate factor XII</li>
-</ul>
-</li>
-<li>Antigen-Ab complexes can activate classical complement pathway - which leads to complement fragments that activate platelets and granulocytes</li>
-<li>Massive trauma causes tissue factor release</li>
-<li>Placenta procoagulant proteins can enter circulation</li>
-<li>Hypoxia, acidosis, shock</li>
-<li>Leukemia and adenocarcinomas</li>
-</ul>
-</li>
-<li><strong>Activation of the coagulation cascade and excess thrombin will lead to microthrombi (fibrin thrombi) in tiny vessels throughout the body</strong><ul>
-<li>Fibrin thrombia create ischemia in organs and tissue.</li>
-<li>Compensation for excess fibrin thrombi: ↑↑↑ coagulation inhibitors and fibrinolytic proteins</li>
-<li>Simultaneous consumption of both <strong>procoagulant</strong> and <strong>anticoagulant</strong> proteins exhausts the body’s ability to create more</li>
-<li><strong>End stage: bleeding</strong><h2 id="consequences-of-dic">Consequences of DIC</h2>
-</li>
-<li>Widespread deposition of fibrin</li>
-<li>Ischemia</li>
-<li>Microangipathic hemolytic anemia (<em>RBC fragment trying to squeeze through narrow vasculature</em>)</li>
-<li>Hemorrhagic diathesis as clotting factors and platelets are consumed</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Adrenergic and Cholinergic IV</title>
-        <author>
-            <name>William Slattery</name>
-        </author>
-        <link href="https://BGASM.github.io/medNotes/adrenergic-inhibitors.html"/>
-        <id>https://BGASM.github.io/medNotes/adrenergic-inhibitors.html</id>
-            <category term="Pharm"/>
-
-        <updated>2020-12-06T17:05:15-05:00</updated>
-            <summary>
-                <![CDATA[
-                    Effects of stimulating Alpha receptors:Effect of inhibiting Alpha receptors:Beta BlockersSelective B1: cardio-selevtiveNon-Selective: B1 and B2Direct effect of Beta Blockers on the Heart: Decreased Heart RateAdverse:Selection:Indirect:Reserpine: cause depletion of catecholamine storesA-methyldopa: false neurotransmitterA-methyltyrosine: catecholamine inhibitorEffects of stimulating Alpha receptors:A1:Contract vascular smooth musclesIncrease foce of heart contractionDilate&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <ul>
-<li><a href="#effects-of-stimulating-alpha-receptors"><strong>Effects of stimulating Alpha receptors:</strong></a></li>
-<li><a href="#effect-of-inhibiting-alpha-receptors"><strong>Effect of inhibiting Alpha receptors:</strong></a></li>
-<li><a href="#beta-blockers">Beta Blockers</a><ul>
-<li><a href="#selective-b1-cardio-selevtive">Selective B1: <em>cardio-selevtive</em></a></li>
-<li><a href="#non-selective-b1-and-b2">Non-Selective: B1 and B2</a></li>
-</ul>
-</li>
-<li><a href="#direct-effect-of-beta-blockers-on-the-heart-decreased-heart-rate"><strong>Direct effect of Beta Blockers on the Heart: Decreased Heart Rate</strong></a><ul>
-<li><a href="#adverse"><strong>Adverse:</strong></a></li>
-<li><a href="#selection"><strong>Selection:</strong></a></li>
-</ul>
-</li>
-<li><a href="#indirect">Indirect:</a><ul>
-<li><a href="#reserpine-cause-depletion-of-catecholamine-stores">Reserpine: cause depletion of catecholamine stores</a></li>
-<li><a href="#a-methyldopa-false-neurotransmitter">A-methyldopa: false neurotransmitter</a></li>
-<li><a href="#a-methyltyrosine-catecholamine-inhibitor">A-methyltyrosine: catecholamine inhibitor</a><h2 id="effects-of-stimulating-alpha-receptors"><strong>Effects of stimulating Alpha receptors:</strong></h2>
-</li>
-</ul>
-</li>
-<li>A1:<ul>
-<li>Contract vascular smooth muscles</li>
-<li>Increase foce of heart contraction</li>
-<li>Dilate Pupils</li>
-<li>Contract prostate</li>
-</ul>
-</li>
-<li>A2:<ul>
-<li>Decrease NE release</li>
-<li>Decrease NE release from CNS</li>
-<li>Decrease Insulin Release<h2 id="effect-of-inhibiting-alpha-receptors"><strong>Effect of inhibiting Alpha receptors:</strong></h2>
-</li>
-</ul>
-</li>
-<li>A1:<ul>
-<li>Vascular relexation</li>
-<li>Decrease force of heart contraction</li>
-<li>Pupil constriction</li>
-<li>Prostate relax</li>
-</ul>
-</li>
-<li>A2:<ul>
-<li>Increase NE</li>
-</ul>
-</li>
-</ul>
-<p>So, when we apply a non-selective Alpha antagonist we get a decrease in TPR (<em>due to the vascular relaxation and the decrease in heart contraction force</em>. ) This decreases blood pressure. Decrease in BP triggers a reflec tachycardia, which is an increase in cardiac output. NE gets released by the A2 inhibition. This NE that is release can then stimulate B1 receptors, which increase heart rate!</p>
-<p>TI: </p>
-<ul>
-<li>Emergency hypertensive crisis</li>
-<li>Preoperative of <strong>pheochromocytoma</strong> == <strong>phentolamine</strong>
-<strong>NOTE: Main use for non-selective alpha is to rapidly decrease blood pressure</strong></li>
-</ul>
-<ol>
-<li><p>Phenoxybenzamine (PBZ): Irreversible and Long Acting. Non-competitive.</p>
-</li>
-<li><h2 id="phentolamine-reversible-short-acting">Phentolamine: Reversible, short acting.</h2>
-<p>Selective A1 antagonists: <strong>LOWER BLOOD PRESSURE</strong></p>
-<ol>
-<li>Prazosin: <strong>HYPERTENSION</strong></li>
-<li>Doxazosin &amp; Terazosin: <strong>HYPERTENSION and BPH</strong></li>
-<li>Tamsulosin: <strong>BPH - Treat lower urinary tract symptoms caused by BPH</strong></li>
-</ol>
-<ul>
-<li>Adverse: <strong>POSTURAL HYPOTENSION AND SYNCOPE 1st dose falls</strong></li>
-<li><strong>Do not cause reflex tachycardia.</strong><h2 id="beta-blockers">Beta Blockers</h2>
-</li>
-</ul>
-<p><strong>All Beta antagonists are competitive</strong></p>
-<ul>
-<li>Well absorved after oral</li>
-<li>Most do not cross BBB</li>
-<li>No absolute selectivity</li>
-</ul>
-<h3 id="selective-b1-cardio-selevtive">Selective B1: <em>cardio-selevtive</em></h3>
-<p>New-AMEBBA:</p>
-<ul>
-<li><strong>N</strong>ebivolol - NO mediated vasodilation</li>
-<li><strong>A</strong>cebutolol - ISA (partial agonist) </li>
-<li><strong>M</strong>etoprolol ←</li>
-<li><strong>E</strong>smolol - Very short duration, used for cardio emergency</li>
-<li><strong>B</strong>etaxolol</li>
-<li><strong>B</strong>isoprolol </li>
-<li><strong>A</strong>tenolol ←<h3 id="non-selective-b1-and-b2">Non-Selective: B1 and B2</h3>
-</li>
-<li>Propranolol ← - Anxiety and Migraines</li>
-<li>Timolol ← Open angle glaucoma (IOP)</li>
-<li>Pindolol - ISA (partial agonist) some B2 activation</li>
-<li>Carvedilol ← A1 receptor antagonist as well. Antioxidant. Blocks Ca2+ Used for heart failure</li>
-<li>Labetalol - ISA (partial agonist) some B2 activation</li>
-<li>Sotalol: Only beta blocker used for only one disease, which is a certain type of arrythmia. <strong>Not even used for hypertenstion.</strong><h3 id="direct-effect-of-beta-blockers-on-the-heart-decreased-heart-rate"><strong>Direct effect of Beta Blockers on the Heart: Decreased Heart Rate</strong></h3>
-<ul>
-<li>Production of Nitric Oxide (<em>potent vasodilator</em>): Nebivolol</li>
-<li>ISA: Intrinsic Sympathomimetic  Activity: Partial B2 activation</li>
-<li>Pindolol, Lavetalol (non-sel with ISA)</li>
-<li>Decrease release of NE from nerve terminals (indirect effect)<pre><code>In some receptors, the B2 receptors that get stimulated by the beta-blocker&#39;s ISA happen to be really close to some A2 receptors. So when the B2 receptors get stimulated, they cause a little NE to get released and then that NE stimulates the nearby A2 receptors, which then has the overall, indirect, effect of decreasing further NE release.</code></pre></li>
-<li>Non-Selective B-blocker (without ISA <em>which means they do not have a partial agonist</em>)</li>
-<li>Direct antagonism of B receptor, there is a decreased release of NE.</li>
-</ul>
-</li>
-<li>Carvedilol blocks Ca entry into the cell, which prevents contraction.</li>
-<li>Antioxidant properties, which produces Nitric Oxide - which is a vasodilator.<ul>
-<li>Decrease Renin.</li>
-</ul>
-</li>
-</ul>
-<h3 id="adverse"><strong>Adverse:</strong></h3>
-<ul>
-<li>Bradycardia</li>
-<li>Depressed myocardial contractility and excitability</li>
-<li>Hypoglycemia in diabetic patients<ul>
-<li><strong>Avoid using non-selective B-blocker because they inhibit insulin, glycogenolysis, and gluconeogenesis</strong></li>
-<li><strong>Selective B1 blockers can be fine</strong></li>
-<li>Keep in mind, the selective B1 do not cause tachycardia, instead it promotes bradycardia.</li>
-<li>This is a a note because diabetic patients often notice tachycardia as a sign to get medical assistance.</li>
-</ul>
-</li>
-<li>Sudden withdrawl of </li>
-<li>Propanolol, Carvedilol, Metoprolol can all cross BBB and can have depressive effect on CNS.</li>
-<li>Alter plasma lipids (↑TGL ↓HDL)</li>
-<li>Hepatotoxicity caused by Labetalol</li>
-<li><strong>If patient has asthma</strong> avoid non-selective (ISA) Beta Blockers.<strong>Carvedilol mainly</strong> <em>because it is non-selective for B1 or B2 AND because it has ISA activity.</em></li>
-<li><strong>B2 antagonists cause bronchoconstriction.</strong><h3 id="selection"><strong>Selection:</strong></h3>
-</li>
-<li><strong>PT with bronchospasm or diabetes</strong><ul>
-<li>Selective B1 antag: Metoprolol, Atenolol</li>
-</ul>
-</li>
-<li><strong>PT with bradycardia</strong><ul>
-<li>Use B-blocker with ISA: Pinolol, Acebutolol</li>
-</ul>
-</li>
-<li><strong>PT with hypertension or chronic heart failure</strong><ul>
-<li>Use B-blocker with A1 antag properties: Pindolol, Carvedilol, Acebutolol</li>
-</ul>
-</li>
-</ul>
-</li>
-</ol>
-<h2 id="indirect">Indirect:</h2>
-<h3 id="reserpine-cause-depletion-of-catecholamine-stores">Reserpine: cause depletion of catecholamine stores</h3>
-<ul>
-<li>Inhibits VMAT. Prevents NE vesicular storage.</li>
-<li>As NE gets used up it does not get replaced.</li>
-<li>No catecholamines build up</li>
-<li>Rarely used to treat refractory hypertension</li>
-<li>Causes headaches</li>
-</ul>
-<h3 id="a-methyldopa-false-neurotransmitter">A-methyldopa: false neurotransmitter</h3>
-<ul>
-<li>Gets metabolized as a false-precusor of NE.<ul>
-<li>MethyINE</li>
-<li>Takes up space and not recognized as an NT.</li>
-</ul>
-</li>
-<li>Used for hypertension mainly in pregnancy.</li>
-<li>A2 agonist and false neurotransmitter.</li>
-</ul>
-<h3 id="a-methyltyrosine-catecholamine-inhibitor">A-methyltyrosine: catecholamine inhibitor</h3>
-<ul>
-<li>Inhibits TH tyrosine hydroxylase</li>
-<li>Used in treatment of inoperable pheochromocytoma</li>
 </ul>
 
             ]]>
