@@ -54,9 +54,9 @@
     - Gravity and hydrostatic pressure cause **dependent edema** in the legs when standing or sacrum with prone.
     - Linked with Right heart failure
       - Poor blood return. Blood backs up into vena cava and edema builds up in lowed extremities.
-  - Pulmonary:
+  - **Pulmonary Edema**:
     - Heavy wet lungs.
-    - Frothy, blood-tinged fluid expressed when compressing parenchyma.
+    - **Frothy**, blood-tinged fluid expressed when compressing parenchyma.
   - Cerebral:
     - Generalized or local swelling.
     - Expanded gyri, narrowed sulci
@@ -112,7 +112,7 @@
    
 ### Bleeding or Hypercoagulable state:
 --------------------
- - **Bleeding State**
+ - **Bleeding State is inability to properly cause coagulation**
  - Bernard-Soulier Syndrome GP1B.
  - Von Willibrand disease due to too little or too weak vWF.
  - Glanzmaan thromoasthenia due to deficiency in GpIIa-IIIb.  

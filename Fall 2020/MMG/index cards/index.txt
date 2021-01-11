@@ -1,0 +1,60 @@
+Pox;DNA Viruses - Enveloped$
+Herpes;DNA Viruses - Enveloped$
+Hepadna;DNA Viruses - Enveloped$
+Polyoma;DNA Viruses - Naked Capsid$
+Papilloma;DNA Viruses - Naked Capsid$
+Adeno;DNA Viruses - Naked Capsid$
+Parvo(ss);DNA Viruses - Naked Capsid$
+Picrona;Naked RNA+ Virus$
+Calici;Naked RNA+ Virus$
+Toga;Enveloped RNA+ Virus$
+Flavi;Enveloped RNA+ Virus$
+Corona;Enveloped RNA+ Virus$
+Rhabdo;Enveloped RNA- Virus$
+Filo;Enveloped RNA- Virus$
+Orthomyxo;Enveloped RNA- Virus$
+Paramyxo;Enveloped RNA- Virus$
+Bunya;Enveloped RNA- Virus$
+Arena;Enveloped RNA- Virus$
+Reo;RNA+- Virus$
+Retro;Enveloped RNA+ via DNA$
+Adeno;
+Structure:ds Linear DNA 30-40kb, Capsid icsosahedron with fiber attachment protein at each vertice, NON-Enveloped
+Replication: Enter cells via receptor mediated endocytosis, Early genes transcibed and translated useing host protein, Induce host enter S phase, Block apoptosis, Inhibit IFN, In permissive: early gene expression followed by viral DNA replication - using 5' terminal protein as primer, DNA replication followed by expression of **late genes**
+Time:
+Spread:Virus enter URT through eyes or upper resp. Goes LRT or GI then into lymph nodes. Skin or other ogans, and then resolves or persists. One week incubateion and then contagious
+Diseases:Cause respiratory disease, conjunctivitis, hemorrhagic cystitis, and gastroenteritis. Differences due to penton base and fiber protein. Establish lytic infection in respiratory and GI tract. Latent in lymphoid tissue. Cause URI and croup. Immunocompromised leads to fulminant respiratory failure, hepatitis, death.
+Treatment/Prevention:No specific anti-viral drugs, some broad specturm work for immunocompromised.
+Vaccine made for military a while ago, but production stopped.
+$
+Parvo B19;
+Structure:smallest DNA virus Non-enveloped icosahedral capsid 18-26nm Genome is ssDNA, 5.5kb, Depndovirus, species adeno associated virus - species requries adenovirus present to infect
+Only able to infect proliferating cells.
+Inverted repeats at the ends of genome. Partially uncoated, need to get viral dn into nucleus to make dsDNA. Make mRNA to make viral proteins. Single stranded dna can be + or -
+Replication:Primary replication in respiratory tract, then bone marrow -> 
+Time: 
+Spread:kills replicating erythroid precursor cells -> Virema -> Complexes precipitate in skin and joints, causing rash -> Rash on both cheeks, followed with erythematous rash on trunk nad limbs 
+Diseases:Aplastic Crisis. Replicates in RBC precursors. PT with Chronic hemolytic anemia -> aplastic anema can occur. Virus can cross placenta and cause hydrops fetalis
+Treatment/Prevention:No specific thrrapy or vaccine
+$
+Papilloma;
+Tumor:Small, non-enveloped,dsCircular DNA. Depened on host cell polymerase to express their genes. 100 serotypes. 
+16 and 18 cause squamous cell carcinoma
+E5 gene - activate epidermal growth factor (EGF) receptor
+E6 gene - Targets p53 suppressor for degrade
+E7 gene - Inhibits pRb suppressor from halting cell cycle
+**5 promotes growth, 6 and 7 prevent suppression**
+Detection:Papanicolaou stain (pap smear) | Detects perinuclear vacuolated cytoplasm, sign of cancer and of HPV| PCR
+HPV Vaccine:Gardasil for male and female. Gardasil protect against HPV 6,11,16,18 (cervical and anal cancer, cervical warts) Gardasil 9 also protects against 31,33,45,52,58
+16,18 cause 80% of cervical cancer 6,11 cause 90% genital warts
+Cervarix only for female. Cervarix: protect only against 16,18
+$
+Polyoma;
+Structure:Small non-enveloped, Circular dsDNA
+Replication:Inoculate into respiratory tract -> replicate and cause primary viremia -> Multiply in kidney -> Secondary viremia, healthy people either resolve or go latent ->Immunosuppressed see reactivation and then urinary tract if BK, CNS if JC
+BK: Urinary Tract
+JC: CNS
+Merkel:ds DNA, a polyoma virus 
+Infect older kids and adults.  Integration of MCV genome is cause of rate but aggressive skin cancer.
+80% merkel cell carcinomas contain MCV genome. 1500 caseas/year. High incidence in elderly.
+$

@@ -1,0 +1,368 @@
+A:
+  Name: Adeno
+  Structure:
+    - Linear dsDNA 30-40kb
+    - Capsid icsosahedron with fiber attachment protein at each vertice
+    - Non-Enveloped
+  Replication:
+    - Enter via receptor mediated endocytosis,
+    - Early genes transcibed and translated using host protein
+    - Induce host enter S phase
+    - Block apoptosis
+    - Inhibit IFN
+    - In permissive early gene expression followed by viral DNA replication - using 5' terminal protein as primer. DNA replication followed by expression of late genes
+  Time:
+  Spread:
+    - Virus enter URT through eyes or upper resp 
+    - Goes LRT or GI then into lymph nodes, skin or other ogans 
+    - Resolves or persists. 
+    - One week incubateion and then contagious
+  Diseases:
+    - respiratory disease 
+    - conjunctivitis
+    - hemorrhagic cystitis
+    - gastroenteritis 
+    - Differences due to penton base and fiber protein
+    - Establish lytic infection in respiratory and GI tract. 
+    - Latent in lymphoid tissue. 
+    - URI and croup. 
+    - Immunocompromised: leads to fulminant respiratory failure, hepatitis, death.
+  Treatment/Prevention:
+    - No specific anti-viral drugs, some broad specturm work for immunocompromised.
+    - Vaccine made for military a while ago, but production stopped.
+B:
+  Name: Parvo B19
+  Structure:
+    - ssDNA, 5.5kb 
+    - smallest DNA virus 
+    - Non-enveloped 
+    - Icosahedral capsid 18-26nm 
+    - Inverted repeats at the ends of genome
+  Replication:
+    - Depndovirus, species adeno associated virus - species requries adenovirus present to infect
+    - Only able to infect proliferating cells
+    - Partially uncoated, need to get viral dn into nucleus to make dsDNA
+    - Make mRNA to make viral proteins. Single stranded dna can be + or -
+    - Primary replication in respiratory tract, then bone marrow
+  Time: 
+  Spread:
+    - kills replicating erythroid precursor cells 
+    - Virema
+    - Complexes precipitate in skin and joints, causing rash
+    - Rash on both cheeks, followed with erythematous rash on trunk and limbs 
+  Diseases:
+    - Aplastic Crisis - Replicates in RBC precursors. PT with Chronic hemolytic anemia can see aplastic anemia can occur 
+    - Hydrops Fetalis - Virus can cross placenta and cause hydrops fetalis
+  Treatment/Prevention:
+    - No specific thrrapy or vaccine
+C:
+  Name: Papilloma
+  Structure:
+    - Small, non-enveloped, circular dsDNA. 
+    - Depened on host cell polymerase to express their genes. 100 serotypes. 
+  Tumor:    
+    - 16 and 18 cause squamous cell carcinoma
+    - E5 gene - activate epidermal growth factor (EGF) receptor
+    - E6 gene - Targets p53 suppressor for degrade
+    - E7 gene - Inhibits pRb suppressor from halting cell cycle
+    - 5 promotes growth, 6 and 7 prevent suppression
+  Detection:
+    - Papanicolaou stain (pap smear) Detects perinuclear vacuolated cytoplasm, sign of cancer and of HPV
+    - PCR
+  HPV Vaccine:
+    - Gardasil for male and female. 
+    - Gardasil protect against HPV 6,11,16,18 (cervical and anal cancer, cervical warts) 
+    - Gardasil 9 also protects against 31,33,45,52,58
+    - 16,18 cause 80% of cervical cancer 6,11 cause 90% genital warts
+    - Cervarix only for female. 
+    - Cervarix protect only against 16,18
+D:
+  Name: Polyoma
+  Structure:
+    - Small non-enveloped, Circular dsDNA
+  Replication:
+    - Inoculate into respiratory tract
+    - replicate and cause primary viremia
+    - Multiply in kidney
+    - Secondary viremia, healthy people either resolve or go latent
+    - Immunosuppressed see reactivation and then urinary tract if BK, CNS if JC
+    - BK - Urinary Tract
+    - JC - CNS
+E: 
+  Name: Merkel
+  Structure: 
+    - ds DNA
+    - polyoma virus 
+  Disease: 
+    - Infect older kids and adults
+    - Integration of MCV genome is cause of rare but aggressive skin cancer
+    - 80% merkel cell carcinomas contain MCV genome. 
+    - 1500 caseas/year
+    - High incidence in elderly
+F:
+  Name: HSV-1/2
+  Subfamily: A
+  Structure: 
+    - dsDNA 100-250kb
+    - Protein Core
+    - Icosahedral Capsid
+    - Tegument Matrix
+    - Envelope
+  Pathogenesis:
+    - Mucoepithelial cells are where initial infection and lytic replication takes place
+    - Spread via synctia formation (cell-cell fusion)
+    - Latent virus reactivated in neuron
+    - Virus travel down nerve causing lesions at site of infect
+  Disease:
+    - Lesions
+    - Encephalitis
+    - TORCHES - Disseminated infection in newborns (mostly HSV-2)
+  Symptoms:
+    Local:
+      - Pain
+      - Itching
+      - Dysuria
+      - Malaise
+      - Fever
+      - Headache
+    Systemic:
+      - Wet vesicular ulcers
+      - Crusty
+  Transmission:
+    - Saliva
+    - Tears
+    - Genital secretion
+    - HSV-1 Mostly Orally Transmitted    
+    - HSV-2 Mostly Sexually Transmitted
+  Latency:
+    - Establish latency in neurons
+    - Early stages similar for latent and productive infections.
+    - Episomal
+    - No viral protein, but Latency Associated Transcripts
+  Diagnosis:
+    - Viral cultures:
+      - Cytopathic effect (CPE)
+      - Ballooning of cells
+    - Tzanck Smear:
+      - Biopsy from herpetic lesion
+      - Multinucleated giant cells
+      - Nuclear inclusions (cowdry type A)
+    - Serology and PCR
+  Treatment:
+    - Nucleoside Analogues
+    - Acyclovir is a guanosine analogue lacking ribose or deoxyribose (Chain terminator.) Selective activation by HSV and VZV viral-thymidine kinase which phosphorylates Acyclovir. Humans make TK also, but our TK doesnt turn Acyclovir on 
+H:
+  Name: VZV
+  Subfamily: A
+  Structure: 
+    - dsDNA 100-250kb
+    - Protein Core
+    - Icosahedral Capsid
+    - Tegument Matrix
+    - Envelope
+  Pathogenesis:
+    - Enter and replicate in respiratory tract, spread to lymphoid cells
+    - Travel to skin and cause maculopapular rash
+    - Centripetal distribution
+    - Progress to papules/vesicles that get crusty
+    - Can become latent in neurons
+  Disease:
+    - Chicken pox
+    - Shingles    
+    - Hemorrhagic chicken pox
+    - Devastating for immunocompromised
+    - Congenital varicella
+    - Viral pneumonia
+  Symptoms:
+    - maculopapular rash
+    - crusty lesions
+  Transmission: 
+    - Direct contact
+    - Respiratory droplets
+    - PT ifectious 2 days before 7 days after onset of rash  
+  Latency:
+    - Latency in sensory ganglia
+    - Reactivated virus leads to herpes zoster
+    - Chicken pox like vesicles eventually appear over the dermatome
+    - Cranial Nerve VII (bells palsy)
+    - Cranioal Nerve VII (Ramsay Hunt)
+    - Ocular Zoster
+  Diagnosis:
+    - Similar to HSV
+    - Cowdry Type A nuclear inclusion bodies - Tzank smear
+    - Virus Culture
+    - Serology
+  Treatment:
+    - Acyclovir
+    - Famciclovir
+    - Valcyclovir
+    - VSIG
+  Vaccination:
+    - Low dose live attenuated age 1-5 yr
+    - High dose live attenuated shingles after 50yr
+    - Shingrix recombinant vaccine over 50yr
+I:
+  Name: EBV
+  Subfamily: G
+  Structure: 
+    - dsDNA 100-250kb
+    - Protein Core
+    - Icosahedral Capsid
+    - Tegument Matrix
+    - Envelope
+  Pathogenesis: 
+    - Uses complement component receptor CR2/CD21
+    - Lytic replication in B cells or epithelial cells
+    - Latent infection of B cells
+    - Immortalization of B cells
+  Disease:
+    - Infectious Mononucleosis
+  Tumor Pathogenesis:
+    - EBV associated with B cell lymphoma and leukemia in immunocompromised
+    - Burkitt lymphoma -Tumor of jaw and face in children
+    - Tumors contain EBV DNA
+    - Endemic Variant
+    - Sporadic Type
+    - Immune Deficiency associated HIV
+    - Non-Hodgkin lymphoma, which included burkitt, accounts for 30-50% childhood lymphoma
+    - Nasopharyngeal Carcinoma - Tumors of the upper respiratory tract    
+  Symptoms:
+    - lymphadenopathy
+    - splenomagaly
+    - pharyingitis
+    - fever, malaise
+    - meningencephalitis, guillain-barre
+    - laryngeal obstruction, splenic rupture
+  Transmission:
+    - Saliva
+    - 70% US population infected by age 30
+  Latency:
+    - In non-permissive cells EBV is circular and expresses a limited number of genes
+    - EBNA1 - Maintain presence of viral genome
+    - EBNA2 - Stimulate B cell proliferation genes
+    - EBNA3 - inactivate Rb tumor suppressor
+  Diagnosis:
+    - CBC with differential
+    - Look for atypical lymphocytes
+  Treatment:
+    - EBV specific Ab
+J:
+  Name: CMV
+  Subfamily: B
+  Structure: 
+    - dsDNA 100-250kb
+    - Protein Core
+    - Icosahedral Capsid
+    - Tegument Matrix
+    - Envelope
+  Pathogenesis:
+    - Incubate 4-8 week
+    - Productive infection in epithelial cells
+    - Latent infection of T cells and Macrophages
+  Disease:
+    - Usually mild if not asymptomatic.
+    - Can induce symptoms of infectious mononucleosis
+    - TORCH Congenital CMV in newborns
+    - Can cause fetal death during pregnancy
+    - Long term health problems - hearing loss, vision loss, intellectual disability, small head, muscle issue. Treatment possible with antivirals, but not recommended for asymptomatic babies. Recommend regular hearing checks.
+  Symptoms:
+  Transmission:
+  Latency: Latent infection of T cells and Macrophages
+  Diagnosis: Owls eye, intranuclear inclusion body
+  Treatment:
+    - Ganciclovir
+    - Cidofovir
+K:
+  Name: HHV-6/7
+  Subfamily: B
+  Structure: 
+    - dsDNA 100-250kb
+    - Protein Core
+    - Icosahedral Capsid
+    - Tegument Matrix
+    - Envelope
+  Pathogenesis: Infect lymphocytes, monocytes, epithelial, endothelial and neuornal cells
+  Disease:
+    - 6th childhood disease (roseola infantum)
+  Symptoms:
+    - Fever
+    - Rash
+    - Roseola
+  Transmission:
+    - Breast feeding
+    - Aerosol
+    - Saliva
+  Latency:
+  Diagnosis:
+  Treatment:
+L:
+  Name: HHV-8
+  Subfamily: G
+  Structure: 
+    - dsDNA 100-250kb
+    - Protein Core
+    - Icosahedral Capsid
+    - Tegument Matrix
+    - Envelope
+  Pathogenesis:
+  Disease:
+    - Associated with Kaposi Sarcoma. Primarily seen in AIDS patients.
+  Symptoms:
+  Transmission:
+  Latency:
+  Diagnosis:
+  Treatment:
+M:
+  Name: Poliovirus
+  Structure:
+  Pathogenesis:
+  Disease:
+  Symptoms:
+  Transmission:
+  Diagnosis:
+  Treatment:
+N:
+  Name: Coxsackieviruses Group A and B
+  Structure:
+  Pathogenesis:
+  Disease:
+  Symptoms:
+  Transmission:
+  Diagnosis:
+  Treatment:
+O:
+  Name: Rhinoviruses
+  Structure:
+  Pathogenesis:
+  Disease:
+  Symptoms:
+  Transmission:
+  Diagnosis:
+  Treatment:
+P:
+  Name: Noroviruses
+  Structure:
+  Pathogenesis:
+  Disease:
+  Symptoms:
+  Transmission:
+  Diagnosis:
+  Treatment:
+Q:
+  Name: Rotavirus
+  Structure:
+  Pathogenesis:
+  Disease:
+  Symptoms:
+  Transmission:
+  Diagnosis:
+  Treatment:
+R:
+  Name: SARS-COV2 
+  Structure:
+  Pathogenesis:
+  Disease:
+  Symptoms:
+  Transmission:
+  Diagnosis:
+  Treatment:

@@ -1,0 +1,183 @@
+Betaxolol; Selective Beta 1 Antagonist$
+Pentolamine; Non-selective Alpha Antagonist
+Reversible and short acting
+AE: Rapid decrease in BP and Reflex tachycardia$
+Terbutaline; Direct Beta 2 Agonist$
+Labetolol; Non-selective Beta Antagonist
+Partial ISA Beta 2 agonist$
+Dopaminel; Direct Beta 1 agonist$
+TCAs; Tricyclic Anti-depressants
+Atropine effect - Anti-muscarinic
+CNS: Confusion/Hallucination - Antimuscarinic
+PNS: Postural Hypotension - Alpha 1 Antagonist$
+Esmolol; Selective Beta 1 Antagonist
+Very short duration
+TI: Cardio Emergencies$
+Cocaine; DAT + NET Inhibitor
+CNS: Inhibits reuptake
+PNS: Sympathomimetic
+TI: Anesthetic and Vasoconstriction
+AE: Death from cardiac/Respiratory Arrest, Agitation, Paranoia, Hypertension, Nose Bleeds$
+Tyramine; Enter VMAT and displace NE
+Increase NE
+Not inhibited by MAO
+PT on MAO-I need to be careful around wine/cheese$
+Nebivolol; Selective Beta 1 antagonist
+Nitric Oxide mediated$
+Sotalol; Non-selective Beta antagonist
+Only one used for other disease, a certain arrythmia
+Not even used for Hypertension$
+Clonidine; Direct Alpha 2 agonist
+'Dine' group$
+Phenylephrine; Direct Alpha 1 agonist
+'Phrine' group$
+Pseduophedrin; Mixed adrenergic mimicking
+Indirect: Inhibit NET and displace NE
+Direct: Alpha 1/Beta 1 Agonist (low affinity for Beta 2)
+Increase NE!!
+Like Amphetamine, but with less CNS effect
+TI: Nasal decongestant
+AE: Atrial fibrillation, reflex bradycardia, hypertension, insomnia$
+Midodrine; Direct Alpha 1 agonist
+TI: Orthostatic hypostension
+AE: Vasoconstriction/hypertension
+Urinary Retention$
+Amphetamines; NET inhibition
+Block NE uptake
+Enter VMAT and displace NE
+Beta one and Alpha 1 get activated by NE
+TI: Narcolepsy and ADHD
+AE: CNS: Jitters, insomnia, anorexia, seizures
+PNS: Headache, tachyarrthymia, Hyper/Hypotension$
+Methylphenidate; Mixed adrenergic mimicking
+Indirect: Inhibit DAT and NET
+Direct: Alpha 1 agonist
+Increase NE and Dopamine!
+TI: ADHD
+AE: CNS: ANorexia, Anxiety, Depression
+PNS: Tachycardia, reflex bradycardia, blurred vision (due to Alpha 1 agonism)$
+Metoprolol; Selective Beta 1 Antagonist$
+Fomoterol; Direct Beta 2 agonist$
+Methyldopa; Direct Alpha 2 Agonist$
+Apraclonidine; Direct Alpha 2 Agonist$
+Brimonidine; Direct Alpha 2 Agonist$
+Atenolol; Selective Beta 1 antagonist$
+Albuterol; Direct Beta 2 agonist$
+Propranolol; Non-selective Beta 2 antagonist
+AE: Anxiety, migraines$
+Amitriptyline; TCA: 5HT + NET inhibitor$
+Desipramine; TCA: 5HT + NET inhibitor$
+Timolol; Non-selective Beta antagonist
+TI: Open angle glaucoma$
+Tamsulosin; Selective Alpha 1 antagonists
+TI: Used to treat urinary tract symptoms caused by BPH
+AE: Postural hypotension and sycope, 1st dose falls
+Does not cause reflex tachycardia$
+Phenoxybenzamine; Non-selective Alpha antagonist
+Irreversible and long acting
+Rapidly decrease BP, reflex tachycardia$
+Imipamine; TCA: 5HT + NET inhibitors$
+Carbidopa; DD inhibitor
+Does not cross BBB
+Combine with Levodopa
+Gold standard for Parkinsons$
+Levodopa; Not an ihibitor
+Crosses BBB
+Looks like L-Dopa and saturates the enzymes that break L dopa down
+Given in combo with Dopamine drugs$
+Entacapone; COMT inhibitor
+Enhance L-DOPA -> Dopamine
+No effect on DD
+Low in CNS
+Combine with levodopa$
+Terazosin; Selective Alpha 1 antag
+TI: Hypertension$
+Salmeterol; Direct Beta 2 agonist$
+Dobutamine; Direct Beta 1 agonist$
+Acetylcholine (M); Muscarinic Agonist - Esters - 
+Cause miosis for ophtalmic procedures$
+Carbachol (M); Muscarinic Agonist - Esters -
+TI:Longest duration, better choice for miosis
+Constrict pupils and lower IOP
+AE:May cause asthma if reaches PNS$
+Bethanechol; Muscarinic Agonist - Esters -
+TI: Only used diagnostically
+Asthma challenge test
+Administer via inhalation
+AE: Cardiac arrest$
+Pilocarpine; Muscarinic Agonist - Alkaloids - 
+Well-absorbed
+High affinity to muscarinic receptors in CNS and PNS
+Stimulate tears, sweating, saliva, pupil constriction and constraction of ciliary muscle
+TI: Glaucoma - Decreases IOP via topical or intraocular.
+Dry mouth
+AE: Diaphoresis if it reaches systemic circulation$
+Cevimeline; Muscarininc Agent - Synthetics -
+Selective as M1 and M3 agonist
+TI: Treat dry mouth$
+Acetylcholine (N); Nicotinic Agonist - Esters -$
+Carbachol (N); Nicotinic Agonist - Esters -$
+Succinylcholine (N); Nicotinic Agonist - Esters - $
+Nicotine; Nicotinic Agonist - Alkaloids - 
+Only nicotinic stimulant for CNS and PNS
+DESENSITIZATION: High doses it acts as a blocker.
+Higher affinity for neuronal receptors than other tissue
+CNS Stimulnat: Increase respiratory rate, tremor, convulsions, vomiting
+Parenteral Administration: Increase BP, nausea, diarrhea, bladder voiding
+TI: Nicotine replacement Therapy
+AE: Increases salivation, upset stomach, bleeding gums, throat irritation$
+Symptoms of Acute Nicotine Poisoning; Nausea, salivation, abdominal pain, vomiting, diarrhea, cold sweat, headache, dizziness, confusion, muscle weakness
+Hypotension and rapid pulse
+Labored breathing
+Convulsions
+Death$
+Varenicline; Nicotinic Agonist - Synthetics -
+Crosses BBB
+Partial agonist on nicotinic receptors in the brain
+TI: Smoking cessation
+AE: Sleep disturbances and depression$
+Neostigmine and Pyridostigmine; Reversible indirect Cholinomimetic AChE inhibitors
+Low lipid solubility
+TI: Reverse the effects of competitive NMJ blockers
+Non-depolarizing Muscle Relaxant
+Neostigmine also directly activates Nicotinic receptors$
+Physostigmine: Reversible indirect cholinomimetic AChE inhibitor
+Highly abosrbed by all routes
+Crossess BBB
+TI: Glaucoma and reversing anticholinergic poisons (like atropine)$
+Neostigmine, Pyridostigmine, and Physostigmine; USed in diagnosis of myasthenia gravis$
+Donepezil; Reversible Indirect Cholinomimetic AChE inhibitor
+CNS action
+TI: Alzeheimers$
+Galantamine; Reversible Indirect Cholinomimetic AChE inhibitor
+CNS action
+TI: Alzeheimers$
+Rivastigmine; Reversible Indirect Cholinomimetic AChE inhibitor
+CNS action
+TI: Alzeheimers$
+TOXICITY MANIFESTATION AFTER ORGANOPHOSPHATES (OPs) EXPOSURE Muscarinic symptoms;
+ **D U M B B EE L L S**
+    - **Diarrhea**
+    - Urination
+    - **Miosis**
+    - **Bronchoconstriction**
+    - Bradycardia
+    - Excitation/Emesis
+    - Lacrimation
+    - Lethargy
+    - Salivation
+    - **Sweating**
+Acute (min- 24 h): effects include actions on CNS
+Treat with atropine$
+TOXICITY MANIFESTATION AFTER ORGANOPHOSPHATES (OPs) EXPOSURE Nicitonic Symptoms;
+ Mon, Tues, Wed, tHurs, Fri
+  - Mydriasis
+  - Tachycardia
+  - Weakness
+  - Hypertension
+  - Fasciculations
+Delayed (24h - 2 weeks) and later-onset
+(encephalopathy, extrapyramidal symptoms, coma).
+No atropine.It only has antimuscarininc effects.
+ANTIDOTE to AChEi INTOXICATION (OP): Oxime agents: Pralidoxime:
+Cholinesterase regenerator if given before aging occurs (48-hours)$

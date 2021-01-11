@@ -1,3 +1,31 @@
+- [Family Retroviridae](#family-retroviridae)
+  - [Morphology](#morphology)
+  - [Species](#species)
+  - [Structure](#structure)
+  - [Proviral Genome](#proviral-genome)
+  - [Life Cycle](#life-cycle)
+  - [Transmission](#transmission)
+  - [Pathogenesis](#pathogenesis)
+  - [Clinical Manifestation](#clinical-manifestation)
+  - [Clinically Dormant Stage - Latency](#clinically-dormant-stage---latency)
+  - [HIV set point](#hiv-set-point)
+  - [Time Course](#time-course)
+  - [Opportunistic Infections](#opportunistic-infections)
+  - [Neurological Disease](#neurological-disease)
+  - [Diagnostics](#diagnostics)
+- [HIV Antiviral Models](#hiv-antiviral-models)
+  - [Binding](#binding)
+  - [Fusion Inhib](#fusion-inhib)
+  - [Nucleoside Analogue Reverse Transcriptase Inhibitors: NRTIs](#nucleoside-analogue-reverse-transcriptase-inhibitors-nrtis)
+  - [non-nucleoside reverse transcriptase inhibitors (NNRTIs)](#non-nucleoside-reverse-transcriptase-inhibitors-nnrtis)
+  - [Integrase Inhibitors](#integrase-inhibitors)
+  - [Protease Inhibitors](#protease-inhibitors)
+  - [Highly Active Antiretroviral Therapy, or HAART](#highly-active-antiretroviral-therapy-or-haart)
+  - [Considerations When Choosing HAART](#considerations-when-choosing-haart)
+  - [Treatment Failure](#treatment-failure)
+  - [Immune Reconsitution Syndrome](#immune-reconsitution-syndrome)
+  - [Truvada - Prophylaxis](#truvada---prophylaxis)
+  - [HTLV](#htlv)
 ## Family Retroviridae
 - Alpha-Epsilonretrovirus and Lentivirus
 - Lentivirus
@@ -21,7 +49,7 @@
 - GAG - matrix, capsid, nucleosome
 - POL 
 - ENV
-- ![provirus](https://github.com/BGASM/medNotes/blob/main/MMG%2Fhivproviral.JPG)
+- ![provirus](https://github.com/BGASM/medNotes/blob/23850cbd41869d2dbb6aa7664824552e90733361/MMG%2Fimg%2Fhivproviral.JPG)
 ### Life Cycle
 - Attachment between gp120 and CD4 followed by interaction with co-receptor CCR5 or CXCR 4
 - CD4/CCR5 - R5 virus”, initial infection
@@ -67,7 +95,7 @@
 - Reflects a **stabilized HIV viral load** in a person after acute phase has ended
 - Higher set point → faster progression to AIDS
 - Viral Load > 75000 copies/ml and CD$ < 200 ml
-- ![HIV Timecourse](https://github.com/BGASM/medNotes/blob/main/MMG%2Fhivtimecourse.JPG)
+- ![HIV Timecourse](https://github.com/BGASM/medNotes/blob/23850cbd41869d2dbb6aa7664824552e90733361/MMG%2Fimg%2Fhivtimecourse.JPG)
 ### Time Course
 - Lifelong infection
 ### Opportunistic Infections
@@ -100,7 +128,7 @@
 - PCR
 - RT/PCR
 - Or assay for Ab to viral proteins by ELISA or Western
-- ![HIV Labs](https://github.com/BGASM/medNotes/blob/main/MMG%2Fhivlab.JPG)
+- ![HIV Labs](https://github.com/BGASM/medNotes/blob/23850cbd41869d2dbb6aa7664824552e90733361/MMG%2Fimg%2Fhivlab.JPG)
 1.  Combination immunoassay for HIV 1/2
 2.  DIfferentiation immunoassay
 3.  Nucleic Acid Test
@@ -155,7 +183,7 @@
 - Retrovirus that causes adult **acute T cell lymphocytic leukemia** ATLL
 - Virus is cell associated: spread via blood transfusion, sexual intercourse, or breast feeding
 - Infect CD4 t cells
-- Tax gene product activates cellular genes encoding T cell growth factos like IL2, which may cause tumor formation
+- Tax gene product activates cellular genes encoding T cell growth factos like **IL2**, which may cause **tumor** **formation**
 - **Long latent period (30 years) before leukemia**
 - Tumor cells contain proviral DNA
 - Tumor cells don't awlays express viral protein

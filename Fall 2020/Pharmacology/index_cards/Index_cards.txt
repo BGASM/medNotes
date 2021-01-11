@@ -98,19 +98,13 @@ Dobutamine; Direct Beta 1 agonist$
 
 -olol
 Betaxolol; Selective Beta 1 Antagonist
-Labetolol; Non-selective Beta Antagonist
-Partial ISA Beta 2 agonist
-Esmolol; Selective Beta 1 Antagonist
-Very short duration
-TI: Cardio Emergencies
-Nebivolol; Selective Beta 1 antagonist
-Nitric Oxide mediated
+Labetolol; Non-selective Beta Antagonist, Partial ISA Beta 2 agonist
+Esmolol; Selective Beta 1 Antagonist, Very short duration, TI: Cardio Emergencies
+Nebivolol; Selective Beta 1 antagonist, Nitric Oxide mediated
 Metoprolol; Selective Beta 1 Antagonist
 Atenolol; Selective Beta 1 antagonist
-Propranolol; Non-selective Beta 2 antagonist
-AE: Anxiety, migraines
-Timolol; Non-selective Beta antagonist
-TI: Open angle glaucoma
+Propranolol; Non-selective Beta 2 antagonist, AE: Anxiety, migraines
+Timolol; Non-selective Beta antagonist, TI: Open angle glaucoma
 
 
 -ilol

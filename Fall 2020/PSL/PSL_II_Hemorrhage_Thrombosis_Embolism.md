@@ -76,9 +76,9 @@ Desribe a thrumbus.
     
 ## Embolism
 An embolism is a **detached intravascular solid, liquid, or gaseous mass** that gets carried by blood to some other site. A *thromboembolism* is an emolism that originates from a dislodged thrombus. Emboli can lodge in a vessels that are too small to permit passage, and this can cause vascular occlusion, which can lead to ischemic necrosis/infarction.
-- Pulmonary Embolus **PE**
+- **Pulmonary Embolus** **PE**
   - Venous in nature
-  - Commonly from DVT.
+  - **Commonly from DVT.**
   - Travel through large veins, through the right side of the heart and then get trapped in pulmonary arterial vasculatire.
     - Single embolus can straddle pulmonary artery bifurcation (saddle embolus)
     - Can lodge in a pulmonary artery main branch and cause one-sided disease

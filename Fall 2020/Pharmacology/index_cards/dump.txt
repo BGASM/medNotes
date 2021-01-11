@@ -1,0 +1,87 @@
+Acetylcholine (M); Muscarinic Agonist - Esters - 
+Cause miosis for ophtalmic procedures$
+Carbachol (M); Muscarinic Agonist - Esters -
+TI:Longest duration, better choice for miosis
+Constrict pupils and lower IOP
+AE:May cause asthma if reaches PNS$
+Bethanechol; Muscarinic Agonist - Esters -
+TI: Only used diagnostically
+Asthma challenge test
+Administer via inhalation
+AE: Cardiac arrest$
+Pilocarpine; Muscarinic Agonist - Alkaloids - 
+Well-absorbed
+High affinity to muscarinic receptors in CNS and PNS
+Stimulate tears, sweating, saliva, pupil constriction and constraction of ciliary muscle
+TI: Glaucoma - Decreases IOP via topical or intraocular.
+Dry mouth
+AE: Diaphoresis if it reaches systemic circulation$
+Cevimeline; Muscarininc Agent - Synthetics -
+Selective as M1 and M3 agonist
+TI: Treat dry mouth$
+Acetylcholine (N); Nicotinic Agonist - Esters -$
+Carbachol (N); Nicotinic Agonist - Esters -$
+Succinylcholine (N); Nicotinic Agonist - Esters - $
+Nicotine; Nicotinic Agonist - Alkaloids - 
+Only nicotinic stimulant for CNS and PNS
+DESENSITIZATION: High doses it acts as a blocker.
+Higher affinity for neuronal receptors than other tissue
+CNS Stimulnat: Increase respiratory rate, tremor, convulsions, vomiting
+Parenteral Administration: Increase BP, nausea, diarrhea, bladder voiding
+TI: Nicotine replacement Therapy
+AE: Increases salivation, upset stomach, bleeding gums, throat irritation$
+Symptoms of Acute Nicotine Poisoning; Nausea, salivation, abdominal pain, vomiting, diarrhea, cold sweat, headache, dizziness, confusion, muscle weakness
+Hypotension and rapid pulse
+Labored breathing
+Convulsions
+Death$
+Varenicline; Nicotinic Agonist - Synthetics -
+Crosses BBB
+Partial agonist on nicotinic receptors in the brain
+TI: Smoking cessation
+AE: Sleep disturbances and depression$
+Neostigmine and Pyridostigmine; Reversible indirect Cholinomimetic AChE inhibitors
+Low lipid solubility
+TI: Reverse the effects of competitive NMJ blockers
+Non-depolarizing Muscle Relaxant
+Neostigmine also directly activates Nicotinic receptors$
+Physostigmine: Reversible indirect cholinomimetic AChE inhibitor
+Highly abosrbed by all routes
+Crossess BBB
+TI: Glaucoma and reversing anticholinergic poisons (like atropine)$
+Neostigmine, Pyridostigmine, and Physostigmine; USed in diagnosis of myasthenia gravis$
+Donepezil; Reversible Indirect Cholinomimetic AChE inhibitor
+CNS action
+TI: Alzeheimers$
+Galantamine; Reversible Indirect Cholinomimetic AChE inhibitor
+CNS action
+TI: Alzeheimers$
+Rivastigmine; Reversible Indirect Cholinomimetic AChE inhibitor
+CNS action
+TI: Alzeheimers$
+TOXICITY MANIFESTATION AFTER ORGANOPHOSPHATES (OPs) EXPOSURE Muscarinic symptoms;
+ **D U M B B EE L L S**
+    - **Diarrhea**
+    - Urination
+    - **Miosis**
+    - **Bronchoconstriction**
+    - Bradycardia
+    - Excitation/Emesis
+    - Lacrimation
+    - Lethargy
+    - Salivation
+    - **Sweating**
+Acute (min- 24 h): effects include actions on CNS
+Treat with atropine$
+TOXICITY MANIFESTATION AFTER ORGANOPHOSPHATES (OPs) EXPOSURE Nicitonic Symptoms;
+ Mon, Tues, Wed, tHurs, Fri
+  - Mydriasis
+  - Tachycardia
+  - Weakness
+  - Hypertension
+  - Fasciculations
+Delayed (24h - 2 weeks) and later-onset
+(encephalopathy, extrapyramidal symptoms, coma).
+No atropine.It only has antimuscarininc effects.
+ANTIDOTE to AChEi INTOXICATION (OP): Oxime agents: Pralidoxime:
+Cholinesterase regenerator if given before aging occurs (48-hours)$

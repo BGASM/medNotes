@@ -1,3 +1,16 @@
+- [Picornavirus - Rhino,](#picornavirus---rhino)
+  - [Lifecycle](#lifecycle)
+  - [Poliovirus](#poliovirus)
+  - [Coxsackieviruses: Group A and B](#coxsackieviruses-group-a-and-b)
+  - [Rhinoviruses](#rhinoviruses)
+  - [Noroviruses](#noroviruses)
+  - [Coronaviruses](#coronaviruses)
+    - [SARS-COV2](#sars-cov2)
+    - [Replication:](#replication)
+    - [SARS-COV](#sars-cov)
+    - [MERS-CoV](#mers-cov)
+  - [URT](#urt)
+    - [Rotavirus](#rotavirus)
 # Picornavirus - Rhino, 
 **Plus Strand, Non-Enveloped**
 - Enterovirus
@@ -15,7 +28,7 @@
 - Upon binding, change in virus structure.
   - RNA+ injected directly to cytoplasm
 - Picorn genome has **one large ORF**, that makes a single polyprotein.
-- ![pico genome](https://github.com/BGASM/medNotes/blob/main/MMG%2Fimg%2Fpico.JPG)
+- ![pico genome](https://github.com/BGASM/medNotes/blob/23850cbd41869d2dbb6aa7664824552e90733361/MMG%2Fimg%2Fpico.JPG)
 - Several encoded proteins are **Proteases**, that cleave polyprotein into various proteins:
   - Capsid proteins
   - **Viral replicase (RDRP)**
@@ -90,7 +103,7 @@
   4. RNA+ produced through replication, becomes genome for baby virus
   5. NESTED RNA from step 4 translated into S E M N proteins, make viral particle
   6. Spike, envelope and membrane enter ER and nucleocapsid protein combine dwith RNA+ genomic RNA. Merge into complete virus in ER-Golgi and get excreted.
-  - ![SARS COV](sars.JPG)
+  - ![SARS COV](https://github.com/BGASM/medNotes/blob/23850cbd41869d2dbb6aa7664824552e90733361/MMG%2Fimg%2Fsars.JPG)
   - Seven human coronaviruses, some common ones:
     - 229E (alpha)
     - NL63 (alpha)

@@ -5,7 +5,7 @@
     - [Muscarinic Agonist](#muscarinic-agonist)
     - [Nicotinic Agonist:](#nicotinic-agonist)
   - [Indirect Cholinomimetic: AChE inhibitors](#indirect-cholinomimetic-ache-inhibitors)
-    - [Reversible and thereapeutic](#reversible-and-thereapeutic)
+    - [Reversible and thereapeutic AChE Inhibitor](#reversible-and-thereapeutic-ache-inhibitor)
     - [Organophosphates - Irreversible, toxic](#organophosphates---irreversible-toxic)
     - [TOXICITY MANIFESTATION AFTER ORGANOPHOSPHATES (OPs) EXPOSURE:](#toxicity-manifestation-after-organophosphates-ops-exposure)
 - [Cholinolytics](#cholinolytics)
@@ -15,6 +15,12 @@
     - [Nicotinic Antagonists: NMJ blocks](#nicotinic-antagonists-nmj-blocks)
 - [Textbook Notes](#textbook-notes)
 ## Intro
+Bethanaechol
+Carbachol
+Methacholine
+Pilocarpine
+
+Also: Varenacline and Cevimeline
 ### 
 - Aceytlchole binds on both Nicotinic and Muscarinic receptors
 - On nictotinic it has an ionotropric effect, allowing passage of ions.
@@ -45,7 +51,7 @@ Drugs acting on chilinergic systems in the PNS or CNS can act as either cholinom
   - Bethanechol
     - Selectivelty stimulates urinary and GI tract
     - Does not cause bradycardia
-    - **Stimulate urinary retention**
+    - **Treat urinary retention**
   - Methacholine
     - Used for diagnostic only
     - Not used clinically
@@ -89,6 +95,7 @@ Drugs acting on chilinergic systems in the PNS or CNS can act as either cholinom
     - Partial agonist on nicotinic receptors in brain
     - TI: Smoking cessation
     - AE: Sleep disturbance and depression
+
 ### Indirect Cholinomimetic: AChE inhibitors
 - Increased amount of ACh to act in muscarinic and nicotinic receptors.
 - CNS: Enhance cholinergic function. High concentrations cause convulsions.
@@ -96,16 +103,21 @@ Drugs acting on chilinergic systems in the PNS or CNS can act as either cholinom
 - **Cardiovascular system**: **M2** Inhibitory effect on heart predominates. Little effect on vasculature. 
   - Moderate doses – increase vascular resistance and BP.
 -NMJ: Increase the strength of contraction, which may cause fasciculation and fibrillations and blockage.
-#### Reversible and thereapeutic
+#### Reversible and thereapeutic AChE Inhibitor
 
 - Neostigmine and Pyridostigmine: Reversible
     - Low lipid solube so poort absorption
     - TI: Reverse effects of competititve NMJ blockers (**non-depolarizing muscle releaxant**)
     - Note, neostigmine also directly activates nicotinic receptors
+
+
 - Physostigmine: Reversible
   - Highly abosrbed by all routes
   - Access to CNS
-  - TI: Glaucoma and reversing anticholinergic poisoning (like from atropine)
+  - TI: **Glaucoma and reversing anticholinergic poisoning (like from atropine)**
+
+
+
 - **NEOSTIGMINE, PYRIDOSTIGMINE, and PHYSOSTIGMINE**:
   -  **Myasthenia gravis (dec progression symptoms) Diagnosis of myasthenia gravis.**
 -  Donepezil, Galantamine, Rivastigmine: Reversible
@@ -168,6 +180,8 @@ Drugs acting on chilinergic systems in the PNS or CNS can act as either cholinom
 - Atropine, Scopolamine: Inhibit **excessive salivation and mucus secretion during surgery**
 - Scopolamine: motion sickness
 - Solifenacin, Tolterodine, Oxybutynin: Urinary bladder spasm/incontinence M1 and M3 affinity -> **OAB**
+
+
 - **Desloratadine and Diphenhydramine** - Antihistamine drugs with additional muscarinic antagonists mech.
 - Antimuscarinic Syndrome:
   - Red as a beet - skin flushed
