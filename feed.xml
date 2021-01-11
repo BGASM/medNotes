@@ -3,7 +3,7 @@
     <title>BHOLE</title>
     <link href="https://BGASM.github.io/medNotes/feed.xml" rel="self" />
     <link href="https://BGASM.github.io/medNotes" />
-    <updated>2021-01-11T09:19:41-05:00</updated>
+    <updated>2021-01-11T09:31:11-05:00</updated>
     <author>
         <name>William Slattery</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://BGASM.github.io/medNotes/nms03-principles-of-neurobiology-ii.html"/>
         <id>https://BGASM.github.io/medNotes/nms03-principles-of-neurobiology-ii.html</id>
 
-        <updated>2021-01-11T09:19:41-05:00</updated>
+        <updated>2021-01-11T09:31:11-05:00</updated>
             <summary>
                 <![CDATA[
                     LOsDefine and use following terms: circuit/pathway, decussation, lesion, primary/secondary/tertiary neurons, homunculus Describe in broad detail the pathway for detecting pain from the body, and how primary sensationis only one part of experiencing pain. Describe the homunculus and its use. Describe the limbic system and its&hellip;
@@ -104,7 +104,7 @@ thalamus</li>
 <ul>
 <li>All inputs and outputs of the cortex are bodymapped.</li>
 <li>Somatosensory and Motor homunculus are a artistic representation of cortex body mapping.
-<figure class="post__image"><img loading="lazy" src="http://github.com/BGASM/medNotes/blob/main/Spring%202021/Neuro/homonc.png" data-is-external-image="true"  alt="Homonculus" /></figure></li>
+<figure class="post__image"><img loading="lazy" src="https://BGASM.github.io/medNotes/media/posts/18/homonc.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://BGASM.github.io/medNotes/media/posts/18/responsive/homonc-xs.png 300w ,https://BGASM.github.io/medNotes/media/posts/18/responsive/homonc-sm.png 480w ,https://BGASM.github.io/medNotes/media/posts/18/responsive/homonc-md.png 768w ,https://BGASM.github.io/medNotes/media/posts/18/responsive/homonc-lg.png 1024w ,https://BGASM.github.io/medNotes/media/posts/18/responsive/homonc-xl.png 1360w ,https://BGASM.github.io/medNotes/media/posts/18/responsive/homonc-2xl.png 1600w"  alt="Image description" width="433" height="499" /></figure></li>
 </ul>
 <h3 id="primary-sensation-vs-pain">Primary Sensation vs “Pain”</h3>
 <ul>
